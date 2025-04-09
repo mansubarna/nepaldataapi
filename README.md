@@ -1,8 +1,8 @@
-# Scrapper Project
+# Nepali Data
 
 ## Overview
-This project is a web scraping tool designed to extract and process data from https://nationaldata.gov.np/ websites efficiently. It automates the process of gathering information, saving time and effort.
-"# nepaldata" 
+This is an educational purpose project to learn building API in NextJs. It can be used to fetch the information of nepal, it's province, districts, local levels and it wards. 
+Get the data for nepal
 
 ## Endpoints
 /api/province
