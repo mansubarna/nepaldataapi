@@ -29,9 +29,9 @@ export default function Home() {
           </a> - Fetch all districts
         </li>
         <li>
-          <a href="/api/district/1" target="_blank" rel="noopener noreferrer">
-            <code>/api/district/1</code>
-          </a> - Fetch details of district 1
+          <a href="/api/district/106" target="_blank" rel="noopener noreferrer">
+            <code>/api/district/106</code>
+          </a> - Fetch details of district 106
         </li>
         <li>
           <a href="/api/district/106/locallevel" target="_blank" rel="noopener noreferrer">

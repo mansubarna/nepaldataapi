@@ -6,10 +6,10 @@ export async function GET(req, { params }) {
 
   if (!district) {
     return NextResponse.json(
-      { 
+      {
         status: false,
         message: `District with ID ${params.id} was not found. Please check the ID and try again.`,
-        districtId: params.id 
+        districtId: params.id
       },
       { status: 404 }
     );
@@ -28,7 +28,7 @@ export async function GET(req, { params }) {
       status: true,
       districtId,
       districtName,
-      locallevels,
+      data: locallevels,
       count: locallevels.length
     },
     { status: 200 }

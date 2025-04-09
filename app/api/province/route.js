@@ -3,11 +3,18 @@ import { NextResponse } from 'next/server';
 
 export function GET() {
   try {
-    const provinces = data.provinces.map(p => ({ id: p.id, name: p.name }));
+    const provinces = data.provinces.map(p => ({
+      id: p.id,
+      name: p.name,
+      districts: p.districts.length
+    }));
     return NextResponse.json({
       success: true,
       message: 'Provinces fetched successfully',
-      data: provinces
+      data: provinces,
+      count: provinces.length
+    }, {
+      status: 200
     });
   } catch (error) {
     return NextResponse.json({
