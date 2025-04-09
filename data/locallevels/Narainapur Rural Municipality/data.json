@@ -1,0 +1,31 @@
+{
+  "localLevel": "Narainapur Rural Municipality",
+  "localLevelId": "51108",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5211"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5212"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5213"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5214"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5215"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5216"
+    }
+  ],
+  "count": 6
+}

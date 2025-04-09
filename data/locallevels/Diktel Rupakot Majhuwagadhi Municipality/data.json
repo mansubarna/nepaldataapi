@@ -1,0 +1,67 @@
+{
+  "localLevel": "Diktel Rupakot Majhuwagadhi Municipality",
+  "localLevelId": "10505",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/296"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/297"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/298"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/299"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/300"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/301"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/302"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/303"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/304"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/305"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/306"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/307"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/308"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/309"
+    },
+    {
+      "no": "15",
+      "href": "/Ward/Index/310"
+    }
+  ],
+  "count": 15
+}

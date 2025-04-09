@@ -1,0 +1,27 @@
+{
+  "localLevel": "Konjyosom Rural Municipality",
+  "localLevelId": "30804",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3054"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3055"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3056"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3057"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3058"
+    }
+  ],
+  "count": 5
+}

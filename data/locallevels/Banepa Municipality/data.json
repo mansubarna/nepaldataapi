@@ -1,0 +1,63 @@
+{
+  "localLevel": "Banepa Municipality",
+  "localLevelId": "30904",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3103"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3104"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3105"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3106"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3107"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3108"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3109"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3110"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3111"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/3112"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/3113"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/3114"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/3115"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/3116"
+    }
+  ],
+  "count": 14
+}

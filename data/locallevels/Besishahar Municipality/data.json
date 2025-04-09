@@ -1,0 +1,51 @@
+{
+  "localLevel": "Besishahar Municipality",
+  "localLevelId": "40605",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3851"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3852"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3853"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3854"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3855"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3856"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3857"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3858"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3859"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/3860"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/3861"
+    }
+  ],
+  "count": 11
+}

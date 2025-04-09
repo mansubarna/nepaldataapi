@@ -1,0 +1,63 @@
+{
+  "localLevel": "Katari Municipality",
+  "localLevelId": "11407",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1136"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1137"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1138"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1139"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1140"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1141"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1142"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1143"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1144"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/1145"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/1146"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/1147"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/1148"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/1149"
+    }
+  ],
+  "count": 14
+}

@@ -1,0 +1,27 @@
+{
+  "localLevel": "Tarakhola Rural Municipality",
+  "localLevelId": "41103",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4246"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4247"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4248"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4249"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4250"
+    }
+  ],
+  "count": 5
+}

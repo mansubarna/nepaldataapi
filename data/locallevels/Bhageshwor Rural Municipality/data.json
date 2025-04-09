@@ -1,0 +1,27 @@
+{
+  "localLevel": "Bhageshwor Rural Municipality",
+  "localLevelId": "70504",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6340"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6341"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6342"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6343"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6344"
+    }
+  ],
+  "count": 5
+}

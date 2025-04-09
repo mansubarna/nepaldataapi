@@ -1,0 +1,35 @@
+{
+  "localLevel": "Umakunda Rural Municipality",
+  "localLevelId": "31001",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3207"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3208"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3209"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3210"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3211"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3212"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3213"
+    }
+  ],
+  "count": 7
+}

@@ -1,0 +1,35 @@
+{
+  "localLevel": "Dhawalagiri Rural Municipality",
+  "localLevelId": "40403",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3713"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3714"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3715"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3716"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3717"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3718"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3719"
+    }
+  ],
+  "count": 7
+}

@@ -1,0 +1,59 @@
+{
+  "localLevel": "Bidur Municipality",
+  "localLevelId": "30504",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2755"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2756"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2757"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2758"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2759"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2760"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2761"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2762"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2763"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/2764"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/2765"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/2766"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/2767"
+    }
+  ],
+  "count": 13
+}

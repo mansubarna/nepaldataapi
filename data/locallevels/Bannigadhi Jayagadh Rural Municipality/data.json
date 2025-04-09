@@ -1,0 +1,31 @@
+{
+  "localLevel": "Bannigadhi Jayagadh Rural Municipality",
+  "localLevelId": "70707",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6494"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6495"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6496"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6497"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6498"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6499"
+    }
+  ],
+  "count": 6
+}

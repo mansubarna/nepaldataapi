@@ -1,0 +1,63 @@
+{
+  "localLevel": "Baglung Municipality",
+  "localLevelId": "41101",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4224"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4225"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4226"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4227"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4228"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4229"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4230"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4231"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4232"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/4233"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/4234"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/4235"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/4236"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/4237"
+    }
+  ],
+  "count": 14
+}

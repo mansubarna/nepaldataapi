@@ -1,0 +1,59 @@
+{
+  "district": "Bajhang",
+  "districtId": "702",
+  "localLevels": [
+    {
+      "name": "Saipal Rural Municipality",
+      "href": "/LocalLevel/Index/70201"
+    },
+    {
+      "name": "Bungal Municipality",
+      "href": "/LocalLevel/Index/70202"
+    },
+    {
+      "name": "Surma Rural Municipality",
+      "href": "/LocalLevel/Index/70203"
+    },
+    {
+      "name": "Talkot Rural Municipality",
+      "href": "/LocalLevel/Index/70204"
+    },
+    {
+      "name": "Masta Rural Municipality",
+      "href": "/LocalLevel/Index/70205"
+    },
+    {
+      "name": "Jayaprithvi Municipality",
+      "href": "/LocalLevel/Index/70206"
+    },
+    {
+      "name": "Chhabis Pathibhera Rural Municipality",
+      "href": "/LocalLevel/Index/70207"
+    },
+    {
+      "name": "Durgathali Rural Municipality",
+      "href": "/LocalLevel/Index/70208"
+    },
+    {
+      "name": "Kedarsyun Rural Municipality",
+      "href": "/LocalLevel/Index/70209"
+    },
+    {
+      "name": "Bitthadchir Rural Municipality",
+      "href": "/LocalLevel/Index/70210"
+    },
+    {
+      "name": "Thalara Rural Municipality",
+      "href": "/LocalLevel/Index/70211"
+    },
+    {
+      "name": "Khaptadchhanna Rural Municipality",
+      "href": "/LocalLevel/Index/70212"
+    },
+    {
+      "name": "Khaptad National Park",
+      "href": "#"
+    }
+  ],
+  "count": 13
+}

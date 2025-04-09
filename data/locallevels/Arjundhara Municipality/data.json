@@ -1,0 +1,51 @@
+{
+  "localLevel": "Arjundhara Municipality",
+  "localLevelId": "11103",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/691"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/692"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/693"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/694"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/695"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/696"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/697"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/698"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/699"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/700"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/701"
+    }
+  ],
+  "count": 11
+}

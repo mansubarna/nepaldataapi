@@ -1,0 +1,47 @@
+{
+  "district": "Khotang",
+  "districtId": "105",
+  "localLevels": [
+    {
+      "name": "Ainselukharka Rural Municipality",
+      "href": "/LocalLevel/Index/10502"
+    },
+    {
+      "name": "Barahapokhari Rural Municipality",
+      "href": "/LocalLevel/Index/10510"
+    },
+    {
+      "name": "Diprung Chuichumma Rural Municipality",
+      "href": "/LocalLevel/Index/10507"
+    },
+    {
+      "name": "Halesi Tuwachung Municipality",
+      "href": "/LocalLevel/Index/10504"
+    },
+    {
+      "name": "Jantedhunga Rural Municipality",
+      "href": "/LocalLevel/Index/10509"
+    },
+    {
+      "name": "Kepilasgadhi Rural Municipality",
+      "href": "/LocalLevel/Index/10501"
+    },
+    {
+      "name": "Khotehang Rural Municipality",
+      "href": "/LocalLevel/Index/10508"
+    },
+    {
+      "name": "Rawabesi Rural Municipality",
+      "href": "/LocalLevel/Index/10503"
+    },
+    {
+      "name": "Diktel Rupakot Majhuwagadhi Municipality",
+      "href": "/LocalLevel/Index/10505"
+    },
+    {
+      "name": "Sakela Rural Municipality",
+      "href": "/LocalLevel/Index/10506"
+    }
+  ],
+  "count": 10
+}

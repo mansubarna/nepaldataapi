@@ -1,0 +1,43 @@
+{
+  "localLevel": "Rangeli Municipality",
+  "localLevelId": "11211",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/896"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/897"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/898"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/899"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/900"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/901"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/902"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/903"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/904"
+    }
+  ],
+  "count": 9
+}

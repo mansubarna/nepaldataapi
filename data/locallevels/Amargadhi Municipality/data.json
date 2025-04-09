@@ -1,0 +1,51 @@
+{
+  "localLevel": "Amargadhi Municipality",
+  "localLevelId": "70502",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6323"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6324"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6325"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6326"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6327"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6328"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6329"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6330"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/6331"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/6332"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/6333"
+    }
+  ],
+  "count": 11
+}

@@ -1,0 +1,55 @@
+{
+  "localLevel": "Bagmati Municipality",
+  "localLevelId": "20503",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1821"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1822"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1823"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1824"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1825"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1826"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1827"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1828"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1829"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/1830"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/1831"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/1832"
+    }
+  ],
+  "count": 12
+}

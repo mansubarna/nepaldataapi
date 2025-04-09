@@ -1,0 +1,51 @@
+{
+  "localLevel": "Khadak Municipality",
+  "localLevelId": "20106",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1205"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1206"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1207"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1208"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1209"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1210"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1211"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1212"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1213"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/1214"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/1215"
+    }
+  ],
+  "count": 11
+}

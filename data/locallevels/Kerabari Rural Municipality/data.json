@@ -1,0 +1,47 @@
+{
+  "localLevel": "Kerabari Rural Municipality",
+  "localLevelId": "11203",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/818"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/819"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/820"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/821"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/822"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/823"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/824"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/825"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/826"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/827"
+    }
+  ],
+  "count": 10
+}

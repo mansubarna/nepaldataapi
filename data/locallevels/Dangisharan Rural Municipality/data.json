@@ -1,0 +1,35 @@
+{
+  "localLevel": "Dangisharan Rural Municipality",
+  "localLevelId": "51006",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5096"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5097"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5098"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5099"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5100"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5101"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5102"
+    }
+  ],
+  "count": 7
+}

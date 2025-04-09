@@ -1,0 +1,31 @@
+{
+  "localLevel": "Barahapokhari Rural Municipality",
+  "localLevelId": "10510",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/338"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/339"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/340"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/341"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/342"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/343"
+    }
+  ],
+  "count": 6
+}

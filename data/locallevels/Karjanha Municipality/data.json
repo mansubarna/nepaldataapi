@@ -1,0 +1,51 @@
+{
+  "localLevel": "Karjanha Municipality",
+  "localLevelId": "20205",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1385"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1386"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1387"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1388"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1389"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1390"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1391"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1392"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1393"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/1394"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/1395"
+    }
+  ],
+  "count": 11
+}

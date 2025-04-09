@@ -1,0 +1,47 @@
+{
+  "localLevel": "Rajapur Municipality",
+  "localLevelId": "51205",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5252"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5253"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5254"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5255"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5256"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5257"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5258"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5259"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5260"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/5261"
+    }
+  ],
+  "count": 10
+}

@@ -1,0 +1,47 @@
+{
+  "localLevel": "Purchaudi Municipality",
+  "localLevelId": "70403",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6249"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6250"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6251"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6252"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6253"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6254"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6255"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6256"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/6257"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/6258"
+    }
+  ],
+  "count": 10
+}

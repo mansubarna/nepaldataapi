@@ -1,0 +1,47 @@
+{
+  "localLevel": "Kirtipur Municipality",
+  "localLevelId": "30609",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2929"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2930"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2931"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2932"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2933"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2934"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2935"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2936"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2937"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/2938"
+    }
+  ],
+  "count": 10
+}

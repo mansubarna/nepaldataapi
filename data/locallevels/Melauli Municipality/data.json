@@ -1,0 +1,43 @@
+{
+  "localLevel": "Melauli Municipality",
+  "localLevelId": "70408",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6290"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6291"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6292"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6293"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6294"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6295"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6296"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6297"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/6298"
+    }
+  ],
+  "count": 9
+}

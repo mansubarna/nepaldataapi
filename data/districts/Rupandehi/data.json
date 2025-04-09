@@ -1,0 +1,71 @@
+{
+  "district": "Rupandehi",
+  "districtId": "508",
+  "localLevels": [
+    {
+      "name": "Devdaha Municipality",
+      "href": "/LocalLevel/Index/50801"
+    },
+    {
+      "name": "Butwal Sub-Metropolitan City",
+      "href": "/LocalLevel/Index/50802"
+    },
+    {
+      "name": "Sainamaina Municipality",
+      "href": "/LocalLevel/Index/50803"
+    },
+    {
+      "name": "Kanchan Rural Municipality",
+      "href": "/LocalLevel/Index/50804"
+    },
+    {
+      "name": "Gaidahawa Rural Municipality",
+      "href": "/LocalLevel/Index/50805"
+    },
+    {
+      "name": "Suddhodan Rural Municipality",
+      "href": "/LocalLevel/Index/50806"
+    },
+    {
+      "name": "Siyari Rural Municipality",
+      "href": "/LocalLevel/Index/50807"
+    },
+    {
+      "name": "Tilottama Municipality",
+      "href": "/LocalLevel/Index/50808"
+    },
+    {
+      "name": "Omsatiya Rural Municipality",
+      "href": "/LocalLevel/Index/50809"
+    },
+    {
+      "name": "Rohini Rural Municipality",
+      "href": "/LocalLevel/Index/50810"
+    },
+    {
+      "name": "Siddharthanagar Municipality",
+      "href": "/LocalLevel/Index/50811"
+    },
+    {
+      "name": "Mayadevi Rural Municipality",
+      "href": "/LocalLevel/Index/50812"
+    },
+    {
+      "name": "Lumbini Sanskritik Municipality",
+      "href": "/LocalLevel/Index/50813"
+    },
+    {
+      "name": "Kotahimai Rural Municipality",
+      "href": "/LocalLevel/Index/50814"
+    },
+    {
+      "name": "Sammarimai Rural Municipality",
+      "href": "/LocalLevel/Index/50815"
+    },
+    {
+      "name": "Marchawari Rural Municipality",
+      "href": "/LocalLevel/Index/50816"
+    }
+  ],
+  "count": 16
+}

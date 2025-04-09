@@ -1,0 +1,31 @@
+{
+  "localLevel": "Apihimal Rural Municipality",
+  "localLevelId": "70305",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6199"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6200"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6201"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6202"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6203"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6204"
+    }
+  ],
+  "count": 6
+}

@@ -1,0 +1,39 @@
+{
+  "localLevel": "Malikarjun Rural Municipality",
+  "localLevelId": "70308",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6220"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6221"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6222"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6223"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6224"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6225"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6226"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6227"
+    }
+  ],
+  "count": 8
+}

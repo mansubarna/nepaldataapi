@@ -1,0 +1,39 @@
+{
+  "district": "Banke",
+  "districtId": "511",
+  "localLevels": [
+    {
+      "name": "Rapti Sonari Rural Municipality",
+      "href": "/LocalLevel/Index/51101"
+    },
+    {
+      "name": "Kohalpur Municipality",
+      "href": "/LocalLevel/Index/51102"
+    },
+    {
+      "name": "Baijanath Rural Municipality",
+      "href": "/LocalLevel/Index/51103"
+    },
+    {
+      "name": "Khajura Rural Municipality",
+      "href": "/LocalLevel/Index/51104"
+    },
+    {
+      "name": "Janaki Rural Municipality",
+      "href": "/LocalLevel/Index/51105"
+    },
+    {
+      "name": "Nepalgunj Sub-Metropolitan City",
+      "href": "/LocalLevel/Index/51106"
+    },
+    {
+      "name": "Duduwa Rural Municipality",
+      "href": "/LocalLevel/Index/51107"
+    },
+    {
+      "name": "Narainapur Rural Municipality",
+      "href": "/LocalLevel/Index/51108"
+    }
+  ],
+  "count": 8
+}

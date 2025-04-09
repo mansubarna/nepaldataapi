@@ -1,0 +1,39 @@
+{
+  "localLevel": "Galchhi Rural Municipality",
+  "localLevelId": "30411",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2709"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2710"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2711"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2712"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2713"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2714"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2715"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2716"
+    }
+  ],
+  "count": 8
+}

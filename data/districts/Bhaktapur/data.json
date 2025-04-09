@@ -1,0 +1,23 @@
+{
+  "district": "Bhaktapur",
+  "districtId": "307",
+  "localLevels": [
+    {
+      "name": "Changunarayan Municipality",
+      "href": "/LocalLevel/Index/30701"
+    },
+    {
+      "name": "Bhaktapur Municipality",
+      "href": "/LocalLevel/Index/30702"
+    },
+    {
+      "name": "Madhyapur Thimi Municipality",
+      "href": "/LocalLevel/Index/30703"
+    },
+    {
+      "name": "Suryabinayak Municipality",
+      "href": "/LocalLevel/Index/30704"
+    }
+  ],
+  "count": 4
+}

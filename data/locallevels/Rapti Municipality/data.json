@@ -1,0 +1,59 @@
+{
+  "localLevel": "Rapti Municipality",
+  "localLevelId": "31301",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3452"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3453"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3454"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3455"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3456"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3457"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3458"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3459"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3460"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/3461"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/3462"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/3463"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/3464"
+    }
+  ],
+  "count": 13
+}

@@ -1,0 +1,39 @@
+{
+  "localLevel": "Simkot Rural Municipality",
+  "localLevelId": "60303",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5413"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5414"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5415"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5416"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5417"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5418"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5419"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5420"
+    }
+  ],
+  "count": 8
+}

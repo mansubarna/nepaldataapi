@@ -1,0 +1,43 @@
+{
+  "localLevel": "Changunarayan Municipality",
+  "localLevelId": "30701",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2963"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2964"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2965"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2966"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2967"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2968"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2969"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2970"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2971"
+    }
+  ],
+  "count": 9
+}

@@ -1,0 +1,27 @@
+{
+  "localLevel": "Phedikhola Rural Municipality",
+  "localLevelId": "40902",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4080"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4081"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4082"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4083"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4084"
+    }
+  ],
+  "count": 5
+}

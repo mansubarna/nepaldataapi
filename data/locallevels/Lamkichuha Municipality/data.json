@@ -1,0 +1,47 @@
+{
+  "localLevel": "Lamkichuha Municipality",
+  "localLevelId": "70807",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6580"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6581"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6582"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6583"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6584"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6585"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6586"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6587"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/6588"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/6589"
+    }
+  ],
+  "count": 10
+}

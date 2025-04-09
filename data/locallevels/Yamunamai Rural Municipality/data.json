@@ -1,0 +1,27 @@
+{
+  "localLevel": "Yamunamai Rural Municipality",
+  "localLevelId": "20614",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2113"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2114"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2115"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2116"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2117"
+    }
+  ],
+  "count": 5
+}

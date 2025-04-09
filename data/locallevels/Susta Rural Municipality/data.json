@@ -1,0 +1,27 @@
+{
+  "localLevel": "Susta Rural Municipality",
+  "localLevelId": "50707",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4780"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4781"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4782"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4783"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4784"
+    }
+  ],
+  "count": 5
+}

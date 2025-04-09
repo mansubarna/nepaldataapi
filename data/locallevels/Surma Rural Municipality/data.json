@@ -1,0 +1,27 @@
+{
+  "localLevel": "Surma Rural Municipality",
+  "localLevelId": "70203",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6095"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6096"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6097"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6098"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6099"
+    }
+  ],
+  "count": 5
+}

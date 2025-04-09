@@ -1,0 +1,79 @@
+{
+  "localLevel": "Barahathawa Municipality",
+  "localLevelId": "20504",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1833"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1834"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1835"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1836"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1837"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1838"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1839"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1840"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1841"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/1842"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/1843"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/1844"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/1845"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/1846"
+    },
+    {
+      "no": "15",
+      "href": "/Ward/Index/1847"
+    },
+    {
+      "no": "16",
+      "href": "/Ward/Index/1848"
+    },
+    {
+      "no": "17",
+      "href": "/Ward/Index/1849"
+    },
+    {
+      "no": "18",
+      "href": "/Ward/Index/1850"
+    }
+  ],
+  "count": 18
+}

@@ -1,0 +1,31 @@
+{
+  "localLevel": "Ruru Rural Municipality",
+  "localLevelId": "50412",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4563"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4564"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4565"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4566"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4567"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4568"
+    }
+  ],
+  "count": 6
+}

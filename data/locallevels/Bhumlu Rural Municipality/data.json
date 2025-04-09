@@ -1,0 +1,47 @@
+{
+  "localLevel": "Bhumlu Rural Municipality",
+  "localLevelId": "30902",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3081"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3082"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3083"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3084"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3085"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3086"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3087"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3088"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3089"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/3090"
+    }
+  ],
+  "count": 10
+}

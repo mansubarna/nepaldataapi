@@ -1,0 +1,27 @@
+{
+  "localLevel": "Ajirkot Rural Municipality",
+  "localLevelId": "40102",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3557"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3558"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3559"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3560"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3561"
+    }
+  ],
+  "count": 5
+}

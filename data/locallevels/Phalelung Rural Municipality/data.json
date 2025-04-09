@@ -1,0 +1,39 @@
+{
+  "localLevel": "Phalelung Rural Municipality",
+  "localLevelId": "10903",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/541"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/542"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/543"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/544"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/545"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/546"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/547"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/548"
+    }
+  ],
+  "count": 8
+}

@@ -1,0 +1,35 @@
+{
+  "localLevel": "Phalgunanda Rural Municipality",
+  "localLevelId": "10905",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/563"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/564"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/565"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/566"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/567"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/568"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/569"
+    }
+  ],
+  "count": 7
+}

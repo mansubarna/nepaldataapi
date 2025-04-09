@@ -1,0 +1,63 @@
+{
+  "localLevel": "Suryodaya Municipality",
+  "localLevelId": "11009",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/649"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/650"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/651"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/652"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/653"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/654"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/655"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/656"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/657"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/658"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/659"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/660"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/661"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/662"
+    }
+  ],
+  "count": 14
+}

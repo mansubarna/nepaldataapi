@@ -1,0 +1,31 @@
+{
+  "localLevel": "Palhinandan Rural Municipality",
+  "localLevelId": "50704",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4758"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4759"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4760"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4761"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4762"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4763"
+    }
+  ],
+  "count": 6
+}

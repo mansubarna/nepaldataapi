@@ -1,0 +1,47 @@
+{
+  "localLevel": "Beni Municipality",
+  "localLevelId": "40406",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3732"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3733"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3734"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3735"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3736"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3737"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3738"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3739"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3740"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/3741"
+    }
+  ],
+  "count": 10
+}

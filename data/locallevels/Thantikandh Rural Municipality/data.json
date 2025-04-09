@@ -1,0 +1,31 @@
+{
+  "localLevel": "Thantikandh Rural Municipality",
+  "localLevelId": "60604",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5609"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5610"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5611"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5612"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5613"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5614"
+    }
+  ],
+  "count": 6
+}

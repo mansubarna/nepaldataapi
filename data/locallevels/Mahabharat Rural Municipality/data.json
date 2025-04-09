@@ -1,0 +1,39 @@
+{
+  "localLevel": "Mahabharat Rural Municipality",
+  "localLevelId": "30912",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3192"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3193"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3194"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3195"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3196"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3197"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3198"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3199"
+    }
+  ],
+  "count": 8
+}

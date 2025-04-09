@@ -1,0 +1,31 @@
+{
+  "localLevel": "Nechasalyan Rural Municipality",
+  "localLevelId": "10306",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/169"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/170"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/171"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/172"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/173"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/174"
+    }
+  ],
+  "count": 6
+}

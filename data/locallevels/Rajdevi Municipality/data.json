@@ -1,0 +1,43 @@
+{
+  "localLevel": "Rajdevi Municipality",
+  "localLevelId": "20616",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2123"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2124"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2125"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2126"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2127"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2128"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2129"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2130"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2131"
+    }
+  ],
+  "count": 9
+}

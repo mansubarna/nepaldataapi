@@ -1,0 +1,39 @@
+{
+  "localLevel": "Sirijangha Rural Municipality",
+  "localLevelId": "10108",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/47"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/48"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/49"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/50"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/51"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/52"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/53"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/54"
+    }
+  ],
+  "count": 8
+}

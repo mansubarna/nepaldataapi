@@ -1,0 +1,43 @@
+{
+  "localLevel": "Runtigadhi Rural Municipality",
+  "localLevelId": "50208",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4388"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4389"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4390"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4391"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4392"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4393"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4394"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4395"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4396"
+    }
+  ],
+  "count": 9
+}

@@ -1,0 +1,39 @@
+{
+  "localLevel": "Suvarna Rural Municipality",
+  "localLevelId": "20716",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2309"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2310"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2311"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2312"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2313"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2314"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2315"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2316"
+    }
+  ],
+  "count": 8
+}

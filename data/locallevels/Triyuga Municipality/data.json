@@ -1,0 +1,71 @@
+{
+  "localLevel": "Triyuga Municipality",
+  "localLevelId": "11403",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1102"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1103"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1104"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1105"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1106"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1107"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1108"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1109"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1110"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/1111"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/1112"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/1113"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/1114"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/1115"
+    },
+    {
+      "no": "15",
+      "href": "/Ward/Index/1116"
+    },
+    {
+      "no": "16",
+      "href": "/Ward/Index/1117"
+    }
+  ],
+  "count": 16
+}

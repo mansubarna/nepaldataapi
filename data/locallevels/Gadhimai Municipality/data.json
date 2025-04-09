@@ -1,0 +1,43 @@
+{
+  "localLevel": "Gadhimai Municipality",
+  "localLevelId": "20606",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2041"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2042"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2043"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2044"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2045"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2046"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2047"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2048"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2049"
+    }
+  ],
+  "count": 9
+}

@@ -1,0 +1,43 @@
+{
+  "localLevel": "Sigas Rural Municipality",
+  "localLevelId": "70410",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6309"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6310"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6311"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6312"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6313"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6314"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6315"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6316"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/6317"
+    }
+  ],
+  "count": 9
+}

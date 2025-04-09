@@ -1,0 +1,47 @@
+{
+  "province": "Karnali",
+  "provinceId": "6",
+  "districts": [
+    {
+      "name": "Dailekh",
+      "href": "/District/Index/606"
+    },
+    {
+      "name": "Dolpa",
+      "href": "/District/Index/601"
+    },
+    {
+      "name": "Humla",
+      "href": "/District/Index/603"
+    },
+    {
+      "name": "Jajarkot",
+      "href": "/District/Index/607"
+    },
+    {
+      "name": "Jumla",
+      "href": "/District/Index/604"
+    },
+    {
+      "name": "kalikot",
+      "href": "/District/Index/605"
+    },
+    {
+      "name": "Mugu",
+      "href": "/District/Index/602"
+    },
+    {
+      "name": "Salyan",
+      "href": "/District/Index/609"
+    },
+    {
+      "name": "Surkhet",
+      "href": "/District/Index/610"
+    },
+    {
+      "name": "Rukum-West",
+      "href": "/District/Index/608"
+    }
+  ],
+  "count": 10
+}

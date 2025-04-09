@@ -1,0 +1,63 @@
+{
+  "province": "Koshi",
+  "provinceId": "1",
+  "districts": [
+    {
+      "name": "Bhojpur",
+      "href": "/District/Index/106"
+    },
+    {
+      "name": "Dhankuta",
+      "href": "/District/Index/107"
+    },
+    {
+      "name": "Illam",
+      "href": "/District/Index/110"
+    },
+    {
+      "name": "Jhapa",
+      "href": "/District/Index/111"
+    },
+    {
+      "name": "Khotang",
+      "href": "/District/Index/105"
+    },
+    {
+      "name": "Morang",
+      "href": "/District/Index/112"
+    },
+    {
+      "name": "Okhaldhunga",
+      "href": "/District/Index/104"
+    },
+    {
+      "name": "Panchthar",
+      "href": "/District/Index/109"
+    },
+    {
+      "name": "Sankhuwasabha",
+      "href": "/District/Index/102"
+    },
+    {
+      "name": "Solukhumbu",
+      "href": "/District/Index/103"
+    },
+    {
+      "name": "Sunsari",
+      "href": "/District/Index/113"
+    },
+    {
+      "name": "Taplejung",
+      "href": "/District/Index/101"
+    },
+    {
+      "name": "Tehrathum",
+      "href": "/District/Index/108"
+    },
+    {
+      "name": "Udaypur",
+      "href": "/District/Index/114"
+    }
+  ],
+  "count": 14
+}

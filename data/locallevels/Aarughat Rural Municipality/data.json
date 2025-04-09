@@ -1,0 +1,47 @@
+{
+  "localLevel": "Aarughat Rural Municipality",
+  "localLevelId": "40105",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3577"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3578"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3579"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3580"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3581"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3582"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3583"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3584"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3585"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/3586"
+    }
+  ],
+  "count": 10
+}

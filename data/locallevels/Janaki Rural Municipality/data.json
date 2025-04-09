@@ -1,0 +1,43 @@
+{
+  "localLevel": "Janaki Rural Municipality",
+  "localLevelId": "70808",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6590"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6591"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6592"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6593"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6594"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6595"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6596"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6597"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/6598"
+    }
+  ],
+  "count": 9
+}

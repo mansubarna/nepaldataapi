@@ -1,0 +1,39 @@
+{
+  "localLevel": "Ramprasadrai Rural Municipality",
+  "localLevelId": "10607",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/398"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/399"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/400"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/401"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/402"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/403"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/404"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/405"
+    }
+  ],
+  "count": 8
+}

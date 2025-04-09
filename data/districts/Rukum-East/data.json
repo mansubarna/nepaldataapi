@@ -1,0 +1,23 @@
+{
+  "district": "Rukum-East",
+  "districtId": "501",
+  "localLevels": [
+    {
+      "name": "Putha Uttarganga Rural Municipality",
+      "href": "/LocalLevel/Index/50101"
+    },
+    {
+      "name": "Sisne Rural Municipality",
+      "href": "/LocalLevel/Index/50102"
+    },
+    {
+      "name": "Bhume Rural Municipality",
+      "href": "/LocalLevel/Index/50103"
+    },
+    {
+      "name": "Dhorpatan Wildlife Reserve",
+      "href": "#"
+    }
+  ],
+  "count": 4
+}

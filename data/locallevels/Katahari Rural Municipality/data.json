@@ -1,0 +1,35 @@
+{
+  "localLevel": "Katahari Rural Municipality",
+  "localLevelId": "11215",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/938"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/939"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/940"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/941"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/942"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/943"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/944"
+    }
+  ],
+  "count": 7
+}

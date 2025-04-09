@@ -1,0 +1,39 @@
+{
+  "localLevel": "Surnaya Rural Municipality",
+  "localLevelId": "70404",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6259"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6260"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6261"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6262"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6263"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6264"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6265"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6266"
+    }
+  ],
+  "count": 8
+}

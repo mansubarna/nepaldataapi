@@ -1,0 +1,43 @@
+{
+  "localLevel": "Gokarneshwor Municipality",
+  "localLevelId": "30603",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2843"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2844"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2845"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2846"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2847"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2848"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2849"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2850"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2851"
+    }
+  ],
+  "count": 9
+}

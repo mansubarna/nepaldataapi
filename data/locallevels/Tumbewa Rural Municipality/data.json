@@ -1,0 +1,27 @@
+{
+  "localLevel": "Tumbewa Rural Municipality",
+  "localLevelId": "10907",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/575"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/576"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/577"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/578"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/579"
+    }
+  ],
+  "count": 5
+}

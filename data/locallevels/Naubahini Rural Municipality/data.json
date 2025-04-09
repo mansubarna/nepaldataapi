@@ -1,0 +1,39 @@
+{
+  "localLevel": "Naubahini Rural Municipality",
+  "localLevelId": "50302",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4419"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4420"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4421"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4422"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4423"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4424"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4425"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4426"
+    }
+  ],
+  "count": 8
+}

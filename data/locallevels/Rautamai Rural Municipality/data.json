@@ -1,0 +1,39 @@
+{
+  "localLevel": "Rautamai Rural Municipality",
+  "localLevelId": "11404",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1118"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1119"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1120"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1121"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1122"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1123"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1124"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1125"
+    }
+  ],
+  "count": 8
+}

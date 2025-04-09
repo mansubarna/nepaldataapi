@@ -1,0 +1,39 @@
+{
+  "province": "Madhesh",
+  "provinceId": "2",
+  "districts": [
+    {
+      "name": "Bara",
+      "href": "/District/Index/207"
+    },
+    {
+      "name": "Dhanusha",
+      "href": "/District/Index/203"
+    },
+    {
+      "name": "Mahottari",
+      "href": "/District/Index/204"
+    },
+    {
+      "name": "Parsa",
+      "href": "/District/Index/208"
+    },
+    {
+      "name": "Rautahat",
+      "href": "/District/Index/206"
+    },
+    {
+      "name": "Saptari",
+      "href": "/District/Index/201"
+    },
+    {
+      "name": "Sarlahi",
+      "href": "/District/Index/205"
+    },
+    {
+      "name": "Siraha",
+      "href": "/District/Index/202"
+    }
+  ],
+  "count": 8
+}

@@ -1,0 +1,35 @@
+{
+  "localLevel": "Ramnagar Rural Municipality",
+  "localLevelId": "20515",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1936"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1937"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1938"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1939"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1940"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1941"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1942"
+    }
+  ],
+  "count": 7
+}

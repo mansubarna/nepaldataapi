@@ -1,0 +1,31 @@
+{
+  "localLevel": "Chingad Rural Municipality",
+  "localLevelId": "61002",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5920"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5921"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5922"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5923"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5924"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5925"
+    }
+  ],
+  "count": 6
+}

@@ -1,0 +1,27 @@
+{
+  "localLevel": "Thawang Rural Municipality",
+  "localLevelId": "50202",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4347"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4348"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4349"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4350"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4351"
+    }
+  ],
+  "count": 5
+}

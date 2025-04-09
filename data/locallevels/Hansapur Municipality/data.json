@@ -1,0 +1,43 @@
+{
+  "localLevel": "Hansapur Municipality",
+  "localLevelId": "20308",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1549"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1550"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1551"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1552"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1553"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1554"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1555"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1556"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1557"
+    }
+  ],
+  "count": 9
+}

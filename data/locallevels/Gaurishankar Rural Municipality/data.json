@@ -1,0 +1,43 @@
+{
+  "localLevel": "Gaurishankar Rural Municipality",
+  "localLevelId": "30101",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2429"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2430"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2431"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2432"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2433"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2434"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2435"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2436"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2437"
+    }
+  ],
+  "count": 9
+}

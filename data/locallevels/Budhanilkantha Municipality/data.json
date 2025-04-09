@@ -1,0 +1,59 @@
+{
+  "localLevel": "Budhanilkantha Municipality",
+  "localLevelId": "30604",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2852"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2853"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2854"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2855"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2856"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2857"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2858"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2859"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2860"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/2861"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/2862"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/2863"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/2864"
+    }
+  ],
+  "count": 13
+}

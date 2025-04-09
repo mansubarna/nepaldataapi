@@ -1,0 +1,43 @@
+{
+  "localLevel": "Haripurwa Municipality",
+  "localLevelId": "20507",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1875"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1876"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1877"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1878"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1879"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1880"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1881"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1882"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1883"
+    }
+  ],
+  "count": 9
+}

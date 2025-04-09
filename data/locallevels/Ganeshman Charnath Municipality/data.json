@@ -1,0 +1,51 @@
+{
+  "localLevel": "Ganeshman Charnath Municipality",
+  "localLevelId": "20301",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1486"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1487"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1488"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1489"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1490"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1491"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1492"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1493"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1494"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/1495"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/1496"
+    }
+  ],
+  "count": 11
+}

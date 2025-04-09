@@ -1,0 +1,55 @@
+{
+  "localLevel": "Panauti Municipality",
+  "localLevelId": "30909",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3162"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3163"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3164"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3165"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3166"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3167"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3168"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3169"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3170"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/3171"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/3172"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/3173"
+    }
+  ],
+  "count": 12
+}

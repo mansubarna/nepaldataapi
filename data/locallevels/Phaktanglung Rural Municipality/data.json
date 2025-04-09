@@ -1,0 +1,35 @@
+{
+  "localLevel": "Phaktanglung Rural Municipality",
+  "localLevelId": "10101",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/7"
+    }
+  ],
+  "count": 7
+}

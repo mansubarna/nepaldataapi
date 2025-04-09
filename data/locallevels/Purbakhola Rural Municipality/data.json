@@ -1,0 +1,31 @@
+{
+  "localLevel": "Purbakhola Rural Municipality",
+  "localLevelId": "50602",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4640"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4641"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4642"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4643"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4644"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4645"
+    }
+  ],
+  "count": 6
+}

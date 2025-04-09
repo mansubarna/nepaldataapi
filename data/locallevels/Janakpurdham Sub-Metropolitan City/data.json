@@ -1,0 +1,107 @@
+{
+  "localLevel": "Janakpurdham Sub-Metropolitan City",
+  "localLevelId": "20315",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1610"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1611"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1612"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1613"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1614"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1615"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1616"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1617"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1618"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/1619"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/1620"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/1621"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/1622"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/1623"
+    },
+    {
+      "no": "15",
+      "href": "/Ward/Index/1624"
+    },
+    {
+      "no": "16",
+      "href": "/Ward/Index/1625"
+    },
+    {
+      "no": "17",
+      "href": "/Ward/Index/1626"
+    },
+    {
+      "no": "18",
+      "href": "/Ward/Index/1627"
+    },
+    {
+      "no": "19",
+      "href": "/Ward/Index/1628"
+    },
+    {
+      "no": "20",
+      "href": "/Ward/Index/1629"
+    },
+    {
+      "no": "21",
+      "href": "/Ward/Index/1630"
+    },
+    {
+      "no": "22",
+      "href": "/Ward/Index/1631"
+    },
+    {
+      "no": "23",
+      "href": "/Ward/Index/1632"
+    },
+    {
+      "no": "24",
+      "href": "/Ward/Index/1633"
+    },
+    {
+      "no": "25",
+      "href": "/Ward/Index/1634"
+    }
+  ],
+  "count": 25
+}

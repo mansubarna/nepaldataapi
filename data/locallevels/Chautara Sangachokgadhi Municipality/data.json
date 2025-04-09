@@ -1,0 +1,63 @@
+{
+  "localLevel": "Chautara Sangachokgadhi Municipality",
+  "localLevelId": "30207",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2555"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2556"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2557"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2558"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2559"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2560"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2561"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2562"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2563"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/2564"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/2565"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/2566"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/2567"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/2568"
+    }
+  ],
+  "count": 14
+}

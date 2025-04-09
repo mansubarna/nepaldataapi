@@ -1,0 +1,31 @@
+{
+  "localLevel": "Chankheli Rural Municipality",
+  "localLevelId": "60301",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5402"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5403"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5404"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5405"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5406"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5407"
+    }
+  ],
+  "count": 6
+}

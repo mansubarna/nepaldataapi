@@ -1,0 +1,47 @@
+{
+  "district": "Salyan",
+  "districtId": "609",
+  "localLevels": [
+    {
+      "name": "Darma Rural Municipality",
+      "href": "/LocalLevel/Index/60901"
+    },
+    {
+      "name": "Kumakh Rural Municipality",
+      "href": "/LocalLevel/Index/60902"
+    },
+    {
+      "name": "Bangad Kupinde Municipality",
+      "href": "/LocalLevel/Index/60903"
+    },
+    {
+      "name": "Siddhakumakh Rural Municipality",
+      "href": "/LocalLevel/Index/60904"
+    },
+    {
+      "name": "Bagchaur Municipality",
+      "href": "/LocalLevel/Index/60905"
+    },
+    {
+      "name": "Chhatreshwori Rural Municipality",
+      "href": "/LocalLevel/Index/60906"
+    },
+    {
+      "name": "Sharada Municipality",
+      "href": "/LocalLevel/Index/60907"
+    },
+    {
+      "name": "Kalimati Rural Municipality",
+      "href": "/LocalLevel/Index/60908"
+    },
+    {
+      "name": "Triveni Rural Municipality",
+      "href": "/LocalLevel/Index/60909"
+    },
+    {
+      "name": "Kapurkot Rural Municipality",
+      "href": "/LocalLevel/Index/60910"
+    }
+  ],
+  "count": 10
+}

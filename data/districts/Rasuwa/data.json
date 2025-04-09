@@ -1,0 +1,27 @@
+{
+  "district": "Rasuwa",
+  "districtId": "303",
+  "localLevels": [
+    {
+      "name": "Gosainkunda Rural Municipality",
+      "href": "/LocalLevel/Index/30301"
+    },
+    {
+      "name": "Aamachhodingmo Rural Municipality",
+      "href": "/LocalLevel/Index/30302"
+    },
+    {
+      "name": "Uttargaya Rural Municipality",
+      "href": "/LocalLevel/Index/30303"
+    },
+    {
+      "name": "Kalika Rural Municipality",
+      "href": "/LocalLevel/Index/30304"
+    },
+    {
+      "name": "Naukunda Rural Municipality",
+      "href": "/LocalLevel/Index/30305"
+    }
+  ],
+  "count": 5
+}

@@ -1,0 +1,47 @@
+{
+  "district": "Dang",
+  "districtId": "510",
+  "localLevels": [
+    {
+      "name": "Bangalachuli Rural Municipality",
+      "href": "/LocalLevel/Index/51001"
+    },
+    {
+      "name": "Ghorahi Sub-Metropolitan City",
+      "href": "/LocalLevel/Index/51002"
+    },
+    {
+      "name": "Tulsipur Sub-Metropolitan City",
+      "href": "/LocalLevel/Index/51003"
+    },
+    {
+      "name": "Shantinagar Rural Municipality",
+      "href": "/LocalLevel/Index/51004"
+    },
+    {
+      "name": "Babai Rural Municipality",
+      "href": "/LocalLevel/Index/51005"
+    },
+    {
+      "name": "Dangisharan Rural Municipality",
+      "href": "/LocalLevel/Index/51006"
+    },
+    {
+      "name": "Lamahi Municipality",
+      "href": "/LocalLevel/Index/51007"
+    },
+    {
+      "name": "Rapti Rural Municipality",
+      "href": "/LocalLevel/Index/51008"
+    },
+    {
+      "name": "Gadhawa Rural Municipality",
+      "href": "/LocalLevel/Index/51009"
+    },
+    {
+      "name": "Rajpur Rural Municipality",
+      "href": "/LocalLevel/Index/51010"
+    }
+  ],
+  "count": 10
+}

@@ -1,0 +1,39 @@
+{
+  "localLevel": "Mellekh Rural Municipality",
+  "localLevelId": "70703",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6451"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6452"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6453"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6454"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6455"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6456"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6457"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6458"
+    }
+  ],
+  "count": 8
+}

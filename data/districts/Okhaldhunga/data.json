@@ -1,0 +1,39 @@
+{
+  "district": "Okhaldhunga",
+  "districtId": "104",
+  "localLevels": [
+    {
+      "name": "Champadevi Rural Municipality",
+      "href": "/LocalLevel/Index/10406"
+    },
+    {
+      "name": "Chishankhugadhi Rural Municipality",
+      "href": "/LocalLevel/Index/10401"
+    },
+    {
+      "name": "Khijidemba Rural Municipality",
+      "href": "/LocalLevel/Index/10404"
+    },
+    {
+      "name": "Likhu Rural Municipality",
+      "href": "/LocalLevel/Index/10405"
+    },
+    {
+      "name": "Manebhanjyang Rural Municipality",
+      "href": "/LocalLevel/Index/10408"
+    },
+    {
+      "name": "Molung Rural Municipality",
+      "href": "/LocalLevel/Index/10403"
+    },
+    {
+      "name": "Siddhicharan Municipality",
+      "href": "/LocalLevel/Index/10402"
+    },
+    {
+      "name": "Sunkoshi Rural Municipality",
+      "href": "/LocalLevel/Index/10407"
+    }
+  ],
+  "count": 8
+}

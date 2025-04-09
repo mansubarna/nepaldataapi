@@ -1,0 +1,27 @@
+{
+  "localLevel": "Aamachhodingmo Rural Municipality",
+  "localLevelId": "30302",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2612"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2613"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2614"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2615"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2616"
+    }
+  ],
+  "count": 5
+}

@@ -1,0 +1,83 @@
+{
+  "localLevel": "Ghorahi Sub-Metropolitan City",
+  "localLevelId": "51002",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5044"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5045"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5046"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5047"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5048"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5049"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5050"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5051"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5052"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/5053"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/5054"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/5055"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/5056"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/5057"
+    },
+    {
+      "no": "15",
+      "href": "/Ward/Index/5058"
+    },
+    {
+      "no": "16",
+      "href": "/Ward/Index/5059"
+    },
+    {
+      "no": "17",
+      "href": "/Ward/Index/5060"
+    },
+    {
+      "no": "18",
+      "href": "/Ward/Index/5061"
+    },
+    {
+      "no": "19",
+      "href": "/Ward/Index/5062"
+    }
+  ],
+  "count": 19
+}

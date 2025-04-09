@@ -1,0 +1,43 @@
+{
+  "district": "Bhojpur",
+  "districtId": "106",
+  "localLevels": [
+    {
+      "name": "Bhojpur Municipality",
+      "href": "/LocalLevel/Index/10604"
+    },
+    {
+      "name": "Aamchok Rural Municipality",
+      "href": "/LocalLevel/Index/10609"
+    },
+    {
+      "name": "Hatuwagadhi Rural Municipality",
+      "href": "/LocalLevel/Index/10608"
+    },
+    {
+      "name": "Ramprasadrai Rural Municipality",
+      "href": "/LocalLevel/Index/10607"
+    },
+    {
+      "name": "Arun Rural Municipality",
+      "href": "/LocalLevel/Index/10605"
+    },
+    {
+      "name": "Salpasilichho Rural Municipality",
+      "href": "/LocalLevel/Index/10602"
+    },
+    {
+      "name": "Sadananda Municipality",
+      "href": "/LocalLevel/Index/10601"
+    },
+    {
+      "name": "Pauwadungma Rural Municipality",
+      "href": "/LocalLevel/Index/10606"
+    },
+    {
+      "name": "Temkemaiyung Rural Municipality",
+      "href": "/LocalLevel/Index/10603"
+    }
+  ],
+  "count": 9
+}

@@ -1,0 +1,75 @@
+{
+  "district": "Siraha",
+  "districtId": "202",
+  "localLevels": [
+    {
+      "name": "Arnama Rural Municipality",
+      "href": "/LocalLevel/Index/20209"
+    },
+    {
+      "name": "Aurahi Rural Municipality",
+      "href": "/LocalLevel/Index/20216"
+    },
+    {
+      "name": "Bariyarpatti Rural Municipality",
+      "href": "/LocalLevel/Index/20215"
+    },
+    {
+      "name": "Bhagwanpur Rural Municipality",
+      "href": "/LocalLevel/Index/20213"
+    },
+    {
+      "name": "Bishnupur Rural Municipality",
+      "href": "/LocalLevel/Index/20208"
+    },
+    {
+      "name": "Dhangadhimai Municipality",
+      "href": "/LocalLevel/Index/20202"
+    },
+    {
+      "name": "Golbazar Municipality",
+      "href": "/LocalLevel/Index/20203"
+    },
+    {
+      "name": "Kalyanpur Municipality",
+      "href": "/LocalLevel/Index/20206"
+    },
+    {
+      "name": "Karjanha Municipality",
+      "href": "/LocalLevel/Index/20205"
+    },
+    {
+      "name": "Lahan Municipality",
+      "href": "/LocalLevel/Index/20201"
+    },
+    {
+      "name": "Laxmipur Patari Rural Municipality",
+      "href": "/LocalLevel/Index/20211"
+    },
+    {
+      "name": "Mirchaiya Municipality",
+      "href": "/LocalLevel/Index/20204"
+    },
+    {
+      "name": "Naraha Rural Municipality",
+      "href": "/LocalLevel/Index/20207"
+    },
+    {
+      "name": "Navarajpur Rural Municipality",
+      "href": "/LocalLevel/Index/20214"
+    },
+    {
+      "name": "Sakhuwa Nankarkatti Rural Municipality",
+      "href": "/LocalLevel/Index/20212"
+    },
+    {
+      "name": "Siraha Municipality",
+      "href": "/LocalLevel/Index/20217"
+    },
+    {
+      "name": "Sukhipur Municipality",
+      "href": "/LocalLevel/Index/20210"
+    }
+  ],
+  "count": 17
+}

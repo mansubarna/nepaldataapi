@@ -1,0 +1,39 @@
+{
+  "localLevel": "Chaubise Rural Municipality",
+  "localLevelId": "10707",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/477"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/478"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/479"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/480"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/481"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/482"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/483"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/484"
+    }
+  ],
+  "count": 8
+}

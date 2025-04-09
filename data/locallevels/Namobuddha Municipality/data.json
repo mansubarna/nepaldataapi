@@ -1,0 +1,51 @@
+{
+  "localLevel": "Namobuddha Municipality",
+  "localLevelId": "30908",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3151"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3152"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3153"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3154"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3155"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3156"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3157"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3158"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3159"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/3160"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/3161"
+    }
+  ],
+  "count": 11
+}

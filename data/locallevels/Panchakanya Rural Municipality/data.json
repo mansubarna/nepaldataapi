@@ -1,0 +1,27 @@
+{
+  "localLevel": "Panchakanya Rural Municipality",
+  "localLevelId": "30510",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2804"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2805"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2806"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2807"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2808"
+    }
+  ],
+  "count": 5
+}

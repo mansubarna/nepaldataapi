@@ -1,0 +1,43 @@
+{
+  "localLevel": "Ishnath Municipality",
+  "localLevelId": "20618",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2141"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2142"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2143"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2144"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2145"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2146"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2147"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2148"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2149"
+    }
+  ],
+  "count": 9
+}

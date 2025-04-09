@@ -1,0 +1,51 @@
+{
+  "localLevel": "Mahagadhimai Municipality",
+  "localLevelId": "20714",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2291"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2292"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2293"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2294"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2295"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2296"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2297"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2298"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2299"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/2300"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/2301"
+    }
+  ],
+  "count": 11
+}

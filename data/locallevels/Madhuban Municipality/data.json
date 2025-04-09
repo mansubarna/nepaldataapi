@@ -1,0 +1,43 @@
+{
+  "localLevel": "Madhuban Municipality",
+  "localLevelId": "51206",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5262"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5263"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5264"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5265"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5266"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5267"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5268"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5269"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5270"
+    }
+  ],
+  "count": 9
+}

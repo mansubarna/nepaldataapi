@@ -1,0 +1,47 @@
+{
+  "localLevel": "Barahatal Rural Municipality",
+  "localLevelId": "61007",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5979"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5980"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5981"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5982"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5983"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5984"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5985"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5986"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5987"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/5988"
+    }
+  ],
+  "count": 10
+}

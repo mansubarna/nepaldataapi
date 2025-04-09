@@ -1,0 +1,27 @@
+{
+  "localLevel": "Navarajpur Rural Municipality",
+  "localLevelId": "20214",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1449"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1450"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1451"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1452"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1453"
+    }
+  ],
+  "count": 5
+}

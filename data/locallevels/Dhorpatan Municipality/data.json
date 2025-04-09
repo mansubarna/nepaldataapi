@@ -1,0 +1,43 @@
+{
+  "localLevel": "Dhorpatan Municipality",
+  "localLevelId": "41105",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4257"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4258"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4259"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4260"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4261"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4262"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4263"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4264"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4265"
+    }
+  ],
+  "count": 9
+}

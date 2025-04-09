@@ -1,0 +1,47 @@
+{
+  "localLevel": "Rolpa Municipality",
+  "localLevelId": "50207",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4378"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4379"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4380"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4381"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4382"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4383"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4384"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4385"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4386"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/4387"
+    }
+  ],
+  "count": 10
+}

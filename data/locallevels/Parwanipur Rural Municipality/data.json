@@ -1,0 +1,27 @@
+{
+  "localLevel": "Parwanipur Rural Municipality",
+  "localLevelId": "20704",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2198"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2199"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2200"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2201"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2202"
+    }
+  ],
+  "count": 5
+}

@@ -1,0 +1,59 @@
+{
+  "province": "Bagmati",
+  "provinceId": "3",
+  "districts": [
+    {
+      "name": "Bhaktapur",
+      "href": "/District/Index/307"
+    },
+    {
+      "name": "Chitwan",
+      "href": "/District/Index/313"
+    },
+    {
+      "name": "Dhading",
+      "href": "/District/Index/304"
+    },
+    {
+      "name": "Dolakha",
+      "href": "/District/Index/301"
+    },
+    {
+      "name": "Kathmandu",
+      "href": "/District/Index/306"
+    },
+    {
+      "name": "Kavrepalanchowk",
+      "href": "/District/Index/309"
+    },
+    {
+      "name": "Lalitpur",
+      "href": "/District/Index/308"
+    },
+    {
+      "name": "Makwanpur",
+      "href": "/District/Index/312"
+    },
+    {
+      "name": "Nuwakot",
+      "href": "/District/Index/305"
+    },
+    {
+      "name": "Ramechhap",
+      "href": "/District/Index/310"
+    },
+    {
+      "name": "Rasuwa",
+      "href": "/District/Index/303"
+    },
+    {
+      "name": "Sindhuli",
+      "href": "/District/Index/311"
+    },
+    {
+      "name": "Sindhupalchowk",
+      "href": "/District/Index/302"
+    }
+  ],
+  "count": 13
+}

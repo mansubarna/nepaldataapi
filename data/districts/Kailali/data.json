@@ -1,0 +1,59 @@
+{
+  "district": "Kailali",
+  "districtId": "708",
+  "localLevels": [
+    {
+      "name": "Bardgoriya Rural Municipality",
+      "href": "/LocalLevel/Index/70806"
+    },
+    {
+      "name": "Bhajani Municipality",
+      "href": "/LocalLevel/Index/70811"
+    },
+    {
+      "name": "Chure Rural Municipality",
+      "href": "/LocalLevel/Index/70802"
+    },
+    {
+      "name": "Dhangadhi Sub-Metropolitan City",
+      "href": "/LocalLevel/Index/70813"
+    },
+    {
+      "name": "Gauriganga Municipality",
+      "href": "/LocalLevel/Index/70804"
+    },
+    {
+      "name": "Ghodaghodi Municipality",
+      "href": "/LocalLevel/Index/70805"
+    },
+    {
+      "name": "Godawari Municipality",
+      "href": "/LocalLevel/Index/70803"
+    },
+    {
+      "name": "Janaki Rural Municipality",
+      "href": "/LocalLevel/Index/70808"
+    },
+    {
+      "name": "Joshipur Rural Municipality",
+      "href": "/LocalLevel/Index/70809"
+    },
+    {
+      "name": "Kailari Rural Municipality",
+      "href": "/LocalLevel/Index/70812"
+    },
+    {
+      "name": "Lamkichuha Municipality",
+      "href": "/LocalLevel/Index/70807"
+    },
+    {
+      "name": "Mohanyal Rural Municipality",
+      "href": "/LocalLevel/Index/70801"
+    },
+    {
+      "name": "Tikapur Municipality",
+      "href": "/LocalLevel/Index/70810"
+    }
+  ],
+  "count": 13
+}

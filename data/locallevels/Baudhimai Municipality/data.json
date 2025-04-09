@@ -1,0 +1,43 @@
+{
+  "localLevel": "Baudhimai Municipality",
+  "localLevelId": "20611",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2086"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2087"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2088"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2089"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2090"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2091"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2092"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2093"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2094"
+    }
+  ],
+  "count": 9
+}

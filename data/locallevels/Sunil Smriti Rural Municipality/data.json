@@ -1,0 +1,39 @@
+{
+  "localLevel": "Sunil Smriti Rural Municipality",
+  "localLevelId": "50209",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4397"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4398"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4399"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4400"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4401"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4402"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4403"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4404"
+    }
+  ],
+  "count": 8
+}

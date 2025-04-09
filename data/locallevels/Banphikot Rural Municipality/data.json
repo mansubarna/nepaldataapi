@@ -1,0 +1,47 @@
+{
+  "localLevel": "Banphikot Rural Municipality",
+  "localLevelId": "60803",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5780"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5781"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5782"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5783"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5784"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5785"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5786"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5787"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5788"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/5789"
+    }
+  ],
+  "count": 10
+}

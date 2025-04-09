@@ -1,0 +1,43 @@
+{
+  "localLevel": "Chakraghatta Rural Municipality",
+  "localLevelId": "20512",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1914"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1915"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1916"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1917"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1918"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1919"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1920"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1921"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1922"
+    }
+  ],
+  "count": 9
+}

@@ -1,0 +1,31 @@
+{
+  "localLevel": "Rupani Rural Municipality",
+  "localLevelId": "20104",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1187"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1188"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1189"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1190"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1191"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1192"
+    }
+  ],
+  "count": 6
+}

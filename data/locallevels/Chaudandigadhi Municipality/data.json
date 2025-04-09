@@ -1,0 +1,47 @@
+{
+  "localLevel": "Chaudandigadhi Municipality",
+  "localLevelId": "11402",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1092"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1093"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1094"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1095"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1096"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1097"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1098"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1099"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1100"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/1101"
+    }
+  ],
+  "count": 10
+}

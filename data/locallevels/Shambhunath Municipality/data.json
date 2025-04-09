@@ -1,0 +1,55 @@
+{
+  "localLevel": "Shambhunath Municipality",
+  "localLevelId": "20105",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1193"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1194"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1195"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1196"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1197"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1198"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1199"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1200"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1201"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/1202"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/1203"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/1204"
+    }
+  ],
+  "count": 12
+}

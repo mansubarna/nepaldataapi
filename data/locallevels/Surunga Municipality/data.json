@@ -1,0 +1,51 @@
+{
+  "localLevel": "Surunga Municipality",
+  "localLevelId": "20107",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1216"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1217"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1218"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1219"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1220"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1221"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1222"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1223"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1224"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/1225"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/1226"
+    }
+  ],
+  "count": 11
+}

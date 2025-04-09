@@ -1,0 +1,55 @@
+{
+  "localLevel": "Ghodaghodi Municipality",
+  "localLevelId": "70805",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6562"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6563"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6564"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6565"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6566"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6567"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6568"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6569"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/6570"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/6571"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/6572"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/6573"
+    }
+  ],
+  "count": 12
+}

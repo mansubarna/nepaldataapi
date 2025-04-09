@@ -1,0 +1,39 @@
+{
+  "localLevel": "Turmakhand Rural Municipality",
+  "localLevelId": "70710",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6518"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6519"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6520"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6521"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6522"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6523"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6524"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6525"
+    }
+  ],
+  "count": 8
+}

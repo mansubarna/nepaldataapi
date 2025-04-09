@@ -1,0 +1,47 @@
+{
+  "district": "Kanchanpur",
+  "districtId": "709",
+  "localLevels": [
+    {
+      "name": "Bedkot Municipality",
+      "href": "/LocalLevel/Index/70903"
+    },
+    {
+      "name": "Belauri Municipality",
+      "href": "/LocalLevel/Index/70908"
+    },
+    {
+      "name": "Beldandi Rural Municipality",
+      "href": "/LocalLevel/Index/70909"
+    },
+    {
+      "name": "Bhimdatta Municipality",
+      "href": "/LocalLevel/Index/70904"
+    },
+    {
+      "name": "Krishnapur Municipality",
+      "href": "/LocalLevel/Index/70901"
+    },
+    {
+      "name": "Laljhadi Rural Municipality",
+      "href": "/LocalLevel/Index/70906"
+    },
+    {
+      "name": "Dodharachandani Municipality",
+      "href": "/LocalLevel/Index/70905"
+    },
+    {
+      "name": "Punarbas Municipality",
+      "href": "/LocalLevel/Index/70907"
+    },
+    {
+      "name": "Shuklaphanta Municipality",
+      "href": "/LocalLevel/Index/70902"
+    },
+    {
+      "name": "Shuklaphanta National Park",
+      "href": "#"
+    }
+  ],
+  "count": 10
+}

@@ -1,0 +1,43 @@
+{
+  "localLevel": "Shivalaya Rural Municipality",
+  "localLevelId": "60705",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5720"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5721"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5722"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5723"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5724"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5725"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5726"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5727"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5728"
+    }
+  ],
+  "count": 9
+}

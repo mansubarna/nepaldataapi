@@ -1,0 +1,31 @@
+{
+  "localLevel": "Bandipur Rural Municipality",
+  "localLevelId": "40709",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3962"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3963"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3964"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3965"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3966"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3967"
+    }
+  ],
+  "count": 6
+}

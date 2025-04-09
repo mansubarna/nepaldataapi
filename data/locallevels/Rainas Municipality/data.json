@@ -1,0 +1,47 @@
+{
+  "localLevel": "Rainas Municipality",
+  "localLevelId": "40607",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3873"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3874"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3875"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3876"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3877"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3878"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3879"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3880"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3881"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/3882"
+    }
+  ],
+  "count": 10
+}

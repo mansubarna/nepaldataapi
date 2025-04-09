@@ -1,0 +1,43 @@
+{
+  "localLevel": "Bhume Rural Municipality",
+  "localLevelId": "50103",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4331"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4332"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4333"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4334"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4335"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4336"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4337"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4338"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4339"
+    }
+  ],
+  "count": 9
+}

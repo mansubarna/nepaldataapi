@@ -1,0 +1,63 @@
+{
+  "localLevel": "Kamalamai Municipality",
+  "localLevelId": "31105",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3309"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3310"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3311"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3312"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3313"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3314"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3315"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3316"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3317"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/3318"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/3319"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/3320"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/3321"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/3322"
+    }
+  ],
+  "count": 14
+}

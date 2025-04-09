@@ -1,0 +1,55 @@
+{
+  "localLevel": "Thaha Municipality",
+  "localLevelId": "31202",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3355"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3356"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3357"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3358"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3359"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3360"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3361"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3362"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3363"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/3364"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/3365"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/3366"
+    }
+  ],
+  "count": 12
+}

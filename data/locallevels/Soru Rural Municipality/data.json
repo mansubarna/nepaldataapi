@@ -1,0 +1,51 @@
+{
+  "localLevel": "Soru Rural Municipality",
+  "localLevelId": "60203",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5380"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5381"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5382"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5383"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5384"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5385"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5386"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5387"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5388"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/5389"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/5390"
+    }
+  ],
+  "count": 11
+}

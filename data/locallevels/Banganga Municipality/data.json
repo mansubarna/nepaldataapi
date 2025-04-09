@@ -1,0 +1,51 @@
+{
+  "localLevel": "Banganga Municipality",
+  "localLevelId": "50901",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4940"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4941"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4942"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4943"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4944"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4945"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4946"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4947"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4948"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/4949"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/4950"
+    }
+  ],
+  "count": 11
+}

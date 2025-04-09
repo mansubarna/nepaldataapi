@@ -1,0 +1,51 @@
+{
+  "localLevel": "Khandachakra Municipality",
+  "localLevelId": "60506",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5551"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5552"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5553"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5554"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5555"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5556"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5557"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5558"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5559"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/5560"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/5561"
+    }
+  ],
+  "count": 11
+}

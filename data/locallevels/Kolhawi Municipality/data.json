@@ -1,0 +1,51 @@
+{
+  "localLevel": "Kolhawi Municipality",
+  "localLevelId": "20702",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2163"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2164"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2165"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2166"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2167"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2168"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2169"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2170"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2171"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/2172"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/2173"
+    }
+  ],
+  "count": 11
+}

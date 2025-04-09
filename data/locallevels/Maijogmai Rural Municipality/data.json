@@ -1,0 +1,31 @@
+{
+  "localLevel": "Maijogmai Rural Municipality",
+  "localLevelId": "11001",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/588"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/589"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/590"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/591"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/592"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/593"
+    }
+  ],
+  "count": 6
+}

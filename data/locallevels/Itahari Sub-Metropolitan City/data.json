@@ -1,0 +1,87 @@
+{
+  "localLevel": "Itahari Sub-Metropolitan City",
+  "localLevelId": "11306",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1015"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1016"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1017"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1018"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1019"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1020"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1021"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1022"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1023"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/1024"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/1025"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/1026"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/1027"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/1028"
+    },
+    {
+      "no": "15",
+      "href": "/Ward/Index/1029"
+    },
+    {
+      "no": "16",
+      "href": "/Ward/Index/1030"
+    },
+    {
+      "no": "17",
+      "href": "/Ward/Index/1031"
+    },
+    {
+      "no": "18",
+      "href": "/Ward/Index/1032"
+    },
+    {
+      "no": "19",
+      "href": "/Ward/Index/1033"
+    },
+    {
+      "no": "20",
+      "href": "/Ward/Index/1034"
+    }
+  ],
+  "count": 20
+}

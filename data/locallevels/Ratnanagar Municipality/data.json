@@ -1,0 +1,71 @@
+{
+  "localLevel": "Ratnanagar Municipality",
+  "localLevelId": "31305",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3512"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3513"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3514"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3515"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3516"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3517"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3518"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3519"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3520"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/3521"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/3522"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/3523"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/3524"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/3525"
+    },
+    {
+      "no": "15",
+      "href": "/Ward/Index/3526"
+    },
+    {
+      "no": "16",
+      "href": "/Ward/Index/3527"
+    }
+  ],
+  "count": 16
+}

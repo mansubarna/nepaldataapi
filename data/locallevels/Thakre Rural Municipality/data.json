@@ -1,0 +1,51 @@
+{
+  "localLevel": "Thakre Rural Municipality",
+  "localLevelId": "30412",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2717"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2718"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2719"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2720"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2721"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2722"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2723"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2724"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2725"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/2726"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/2727"
+    }
+  ],
+  "count": 11
+}

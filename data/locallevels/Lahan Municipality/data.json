@@ -1,0 +1,103 @@
+{
+  "localLevel": "Lahan Municipality",
+  "localLevelId": "20201",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1322"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1323"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1324"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1325"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1326"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1327"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1328"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1329"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1330"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/1331"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/1332"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/1333"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/1334"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/1335"
+    },
+    {
+      "no": "15",
+      "href": "/Ward/Index/1336"
+    },
+    {
+      "no": "16",
+      "href": "/Ward/Index/1337"
+    },
+    {
+      "no": "17",
+      "href": "/Ward/Index/1338"
+    },
+    {
+      "no": "18",
+      "href": "/Ward/Index/1339"
+    },
+    {
+      "no": "19",
+      "href": "/Ward/Index/1340"
+    },
+    {
+      "no": "20",
+      "href": "/Ward/Index/1341"
+    },
+    {
+      "no": "21",
+      "href": "/Ward/Index/1342"
+    },
+    {
+      "no": "22",
+      "href": "/Ward/Index/1343"
+    },
+    {
+      "no": "23",
+      "href": "/Ward/Index/1344"
+    },
+    {
+      "no": "24",
+      "href": "/Ward/Index/1345"
+    }
+  ],
+  "count": 24
+}

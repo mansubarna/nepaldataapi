@@ -1,0 +1,35 @@
+{
+  "district": "Parbat",
+  "districtId": "410",
+  "localLevels": [
+    {
+      "name": "Modi Rural Municipality",
+      "href": "/LocalLevel/Index/41001"
+    },
+    {
+      "name": "Jaljala Rural Municipality",
+      "href": "/LocalLevel/Index/41002"
+    },
+    {
+      "name": "Phalebas Municipality",
+      "href": "/LocalLevel/Index/41004"
+    },
+    {
+      "name": "Kushma Municipality",
+      "href": "/LocalLevel/Index/41003"
+    },
+    {
+      "name": "Mahashila Rural Municipality",
+      "href": "/LocalLevel/Index/41005"
+    },
+    {
+      "name": "Bihadi Rural Municipality",
+      "href": "/LocalLevel/Index/41006"
+    },
+    {
+      "name": "Paiyun Rural Municipality",
+      "href": "/LocalLevel/Index/41007"
+    }
+  ],
+  "count": 7
+}

@@ -1,0 +1,39 @@
+{
+  "district": "Solukhumbu",
+  "districtId": "103",
+  "localLevels": [
+    {
+      "name": "Thulung Dudhkoshi Rural Municipality",
+      "href": "/LocalLevel/Index/10305"
+    },
+    {
+      "name": "Mapya Dudhkoshi Rural Municipality",
+      "href": "/LocalLevel/Index/10304"
+    },
+    {
+      "name": "Khumbu Pasanglhamu Rural Municipality",
+      "href": "/LocalLevel/Index/10301"
+    },
+    {
+      "name": "Likhupike Rural Municipality",
+      "href": "/LocalLevel/Index/10308"
+    },
+    {
+      "name": "Mahakulung Rural Municipality",
+      "href": "/LocalLevel/Index/10302"
+    },
+    {
+      "name": "Nechasalyan Rural Municipality",
+      "href": "/LocalLevel/Index/10306"
+    },
+    {
+      "name": "Solu Dudhkunda Municipality",
+      "href": "/LocalLevel/Index/10307"
+    },
+    {
+      "name": "Sotang Rural Municipality",
+      "href": "/LocalLevel/Index/10303"
+    }
+  ],
+  "count": 8
+}

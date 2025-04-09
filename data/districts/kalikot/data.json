@@ -1,0 +1,43 @@
+{
+  "district": "kalikot",
+  "districtId": "605",
+  "localLevels": [
+    {
+      "name": "Palata Rural Municipality",
+      "href": "/LocalLevel/Index/60501"
+    },
+    {
+      "name": "Pachaljharna Rural Municipality",
+      "href": "/LocalLevel/Index/60502"
+    },
+    {
+      "name": "Raskot Municipality",
+      "href": "/LocalLevel/Index/60503"
+    },
+    {
+      "name": "Sanni Triveni Rural Municipality",
+      "href": "/LocalLevel/Index/60504"
+    },
+    {
+      "name": "Naraharinath Rural Municipality",
+      "href": "/LocalLevel/Index/60505"
+    },
+    {
+      "name": "Khandachakra Municipality",
+      "href": "/LocalLevel/Index/60506"
+    },
+    {
+      "name": "Tilagupha Municipality",
+      "href": "/LocalLevel/Index/60507"
+    },
+    {
+      "name": "Mahawai Rural Municipality",
+      "href": "/LocalLevel/Index/60508"
+    },
+    {
+      "name": "Shuvakalika Rural Municipality",
+      "href": "/LocalLevel/Index/60509"
+    }
+  ],
+  "count": 9
+}

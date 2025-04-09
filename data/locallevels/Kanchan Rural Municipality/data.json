@@ -1,0 +1,27 @@
+{
+  "localLevel": "Kanchan Rural Municipality",
+  "localLevelId": "50804",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4827"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4828"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4829"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4830"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4831"
+    }
+  ],
+  "count": 5
+}

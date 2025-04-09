@@ -1,0 +1,39 @@
+{
+  "localLevel": "Koshi Rural Municipality",
+  "localLevelId": "11303",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/990"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/991"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/992"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/993"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/994"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/995"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/996"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/997"
+    }
+  ],
+  "count": 8
+}

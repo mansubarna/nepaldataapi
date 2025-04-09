@@ -1,0 +1,27 @@
+{
+  "localLevel": "Uttargaya Rural Municipality",
+  "localLevelId": "30303",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2617"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2618"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2619"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2620"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2621"
+    }
+  ],
+  "count": 5
+}

@@ -1,0 +1,39 @@
+{
+  "localLevel": "Tilathi Koiladi Rural Municipality",
+  "localLevelId": "20117",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1307"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1308"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1309"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1310"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1311"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1312"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1313"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1314"
+    }
+  ],
+  "count": 8
+}

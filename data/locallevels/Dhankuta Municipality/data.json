@@ -1,0 +1,47 @@
+{
+  "localLevel": "Dhankuta Municipality",
+  "localLevelId": "10704",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/450"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/451"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/452"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/453"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/454"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/455"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/456"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/457"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/458"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/459"
+    }
+  ],
+  "count": 10
+}

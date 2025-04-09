@@ -1,0 +1,43 @@
+{
+  "localLevel": "Garuda Municipality",
+  "localLevelId": "20608",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2059"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2060"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2061"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2062"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2063"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2064"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2065"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2066"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2067"
+    }
+  ],
+  "count": 9
+}

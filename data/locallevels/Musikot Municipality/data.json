@@ -1,0 +1,63 @@
+{
+  "localLevel": "Musikot Municipality",
+  "localLevelId": "60804",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5790"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5791"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5792"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5793"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5794"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5795"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5796"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5797"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5798"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/5799"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/5800"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/5801"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/5802"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/5803"
+    }
+  ],
+  "count": 14
+}

@@ -1,0 +1,59 @@
+{
+  "localLevel": "Sunwal Municipality",
+  "localLevelId": "50702",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4727"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4728"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4729"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4730"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4731"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4732"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4733"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4734"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4735"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/4736"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/4737"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/4738"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/4739"
+    }
+  ],
+  "count": 13
+}

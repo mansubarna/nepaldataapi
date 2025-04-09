@@ -1,0 +1,31 @@
+{
+  "localLevel": "Jagadulla Rural Municipality",
+  "localLevelId": "60103",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5307"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5308"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5309"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5310"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5311"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5312"
+    }
+  ],
+  "count": 6
+}

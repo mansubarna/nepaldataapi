@@ -1,0 +1,43 @@
+{
+  "localLevel": "Mahakali Municipality",
+  "localLevelId": "70303",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6184"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6185"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6186"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6187"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6188"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6189"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6190"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6191"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/6192"
+    }
+  ],
+  "count": 9
+}

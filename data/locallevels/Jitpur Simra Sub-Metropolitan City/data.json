@@ -1,0 +1,103 @@
+{
+  "localLevel": "Jitpur Simra Sub-Metropolitan City",
+  "localLevelId": "20703",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2174"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2175"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2176"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2177"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2178"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2179"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2180"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2181"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2182"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/2183"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/2184"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/2185"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/2186"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/2187"
+    },
+    {
+      "no": "15",
+      "href": "/Ward/Index/2188"
+    },
+    {
+      "no": "16",
+      "href": "/Ward/Index/2189"
+    },
+    {
+      "no": "17",
+      "href": "/Ward/Index/2190"
+    },
+    {
+      "no": "18",
+      "href": "/Ward/Index/2191"
+    },
+    {
+      "no": "19",
+      "href": "/Ward/Index/2192"
+    },
+    {
+      "no": "20",
+      "href": "/Ward/Index/2193"
+    },
+    {
+      "no": "21",
+      "href": "/Ward/Index/2194"
+    },
+    {
+      "no": "22",
+      "href": "/Ward/Index/2195"
+    },
+    {
+      "no": "23",
+      "href": "/Ward/Index/2196"
+    },
+    {
+      "no": "24",
+      "href": "/Ward/Index/2197"
+    }
+  ],
+  "count": 24
+}

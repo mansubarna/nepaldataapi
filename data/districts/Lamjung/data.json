@@ -1,0 +1,39 @@
+{
+  "district": "Lamjung",
+  "districtId": "406",
+  "localLevels": [
+    {
+      "name": "Dordi Rural Municipality",
+      "href": "/LocalLevel/Index/40601"
+    },
+    {
+      "name": "Marsyangdi Rural Municipality",
+      "href": "/LocalLevel/Index/40602"
+    },
+    {
+      "name": "Kwholasothar Rural Municipality",
+      "href": "/LocalLevel/Index/40603"
+    },
+    {
+      "name": "Madhyanepal Municipality",
+      "href": "/LocalLevel/Index/40604"
+    },
+    {
+      "name": "Besishahar Municipality",
+      "href": "/LocalLevel/Index/40605"
+    },
+    {
+      "name": "Sundarbazar Municipality",
+      "href": "/LocalLevel/Index/40606"
+    },
+    {
+      "name": "Rainas Municipality",
+      "href": "/LocalLevel/Index/40607"
+    },
+    {
+      "name": "Dudhpokhari Rural Municipality",
+      "href": "/LocalLevel/Index/40608"
+    }
+  ],
+  "count": 8
+}

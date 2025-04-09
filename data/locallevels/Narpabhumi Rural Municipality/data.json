@@ -1,0 +1,27 @@
+{
+  "localLevel": "Narpabhumi Rural Municipality",
+  "localLevelId": "40201",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3644"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3645"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3646"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3647"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3648"
+    }
+  ],
+  "count": 5
+}

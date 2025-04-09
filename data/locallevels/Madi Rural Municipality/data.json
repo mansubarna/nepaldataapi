@@ -1,0 +1,55 @@
+{
+  "localLevel": "Madi Rural Municipality",
+  "localLevelId": "40501",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3742"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3743"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3744"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3745"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3746"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3747"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3748"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3749"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3750"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/3751"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/3752"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/3753"
+    }
+  ],
+  "count": 12
+}

@@ -1,0 +1,27 @@
+{
+  "localLevel": "Kalikamai Rural Municipality",
+  "localLevelId": "20810",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2404"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2405"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2406"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2407"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2408"
+    }
+  ],
+  "count": 5
+}

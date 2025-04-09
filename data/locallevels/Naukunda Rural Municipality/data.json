@@ -1,0 +1,31 @@
+{
+  "localLevel": "Naukunda Rural Municipality",
+  "localLevelId": "30305",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2627"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2628"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2629"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2630"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2631"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2632"
+    }
+  ],
+  "count": 6
+}

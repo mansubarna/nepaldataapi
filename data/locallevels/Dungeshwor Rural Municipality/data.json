@@ -1,0 +1,31 @@
+{
+  "localLevel": "Dungeshwor Rural Municipality",
+  "localLevelId": "60610",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5664"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5665"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5666"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5667"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5668"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5669"
+    }
+  ],
+  "count": 6
+}

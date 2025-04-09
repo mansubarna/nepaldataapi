@@ -1,0 +1,59 @@
+{
+  "localLevel": "Sabaila Municipality",
+  "localLevelId": "20309",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1558"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1559"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1560"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1561"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1562"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1563"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1564"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1565"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1566"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/1567"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/1568"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/1569"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/1570"
+    }
+  ],
+  "count": 13
+}

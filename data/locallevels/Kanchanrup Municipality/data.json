@@ -1,0 +1,55 @@
+{
+  "localLevel": "Kanchanrup Municipality",
+  "localLevelId": "20102",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1169"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1170"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1171"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1172"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1173"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1174"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1175"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1176"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1177"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/1178"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/1179"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/1180"
+    }
+  ],
+  "count": 12
+}

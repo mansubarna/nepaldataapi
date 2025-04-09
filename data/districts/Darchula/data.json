@@ -1,0 +1,43 @@
+{
+  "district": "Darchula",
+  "districtId": "703",
+  "localLevels": [
+    {
+      "name": "Apihimal Rural Municipality",
+      "href": "/LocalLevel/Index/70305"
+    },
+    {
+      "name": "Vyans Rural Municipality",
+      "href": "/LocalLevel/Index/70301"
+    },
+    {
+      "name": "Duhun Rural Municipality",
+      "href": "/LocalLevel/Index/70302"
+    },
+    {
+      "name": "Lekam Rural Municipality",
+      "href": "/LocalLevel/Index/70309"
+    },
+    {
+      "name": "Mahakali Municipality",
+      "href": "/LocalLevel/Index/70303"
+    },
+    {
+      "name": "Malikarjun Rural Municipality",
+      "href": "/LocalLevel/Index/70308"
+    },
+    {
+      "name": "Marma Rural Municipality",
+      "href": "/LocalLevel/Index/70306"
+    },
+    {
+      "name": "Naugad Rural Municipality",
+      "href": "/LocalLevel/Index/70304"
+    },
+    {
+      "name": "Shailyashikhar Municipality",
+      "href": "/LocalLevel/Index/70307"
+    }
+  ],
+  "count": 9
+}

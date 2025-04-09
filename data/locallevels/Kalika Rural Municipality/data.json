@@ -1,0 +1,27 @@
+{
+  "localLevel": "Kalika Rural Municipality",
+  "localLevelId": "30304",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2622"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2623"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2624"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2625"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2626"
+    }
+  ],
+  "count": 5
+}

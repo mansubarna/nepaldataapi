@@ -1,0 +1,35 @@
+{
+  "localLevel": "Bahradashi Rural Municipality",
+  "localLevelId": "11111",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/761"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/762"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/763"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/764"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/765"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/766"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/767"
+    }
+  ],
+  "count": 7
+}

@@ -1,0 +1,43 @@
+{
+  "localLevel": "Raksirang Rural Municipality",
+  "localLevelId": "31204",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3377"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3378"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3379"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3380"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3381"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3382"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3383"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3384"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3385"
+    }
+  ],
+  "count": 9
+}

@@ -1,0 +1,43 @@
+{
+  "district": "Pyuthan",
+  "districtId": "503",
+  "localLevels": [
+    {
+      "name": "Gaumukhi Rural Municipality",
+      "href": "/LocalLevel/Index/50301"
+    },
+    {
+      "name": "Naubahini Rural Municipality",
+      "href": "/LocalLevel/Index/50302"
+    },
+    {
+      "name": "Jhimruk Rural Municipality",
+      "href": "/LocalLevel/Index/50303"
+    },
+    {
+      "name": "Pyuthan Municipality",
+      "href": "/LocalLevel/Index/50304"
+    },
+    {
+      "name": "Swargadwari Municipality",
+      "href": "/LocalLevel/Index/50305"
+    },
+    {
+      "name": "Mandavi Rural Municipality",
+      "href": "/LocalLevel/Index/50306"
+    },
+    {
+      "name": "Mallarani Rural Municipality",
+      "href": "/LocalLevel/Index/50307"
+    },
+    {
+      "name": "Airawati Rural Municipality",
+      "href": "/LocalLevel/Index/50308"
+    },
+    {
+      "name": "Sarumarani Rural Municipality",
+      "href": "/LocalLevel/Index/50309"
+    }
+  ],
+  "count": 9
+}

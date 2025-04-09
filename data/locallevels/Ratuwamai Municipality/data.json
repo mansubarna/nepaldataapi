@@ -1,0 +1,47 @@
+{
+  "localLevel": "Ratuwamai Municipality",
+  "localLevelId": "11209",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/877"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/878"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/879"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/880"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/881"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/882"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/883"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/884"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/885"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/886"
+    }
+  ],
+  "count": 10
+}

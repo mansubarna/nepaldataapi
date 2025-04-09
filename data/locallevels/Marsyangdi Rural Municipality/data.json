@@ -1,0 +1,43 @@
+{
+  "localLevel": "Marsyangdi Rural Municipality",
+  "localLevelId": "40602",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3823"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3824"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3825"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3826"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3827"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3828"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3829"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3830"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3831"
+    }
+  ],
+  "count": 9
+}

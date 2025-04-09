@@ -1,0 +1,27 @@
+{
+  "localLevel": "Khaniyabas Rural Municipality",
+  "localLevelId": "30402",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2639"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2640"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2641"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2642"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2643"
+    }
+  ],
+  "count": 5
+}

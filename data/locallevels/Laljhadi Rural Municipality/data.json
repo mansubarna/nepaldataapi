@@ -1,0 +1,31 @@
+{
+  "localLevel": "Laljhadi Rural Municipality",
+  "localLevelId": "70906",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6712"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6713"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6714"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6715"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6716"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6717"
+    }
+  ],
+  "count": 6
+}

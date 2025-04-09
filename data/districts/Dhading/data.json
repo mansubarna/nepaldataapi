@@ -1,0 +1,59 @@
+{
+  "district": "Dhading",
+  "districtId": "304",
+  "localLevels": [
+    {
+      "name": "Rubivalley Rural Municipality",
+      "href": "/LocalLevel/Index/30401"
+    },
+    {
+      "name": "Khaniyabas Rural Municipality",
+      "href": "/LocalLevel/Index/30402"
+    },
+    {
+      "name": "Gangajamuna Rural Municipality",
+      "href": "/LocalLevel/Index/30403"
+    },
+    {
+      "name": "Tripurasundari Rural Municipality",
+      "href": "/LocalLevel/Index/30404"
+    },
+    {
+      "name": "Netrawati Dabjong Rural Municipality",
+      "href": "/LocalLevel/Index/30405"
+    },
+    {
+      "name": "Nilkantha Municipality",
+      "href": "/LocalLevel/Index/30406"
+    },
+    {
+      "name": "Jwalamukhi Rural Municipality",
+      "href": "/LocalLevel/Index/30407"
+    },
+    {
+      "name": "Siddhalek Rural Municipality",
+      "href": "/LocalLevel/Index/30408"
+    },
+    {
+      "name": "Benighat Rorang Rural Municipality",
+      "href": "/LocalLevel/Index/30409"
+    },
+    {
+      "name": "Gajuri Rural Municipality",
+      "href": "/LocalLevel/Index/30410"
+    },
+    {
+      "name": "Galchhi Rural Municipality",
+      "href": "/LocalLevel/Index/30411"
+    },
+    {
+      "name": "Thakre Rural Municipality",
+      "href": "/LocalLevel/Index/30412"
+    },
+    {
+      "name": "Dhunibesi Municipality",
+      "href": "/LocalLevel/Index/30413"
+    }
+  ],
+  "count": 13
+}

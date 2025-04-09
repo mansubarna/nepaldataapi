@@ -1,0 +1,55 @@
+{
+  "province": "Lumbini",
+  "provinceId": "5",
+  "districts": [
+    {
+      "name": "Arghakhanchi",
+      "href": "/District/Index/505"
+    },
+    {
+      "name": "Banke",
+      "href": "/District/Index/511"
+    },
+    {
+      "name": "Bardiya",
+      "href": "/District/Index/512"
+    },
+    {
+      "name": "Dang",
+      "href": "/District/Index/510"
+    },
+    {
+      "name": "Gulmi",
+      "href": "/District/Index/504"
+    },
+    {
+      "name": "Kapilvastu",
+      "href": "/District/Index/509"
+    },
+    {
+      "name": "Palpa",
+      "href": "/District/Index/506"
+    },
+    {
+      "name": "Pyuthan",
+      "href": "/District/Index/503"
+    },
+    {
+      "name": "Rolpa",
+      "href": "/District/Index/502"
+    },
+    {
+      "name": "Rupandehi",
+      "href": "/District/Index/508"
+    },
+    {
+      "name": "Nawalaparasi-West",
+      "href": "/District/Index/507"
+    },
+    {
+      "name": "Rukum-East",
+      "href": "/District/Index/501"
+    }
+  ],
+  "count": 12
+}

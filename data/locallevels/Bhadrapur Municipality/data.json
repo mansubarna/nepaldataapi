@@ -1,0 +1,47 @@
+{
+  "localLevel": "Bhadrapur Municipality",
+  "localLevelId": "11114",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/783"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/784"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/785"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/786"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/787"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/788"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/789"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/790"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/791"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/792"
+    }
+  ],
+  "count": 10
+}

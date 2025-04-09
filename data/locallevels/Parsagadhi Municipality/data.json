@@ -1,0 +1,43 @@
+{
+  "localLevel": "Parsagadhi Municipality",
+  "localLevelId": "20806",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2344"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2345"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2346"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2347"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2348"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2349"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2350"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2351"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2352"
+    }
+  ],
+  "count": 9
+}

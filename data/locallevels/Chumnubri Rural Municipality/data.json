@@ -1,0 +1,35 @@
+{
+  "localLevel": "Chumnubri Rural Municipality",
+  "localLevelId": "40101",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3550"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3551"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3552"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3553"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3554"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3555"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3556"
+    }
+  ],
+  "count": 7
+}

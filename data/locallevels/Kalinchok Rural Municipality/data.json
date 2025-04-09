@@ -1,0 +1,43 @@
+{
+  "localLevel": "Kalinchok Rural Municipality",
+  "localLevelId": "30103",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2446"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2447"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2448"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2449"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2450"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2451"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2452"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2453"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2454"
+    }
+  ],
+  "count": 9
+}

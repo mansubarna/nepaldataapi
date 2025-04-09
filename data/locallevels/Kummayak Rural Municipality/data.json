@@ -1,0 +1,27 @@
+{
+  "localLevel": "Kummayak Rural Municipality",
+  "localLevelId": "10906",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/570"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/571"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/572"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/573"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/574"
+    }
+  ],
+  "count": 5
+}

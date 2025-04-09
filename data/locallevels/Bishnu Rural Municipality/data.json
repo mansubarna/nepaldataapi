@@ -1,0 +1,39 @@
+{
+  "localLevel": "Bishnu Rural Municipality",
+  "localLevelId": "20518",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1966"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1967"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1968"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1969"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1970"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1971"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1972"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1973"
+    }
+  ],
+  "count": 8
+}

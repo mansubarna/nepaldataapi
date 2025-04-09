@@ -1,0 +1,55 @@
+{
+  "localLevel": "Godaita Municipality",
+  "localLevelId": "20517",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1954"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1955"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1956"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1957"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1958"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1959"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1960"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1961"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1962"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/1963"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/1964"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/1965"
+    }
+  ],
+  "count": 12
+}

@@ -1,0 +1,43 @@
+{
+  "district": "Surkhet",
+  "districtId": "610",
+  "localLevels": [
+    {
+      "name": "Simta Rural Municipality",
+      "href": "/LocalLevel/Index/61001"
+    },
+    {
+      "name": "Chingad Rural Municipality",
+      "href": "/LocalLevel/Index/61002"
+    },
+    {
+      "name": "Lekbesi Municipality",
+      "href": "/LocalLevel/Index/61003"
+    },
+    {
+      "name": "Gurbhakot Municipality",
+      "href": "/LocalLevel/Index/61004"
+    },
+    {
+      "name": "Bheriganga Municipality",
+      "href": "/LocalLevel/Index/61005"
+    },
+    {
+      "name": "Birendranagar Municipality",
+      "href": "/LocalLevel/Index/61006"
+    },
+    {
+      "name": "Barahatal Rural Municipality",
+      "href": "/LocalLevel/Index/61007"
+    },
+    {
+      "name": "Panchapuri Municipality",
+      "href": "/LocalLevel/Index/61008"
+    },
+    {
+      "name": "Chaukune Rural Municipality",
+      "href": "/LocalLevel/Index/61009"
+    }
+  ],
+  "count": 9
+}

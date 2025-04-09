@@ -1,0 +1,47 @@
+{
+  "localLevel": "Palungtar Municipality",
+  "localLevelId": "40108",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3603"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3604"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3605"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3606"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3607"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3608"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3609"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3610"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3611"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/3612"
+    }
+  ],
+  "count": 10
+}

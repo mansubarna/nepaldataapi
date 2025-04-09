@@ -1,0 +1,31 @@
+{
+  "district": "Arghakhanchi",
+  "districtId": "505",
+  "localLevels": [
+    {
+      "name": "Chhatradev Rural Municipality",
+      "href": "/LocalLevel/Index/50501"
+    },
+    {
+      "name": "Malarani Rural Municipality",
+      "href": "/LocalLevel/Index/50502"
+    },
+    {
+      "name": "Bhumikasthan Municipality",
+      "href": "/LocalLevel/Index/50503"
+    },
+    {
+      "name": "Sandhikharka Municipality",
+      "href": "/LocalLevel/Index/50504"
+    },
+    {
+      "name": "Panini Rural Municipality",
+      "href": "/LocalLevel/Index/50505"
+    },
+    {
+      "name": "Shitganga Municipality",
+      "href": "/LocalLevel/Index/50506"
+    }
+  ],
+  "count": 6
+}

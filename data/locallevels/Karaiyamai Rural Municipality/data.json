@@ -1,0 +1,39 @@
+{
+  "localLevel": "Karaiyamai Rural Municipality",
+  "localLevelId": "20709",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2249"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2250"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2251"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2252"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2253"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2254"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2255"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2256"
+    }
+  ],
+  "count": 8
+}

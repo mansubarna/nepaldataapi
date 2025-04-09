@@ -1,0 +1,39 @@
+{
+  "localLevel": "Baiteshwor Rural Municipality",
+  "localLevelId": "30104",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2455"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2456"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2457"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2458"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2459"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2460"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2461"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2462"
+    }
+  ],
+  "count": 8
+}

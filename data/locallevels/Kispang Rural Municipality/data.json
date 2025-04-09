@@ -1,0 +1,27 @@
+{
+  "localLevel": "Kispang Rural Municipality",
+  "localLevelId": "30505",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2768"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2769"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2770"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2771"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2772"
+    }
+  ],
+  "count": 5
+}

@@ -1,0 +1,31 @@
+{
+  "localLevel": "Chhathar Rural Municipality",
+  "localLevelId": "10806",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/522"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/523"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/524"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/525"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/526"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/527"
+    }
+  ],
+  "count": 6
+}

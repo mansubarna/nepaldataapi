@@ -1,0 +1,31 @@
+{
+  "localLevel": "Bethanchok Rural Municipality",
+  "localLevelId": "30910",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3174"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3175"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3176"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3177"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3178"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3179"
+    }
+  ],
+  "count": 6
+}

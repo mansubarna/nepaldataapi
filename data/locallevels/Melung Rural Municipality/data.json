@@ -1,0 +1,35 @@
+{
+  "localLevel": "Melung Rural Municipality",
+  "localLevelId": "30107",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2479"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2480"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2481"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2482"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2483"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2484"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2485"
+    }
+  ],
+  "count": 7
+}

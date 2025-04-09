@@ -1,0 +1,35 @@
+{
+  "localLevel": "Mapya Dudhkoshi Rural Municipality",
+  "localLevelId": "10304",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/153"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/154"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/155"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/156"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/157"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/158"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/159"
+    }
+  ],
+  "count": 7
+}

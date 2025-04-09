@@ -1,0 +1,31 @@
+{
+  "localLevel": "Balanbihul Rural Municipality",
+  "localLevelId": "20108",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1227"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1228"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1229"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1230"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1231"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1232"
+    }
+  ],
+  "count": 6
+}

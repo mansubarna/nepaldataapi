@@ -1,0 +1,47 @@
+{
+  "localLevel": "Bhaktapur Municipality",
+  "localLevelId": "30702",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2972"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2973"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2974"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2975"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2976"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2977"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2978"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2979"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2980"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/2981"
+    }
+  ],
+  "count": 10
+}

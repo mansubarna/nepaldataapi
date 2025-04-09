@@ -1,0 +1,31 @@
+{
+  "localLevel": "Sayal Rural Municipality",
+  "localLevelId": "70602",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6377"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6378"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6379"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6380"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6381"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6382"
+    }
+  ],
+  "count": 6
+}

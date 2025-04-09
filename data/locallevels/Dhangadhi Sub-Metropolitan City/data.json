@@ -1,0 +1,83 @@
+{
+  "localLevel": "Dhangadhi Sub-Metropolitan City",
+  "localLevelId": "70813",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6633"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6634"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6635"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6636"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6637"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6638"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6639"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6640"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/6641"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/6642"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/6643"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/6644"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/6645"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/6646"
+    },
+    {
+      "no": "15",
+      "href": "/Ward/Index/6647"
+    },
+    {
+      "no": "16",
+      "href": "/Ward/Index/6648"
+    },
+    {
+      "no": "17",
+      "href": "/Ward/Index/6649"
+    },
+    {
+      "no": "18",
+      "href": "/Ward/Index/6650"
+    },
+    {
+      "no": "19",
+      "href": "/Ward/Index/6651"
+    }
+  ],
+  "count": 19
+}

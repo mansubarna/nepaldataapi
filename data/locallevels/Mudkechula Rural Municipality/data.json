@@ -1,0 +1,43 @@
+{
+  "localLevel": "Mudkechula Rural Municipality",
+  "localLevelId": "60104",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5313"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5314"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5315"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5316"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5317"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5318"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5319"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5320"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5321"
+    }
+  ],
+  "count": 9
+}

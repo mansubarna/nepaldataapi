@@ -1,0 +1,27 @@
+{
+  "localLevel": "Lomanthang Rural Municipality",
+  "localLevelId": "40304",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3687"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3688"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3689"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3690"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3691"
+    }
+  ],
+  "count": 5
+}

@@ -1,0 +1,47 @@
+{
+  "localLevel": "Inaruwa Municipality",
+  "localLevelId": "11309",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1053"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1054"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1055"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1056"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1057"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1058"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1059"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1060"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1061"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/1062"
+    }
+  ],
+  "count": 10
+}

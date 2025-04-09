@@ -1,0 +1,39 @@
+{
+  "localLevel": "Kanakasundari Rural Municipality",
+  "localLevelId": "60402",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5453"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5454"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5455"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5456"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5457"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5458"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5459"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5460"
+    }
+  ],
+  "count": 8
+}

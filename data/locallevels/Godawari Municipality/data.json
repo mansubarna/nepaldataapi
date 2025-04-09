@@ -1,0 +1,55 @@
+{
+  "localLevel": "Godawari Municipality",
+  "localLevelId": "70803",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6539"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6540"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6541"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6542"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6543"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6544"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6545"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6546"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/6547"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/6548"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/6549"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/6550"
+    }
+  ],
+  "count": 12
+}

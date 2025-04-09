@@ -1,0 +1,39 @@
+{
+  "localLevel": "Miklajung Rural Municipality",
+  "localLevelId": "10908",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/580"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/581"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/582"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/583"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/584"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/585"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/586"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/587"
+    }
+  ],
+  "count": 8
+}

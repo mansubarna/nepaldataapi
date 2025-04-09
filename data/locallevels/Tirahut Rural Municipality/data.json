@@ -1,0 +1,27 @@
+{
+  "localLevel": "Tirahut Rural Municipality",
+  "localLevelId": "20115",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1288"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1289"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1290"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1291"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1292"
+    }
+  ],
+  "count": 5
+}

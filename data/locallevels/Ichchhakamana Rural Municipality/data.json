@@ -1,0 +1,35 @@
+{
+  "localLevel": "Ichchhakamana Rural Municipality",
+  "localLevelId": "31303",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3476"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3477"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3478"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3479"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3480"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3481"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3482"
+    }
+  ],
+  "count": 7
+}

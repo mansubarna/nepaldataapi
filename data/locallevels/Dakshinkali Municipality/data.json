@@ -1,0 +1,43 @@
+{
+  "localLevel": "Dakshinkali Municipality",
+  "localLevelId": "30611",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2954"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2955"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2956"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2957"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2958"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2959"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2960"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2961"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2962"
+    }
+  ],
+  "count": 9
+}

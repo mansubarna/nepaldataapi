@@ -1,0 +1,47 @@
+{
+  "localLevel": "Bedkot Municipality",
+  "localLevelId": "70903",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6673"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6674"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6675"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6676"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6677"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6678"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6679"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6680"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/6681"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/6682"
+    }
+  ],
+  "count": 10
+}

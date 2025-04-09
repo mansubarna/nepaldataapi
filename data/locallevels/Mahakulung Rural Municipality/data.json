@@ -1,0 +1,27 @@
+{
+  "localLevel": "Mahakulung Rural Municipality",
+  "localLevelId": "10302",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/143"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/144"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/145"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/146"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/147"
+    }
+  ],
+  "count": 5
+}

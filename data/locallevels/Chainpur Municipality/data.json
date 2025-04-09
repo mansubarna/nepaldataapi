@@ -1,0 +1,51 @@
+{
+  "localLevel": "Chainpur Municipality",
+  "localLevelId": "10208",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/109"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/110"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/111"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/112"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/113"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/114"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/115"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/116"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/117"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/118"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/119"
+    }
+  ],
+  "count": 11
+}

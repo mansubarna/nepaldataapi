@@ -1,0 +1,27 @@
+{
+  "localLevel": "Thasang Rural Municipality",
+  "localLevelId": "40305",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3692"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3693"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3694"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3695"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3696"
+    }
+  ],
+  "count": 5
+}

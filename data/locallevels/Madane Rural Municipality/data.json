@@ -1,0 +1,35 @@
+{
+  "localLevel": "Madane Rural Municipality",
+  "localLevelId": "50407",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4522"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4523"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4524"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4525"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4526"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4527"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4528"
+    }
+  ],
+  "count": 7
+}

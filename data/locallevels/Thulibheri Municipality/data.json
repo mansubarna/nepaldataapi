@@ -1,0 +1,51 @@
+{
+  "localLevel": "Thulibheri Municipality",
+  "localLevelId": "60106",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5333"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5334"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5335"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5336"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5337"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5338"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5339"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5340"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5341"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/5342"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/5343"
+    }
+  ],
+  "count": 11
+}

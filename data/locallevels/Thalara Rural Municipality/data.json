@@ -1,0 +1,43 @@
+{
+  "localLevel": "Thalara Rural Municipality",
+  "localLevelId": "70211",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6157"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6158"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6159"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6160"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6161"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6162"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6163"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6164"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/6165"
+    }
+  ],
+  "count": 9
+}

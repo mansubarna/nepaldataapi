@@ -1,0 +1,63 @@
+{
+  "localLevel": "Bardibas Municipality",
+  "localLevelId": "20401",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1655"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1656"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1657"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1658"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1659"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1660"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1661"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1662"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1663"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/1664"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/1665"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/1666"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/1667"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/1668"
+    }
+  ],
+  "count": 14
+}

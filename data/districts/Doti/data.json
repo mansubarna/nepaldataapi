@@ -1,0 +1,47 @@
+{
+  "district": "Doti",
+  "districtId": "706",
+  "localLevels": [
+    {
+      "name": "Aadarsha Rural Municipality",
+      "href": "/LocalLevel/Index/70603"
+    },
+    {
+      "name": "Badikedar Rural Municipality",
+      "href": "/LocalLevel/Index/70608"
+    },
+    {
+      "name": "Bogatan Phudsil Rural Municipality",
+      "href": "/LocalLevel/Index/70607"
+    },
+    {
+      "name": "Dipayal Silgadhi Municipality",
+      "href": "/LocalLevel/Index/70605"
+    },
+    {
+      "name": "Jorayal Rural Municipality",
+      "href": "/LocalLevel/Index/70609"
+    },
+    {
+      "name": "K.I. Singh Rural Municipality",
+      "href": "/LocalLevel/Index/70606"
+    },
+    {
+      "name": "Khaptad National Park",
+      "href": "#"
+    },
+    {
+      "name": "Purbichauki Rural Municipality",
+      "href": "/LocalLevel/Index/70601"
+    },
+    {
+      "name": "Sayal Rural Municipality",
+      "href": "/LocalLevel/Index/70602"
+    },
+    {
+      "name": "Shikhar Municipality",
+      "href": "/LocalLevel/Index/70604"
+    }
+  ],
+  "count": 10
+}

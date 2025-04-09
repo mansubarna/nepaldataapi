@@ -1,0 +1,51 @@
+{
+  "localLevel": "Balara Municipality",
+  "localLevelId": "20516",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1943"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1944"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1945"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1946"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1947"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1948"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1949"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1950"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1951"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/1952"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/1953"
+    }
+  ],
+  "count": 11
+}

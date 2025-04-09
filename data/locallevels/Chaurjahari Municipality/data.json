@@ -1,0 +1,63 @@
+{
+  "localLevel": "Chaurjahari Municipality",
+  "localLevelId": "60806",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5814"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5815"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5816"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5817"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5818"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5819"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5820"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5821"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5822"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/5823"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/5824"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/5825"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/5826"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/5827"
+    }
+  ],
+  "count": 14
+}

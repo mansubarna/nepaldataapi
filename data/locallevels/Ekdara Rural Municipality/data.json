@@ -1,0 +1,31 @@
+{
+  "localLevel": "Ekdara Rural Municipality",
+  "localLevelId": "20411",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1753"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1754"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1755"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1756"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1757"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1758"
+    }
+  ],
+  "count": 6
+}

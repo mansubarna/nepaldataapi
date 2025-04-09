@@ -1,0 +1,51 @@
+{
+  "localLevel": "Tripurasundari Municipality",
+  "localLevelId": "60105",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5322"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5323"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5324"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5325"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5326"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5327"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5328"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5329"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5330"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/5331"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/5332"
+    }
+  ],
+  "count": 11
+}

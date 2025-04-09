@@ -1,0 +1,55 @@
+{
+  "district": "Sindhupalchowk",
+  "districtId": "302",
+  "localLevels": [
+    {
+      "name": "Bhotekoshi Rural Municipality",
+      "href": "/LocalLevel/Index/30201"
+    },
+    {
+      "name": "Jugal Rural Municipality",
+      "href": "/LocalLevel/Index/30202"
+    },
+    {
+      "name": "Panchpokhari Thangpal Rural Municipality",
+      "href": "/LocalLevel/Index/30203"
+    },
+    {
+      "name": "Helambu Rural Municipality",
+      "href": "/LocalLevel/Index/30204"
+    },
+    {
+      "name": "Melamchi Municipality",
+      "href": "/LocalLevel/Index/30205"
+    },
+    {
+      "name": "Indrawati Rural Municipality",
+      "href": "/LocalLevel/Index/30206"
+    },
+    {
+      "name": "Chautara Sangachokgadhi Municipality",
+      "href": "/LocalLevel/Index/30207"
+    },
+    {
+      "name": "Balephi Rural Municipality",
+      "href": "/LocalLevel/Index/30208"
+    },
+    {
+      "name": "Bahrabise Municipality",
+      "href": "/LocalLevel/Index/30209"
+    },
+    {
+      "name": "Tripurasundari Rural Municipality",
+      "href": "/LocalLevel/Index/30210"
+    },
+    {
+      "name": "Lisankhupakhar Rural Municipality",
+      "href": "/LocalLevel/Index/30211"
+    },
+    {
+      "name": "Sunkoshi Rural Municipality",
+      "href": "/LocalLevel/Index/30212"
+    }
+  ],
+  "count": 12
+}

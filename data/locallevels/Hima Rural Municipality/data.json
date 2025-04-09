@@ -1,0 +1,35 @@
+{
+  "localLevel": "Hima Rural Municipality",
+  "localLevelId": "60408",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5499"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5500"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5501"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5502"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5503"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5504"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5505"
+    }
+  ],
+  "count": 7
+}

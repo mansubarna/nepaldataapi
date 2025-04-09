@@ -1,0 +1,47 @@
+{
+  "district": "Palpa",
+  "districtId": "506",
+  "localLevels": [
+    {
+      "name": "Rampur Municipality",
+      "href": "/LocalLevel/Index/50601"
+    },
+    {
+      "name": "Purbakhola Rural Municipality",
+      "href": "/LocalLevel/Index/50602"
+    },
+    {
+      "name": "Rambha Rural Municipality",
+      "href": "/LocalLevel/Index/50603"
+    },
+    {
+      "name": "Baganaskali Rural Municipality",
+      "href": "/LocalLevel/Index/50604"
+    },
+    {
+      "name": "Rainadevi Chhahara Rural Municipality",
+      "href": "/LocalLevel/Index/50607"
+    },
+    {
+      "name": "Tansen Municipality",
+      "href": "/LocalLevel/Index/50605"
+    },
+    {
+      "name": "Ribdikot Rural Municipality",
+      "href": "/LocalLevel/Index/50606"
+    },
+    {
+      "name": "Tinau Rural Municipality",
+      "href": "/LocalLevel/Index/50608"
+    },
+    {
+      "name": "Mathagadhi Rural Municipality",
+      "href": "/LocalLevel/Index/50609"
+    },
+    {
+      "name": "Nisdi Rural Municipality",
+      "href": "/LocalLevel/Index/50610"
+    }
+  ],
+  "count": 10
+}

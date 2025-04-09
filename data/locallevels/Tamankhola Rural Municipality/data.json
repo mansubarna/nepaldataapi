@@ -1,0 +1,31 @@
+{
+  "localLevel": "Tamankhola Rural Municipality",
+  "localLevelId": "41104",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4251"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4252"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4253"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4254"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4255"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4256"
+    }
+  ],
+  "count": 6
+}

@@ -1,0 +1,35 @@
+{
+  "localLevel": "Arun Rural Municipality",
+  "localLevelId": "10605",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/385"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/386"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/387"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/388"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/389"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/390"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/391"
+    }
+  ],
+  "count": 7
+}

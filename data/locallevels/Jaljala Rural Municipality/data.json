@@ -1,0 +1,43 @@
+{
+  "localLevel": "Jaljala Rural Municipality",
+  "localLevelId": "41002",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4171"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4172"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4173"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4174"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4175"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4176"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4177"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4178"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4179"
+    }
+  ],
+  "count": 9
+}

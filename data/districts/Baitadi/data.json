@@ -1,0 +1,47 @@
+{
+  "district": "Baitadi",
+  "districtId": "704",
+  "localLevels": [
+    {
+      "name": "Dasharath Chand Municipality",
+      "href": "/LocalLevel/Index/70405"
+    },
+    {
+      "name": "Dilasaini Rural Municipality",
+      "href": "/LocalLevel/Index/70401"
+    },
+    {
+      "name": "Dogadakedar Rural Municipality",
+      "href": "/LocalLevel/Index/70402"
+    },
+    {
+      "name": "Melauli Municipality",
+      "href": "/LocalLevel/Index/70408"
+    },
+    {
+      "name": "Pancheshwor Rural Municipality",
+      "href": "/LocalLevel/Index/70406"
+    },
+    {
+      "name": "Patan Municipality",
+      "href": "/LocalLevel/Index/70409"
+    },
+    {
+      "name": "Purchaudi Municipality",
+      "href": "/LocalLevel/Index/70403"
+    },
+    {
+      "name": "Shivanath Rural Municipality",
+      "href": "/LocalLevel/Index/70407"
+    },
+    {
+      "name": "Sigas Rural Municipality",
+      "href": "/LocalLevel/Index/70410"
+    },
+    {
+      "name": "Surnaya Rural Municipality",
+      "href": "/LocalLevel/Index/70404"
+    }
+  ],
+  "count": 10
+}

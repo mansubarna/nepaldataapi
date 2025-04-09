@@ -1,0 +1,27 @@
+{
+  "localLevel": "Bindabasini Rural Municipality",
+  "localLevelId": "20814",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2424"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2425"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2426"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2427"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2428"
+    }
+  ],
+  "count": 5
+}

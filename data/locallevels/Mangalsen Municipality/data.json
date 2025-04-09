@@ -1,0 +1,63 @@
+{
+  "localLevel": "Mangalsen Municipality",
+  "localLevelId": "70706",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6480"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6481"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6482"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6483"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6484"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6485"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6486"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6487"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/6488"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/6489"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/6490"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/6491"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/6492"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/6493"
+    }
+  ],
+  "count": 14
+}

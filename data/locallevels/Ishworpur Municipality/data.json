@@ -1,0 +1,67 @@
+{
+  "localLevel": "Ishworpur Municipality",
+  "localLevelId": "20506",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1860"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1861"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1862"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1863"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1864"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1865"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1866"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1867"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1868"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/1869"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/1870"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/1871"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/1872"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/1873"
+    },
+    {
+      "no": "15",
+      "href": "/Ward/Index/1874"
+    }
+  ],
+  "count": 15
+}

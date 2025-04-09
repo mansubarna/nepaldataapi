@@ -1,0 +1,47 @@
+{
+  "localLevel": "Kshireshwornath Municipality",
+  "localLevelId": "20305",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1522"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1523"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1524"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1525"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1526"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1527"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1528"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1529"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1530"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/1531"
+    }
+  ],
+  "count": 10
+}

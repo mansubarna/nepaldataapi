@@ -1,0 +1,43 @@
+{
+  "localLevel": "Swargadwari Municipality",
+  "localLevelId": "50305",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4445"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4446"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4447"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4448"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4449"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4450"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4451"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4452"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4453"
+    }
+  ],
+  "count": 9
+}

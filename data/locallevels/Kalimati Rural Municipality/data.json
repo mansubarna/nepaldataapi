@@ -1,0 +1,35 @@
+{
+  "localLevel": "Kalimati Rural Municipality",
+  "localLevelId": "60908",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5892"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5893"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5894"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5895"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5896"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5897"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5898"
+    }
+  ],
+  "count": 7
+}

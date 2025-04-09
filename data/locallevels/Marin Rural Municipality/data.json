@@ -1,0 +1,35 @@
+{
+  "localLevel": "Marin Rural Municipality",
+  "localLevelId": "31108",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3335"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3336"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3337"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3338"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3339"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3340"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3341"
+    }
+  ],
+  "count": 7
+}

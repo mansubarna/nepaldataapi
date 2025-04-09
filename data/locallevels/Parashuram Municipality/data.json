@@ -1,0 +1,55 @@
+{
+  "localLevel": "Parashuram Municipality",
+  "localLevelId": "70505",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6345"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6346"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6347"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6348"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6349"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6350"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6351"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6352"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/6353"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/6354"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/6355"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/6356"
+    }
+  ],
+  "count": 12
+}

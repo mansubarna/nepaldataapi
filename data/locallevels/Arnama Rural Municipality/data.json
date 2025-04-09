@@ -1,0 +1,27 @@
+{
+  "localLevel": "Arnama Rural Municipality",
+  "localLevelId": "20209",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1418"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1419"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1420"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1421"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1422"
+    }
+  ],
+  "count": 5
+}

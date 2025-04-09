@@ -1,0 +1,47 @@
+{
+  "localLevel": "Champadevi Rural Municipality",
+  "localLevelId": "10406",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/236"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/237"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/238"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/239"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/240"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/241"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/242"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/243"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/244"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/245"
+    }
+  ],
+  "count": 10
+}

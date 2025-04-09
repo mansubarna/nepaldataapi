@@ -1,0 +1,27 @@
+{
+  "localLevel": "Thori Rural Municipality",
+  "localLevelId": "20801",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2317"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2318"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2319"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2320"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2321"
+    }
+  ],
+  "count": 5
+}

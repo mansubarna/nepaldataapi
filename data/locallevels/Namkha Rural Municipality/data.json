@@ -1,0 +1,31 @@
+{
+  "localLevel": "Namkha Rural Municipality",
+  "localLevelId": "60304",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5421"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5422"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5423"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5424"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5425"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5426"
+    }
+  ],
+  "count": 6
+}

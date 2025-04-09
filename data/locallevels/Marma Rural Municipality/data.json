@@ -1,0 +1,31 @@
+{
+  "localLevel": "Marma Rural Municipality",
+  "localLevelId": "70306",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6205"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6206"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6207"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6208"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6209"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6210"
+    }
+  ],
+  "count": 6
+}

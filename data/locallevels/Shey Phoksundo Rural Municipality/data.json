@@ -1,0 +1,43 @@
+{
+  "localLevel": "Shey Phoksundo Rural Municipality",
+  "localLevelId": "60102",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5298"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5299"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5300"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5301"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5302"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5303"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5304"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5305"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5306"
+    }
+  ],
+  "count": 9
+}

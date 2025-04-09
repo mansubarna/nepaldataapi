@@ -1,0 +1,43 @@
+{
+  "localLevel": "Palata Rural Municipality",
+  "localLevelId": "60501",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5506"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5507"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5508"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5509"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5510"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5511"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5512"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5513"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5514"
+    }
+  ],
+  "count": 9
+}

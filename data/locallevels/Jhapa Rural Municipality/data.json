@@ -1,0 +1,35 @@
+{
+  "localLevel": "Jhapa Rural Municipality",
+  "localLevelId": "11110",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/754"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/755"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/756"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/757"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/758"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/759"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/760"
+    }
+  ],
+  "count": 7
+}

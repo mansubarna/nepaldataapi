@@ -1,0 +1,51 @@
+{
+  "localLevel": "Saptakoshi Municipality",
+  "localLevelId": "20101",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1158"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1159"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1160"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1161"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1162"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1163"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1164"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1165"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1166"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/1167"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/1168"
+    }
+  ],
+  "count": 11
+}

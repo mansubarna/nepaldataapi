@@ -1,0 +1,39 @@
+{
+  "localLevel": "Baijanath Rural Municipality",
+  "localLevelId": "51103",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5160"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5161"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5162"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5163"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5164"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5165"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5166"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5167"
+    }
+  ],
+  "count": 8
+}

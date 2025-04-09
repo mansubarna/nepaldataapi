@@ -1,0 +1,55 @@
+{
+  "localLevel": "Sandhikharka Municipality",
+  "localLevelId": "50504",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4596"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4597"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4598"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4599"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4600"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4601"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4602"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4603"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4604"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/4605"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/4606"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/4607"
+    }
+  ],
+  "count": 12
+}

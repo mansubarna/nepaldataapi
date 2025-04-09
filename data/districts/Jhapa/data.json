@@ -1,0 +1,67 @@
+{
+  "district": "Jhapa",
+  "districtId": "111",
+  "localLevels": [
+    {
+      "name": "Arjundhara Municipality",
+      "href": "/LocalLevel/Index/11103"
+    },
+    {
+      "name": "Bahradashi Rural Municipality",
+      "href": "/LocalLevel/Index/11111"
+    },
+    {
+      "name": "Bhadrapur Municipality",
+      "href": "/LocalLevel/Index/11114"
+    },
+    {
+      "name": "Birtamod Municipality",
+      "href": "/LocalLevel/Index/11112"
+    },
+    {
+      "name": "Buddhashanti Rural Municipality",
+      "href": "/LocalLevel/Index/11102"
+    },
+    {
+      "name": "Damak Municipality",
+      "href": "/LocalLevel/Index/11107"
+    },
+    {
+      "name": "Gauradaha Municipality",
+      "href": "/LocalLevel/Index/11108"
+    },
+    {
+      "name": "Gaurigunj Rural Municipality",
+      "href": "/LocalLevel/Index/11109"
+    },
+    {
+      "name": "Haldibari Rural Municipality",
+      "href": "/LocalLevel/Index/11113"
+    },
+    {
+      "name": "Jhapa Rural Municipality",
+      "href": "/LocalLevel/Index/11110"
+    },
+    {
+      "name": "Kachankawal Rural Municipality",
+      "href": "/LocalLevel/Index/11115"
+    },
+    {
+      "name": "Kamal Rural Municipality",
+      "href": "/LocalLevel/Index/11106"
+    },
+    {
+      "name": "Mechinagar Municipality",
+      "href": "/LocalLevel/Index/11101"
+    },
+    {
+      "name": "Shivasatakshi Municipality",
+      "href": "/LocalLevel/Index/11105"
+    },
+    {
+      "name": "Kankai Municipality",
+      "href": "/LocalLevel/Index/11104"
+    }
+  ],
+  "count": 15
+}

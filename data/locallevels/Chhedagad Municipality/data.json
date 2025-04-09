@@ -1,0 +1,59 @@
+{
+  "localLevel": "Chhedagad Municipality",
+  "localLevelId": "60704",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5707"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5708"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5709"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5710"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5711"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5712"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5713"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5714"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5715"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/5716"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/5717"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/5718"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/5719"
+    }
+  ],
+  "count": 13
+}

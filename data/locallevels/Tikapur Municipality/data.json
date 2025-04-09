@@ -1,0 +1,43 @@
+{
+  "localLevel": "Tikapur Municipality",
+  "localLevelId": "70810",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6606"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6607"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6608"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6609"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6610"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6611"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6612"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6613"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/6614"
+    }
+  ],
+  "count": 9
+}

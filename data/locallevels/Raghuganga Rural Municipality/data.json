@@ -1,0 +1,39 @@
+{
+  "localLevel": "Raghuganga Rural Municipality",
+  "localLevelId": "40402",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3705"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3706"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3707"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3708"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3709"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3710"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3711"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3712"
+    }
+  ],
+  "count": 8
+}

@@ -1,0 +1,43 @@
+{
+  "localLevel": "Gauradaha Municipality",
+  "localLevelId": "11108",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/739"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/740"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/741"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/742"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/743"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/744"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/745"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/746"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/747"
+    }
+  ],
+  "count": 9
+}

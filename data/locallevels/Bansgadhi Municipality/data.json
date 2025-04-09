@@ -1,0 +1,43 @@
+{
+  "localLevel": "Bansgadhi Municipality",
+  "localLevelId": "51201",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5217"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5218"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5219"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5220"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5221"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5222"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5223"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5224"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5225"
+    }
+  ],
+  "count": 9
+}

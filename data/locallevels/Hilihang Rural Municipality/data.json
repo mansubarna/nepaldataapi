@@ -1,0 +1,35 @@
+{
+  "localLevel": "Hilihang Rural Municipality",
+  "localLevelId": "10902",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/534"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/535"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/536"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/537"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/538"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/539"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/540"
+    }
+  ],
+  "count": 7
+}

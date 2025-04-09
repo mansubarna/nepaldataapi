@@ -1,0 +1,43 @@
+{
+  "localLevel": "Haripur Municipality",
+  "localLevelId": "20505",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1851"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1852"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1853"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1854"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1855"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1856"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1857"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1858"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1859"
+    }
+  ],
+  "count": 9
+}

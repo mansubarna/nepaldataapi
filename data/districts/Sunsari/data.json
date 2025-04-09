@@ -1,0 +1,59 @@
+{
+  "district": "Sunsari",
+  "districtId": "113",
+  "localLevels": [
+    {
+      "name": "Barahakshetra Municipality",
+      "href": "/LocalLevel/Index/11302"
+    },
+    {
+      "name": "Barju Rural Municipality",
+      "href": "/LocalLevel/Index/11312"
+    },
+    {
+      "name": "Bhokraha Narsingh Rural Municipality",
+      "href": "/LocalLevel/Index/11304"
+    },
+    {
+      "name": "Dewangunj Rural Municipality",
+      "href": "/LocalLevel/Index/11311"
+    },
+    {
+      "name": "Dharan Sub-Metropolitan City",
+      "href": "/LocalLevel/Index/11301"
+    },
+    {
+      "name": "Duhabi Municipality",
+      "href": "/LocalLevel/Index/11307"
+    },
+    {
+      "name": "Gadhi Rural Municipality",
+      "href": "/LocalLevel/Index/11308"
+    },
+    {
+      "name": "Harinagar Rural Municipality",
+      "href": "/LocalLevel/Index/11310"
+    },
+    {
+      "name": "Inaruwa Municipality",
+      "href": "/LocalLevel/Index/11309"
+    },
+    {
+      "name": "Itahari Sub-Metropolitan City",
+      "href": "/LocalLevel/Index/11306"
+    },
+    {
+      "name": "Koshi Rural Municipality",
+      "href": "/LocalLevel/Index/11303"
+    },
+    {
+      "name": "Koshi Tappu Wildlife Reserve",
+      "href": "#"
+    },
+    {
+      "name": "Ramdhuni Municipality",
+      "href": "/LocalLevel/Index/11305"
+    }
+  ],
+  "count": 13
+}

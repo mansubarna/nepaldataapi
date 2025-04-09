@@ -1,0 +1,43 @@
+{
+  "localLevel": "Kamala Municipality",
+  "localLevelId": "20311",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1580"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1581"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1582"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1583"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1584"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1585"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1586"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1587"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1588"
+    }
+  ],
+  "count": 9
+}

@@ -1,0 +1,39 @@
+{
+  "localLevel": "Dhakari Rural Municipality",
+  "localLevelId": "70709",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6510"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6511"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6512"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6513"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6514"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6515"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6516"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6517"
+    }
+  ],
+  "count": 8
+}

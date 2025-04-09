@@ -1,0 +1,55 @@
+{
+  "localLevel": "Shuklagandaki Municipality",
+  "localLevelId": "40704",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3923"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3924"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3925"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3926"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3927"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3928"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3929"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3930"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3931"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/3932"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/3933"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/3934"
+    }
+  ],
+  "count": 12
+}

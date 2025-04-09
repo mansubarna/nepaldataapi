@@ -1,0 +1,31 @@
+{
+  "localLevel": "Vyans Rural Municipality",
+  "localLevelId": "70301",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6173"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6174"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6175"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6176"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6177"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6178"
+    }
+  ],
+  "count": 6
+}

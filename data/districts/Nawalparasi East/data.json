@@ -1,0 +1,47 @@
+{
+  "district": "Nawalparasi East",
+  "districtId": "408",
+  "localLevels": [
+    {
+      "name": "Gaindakot Municipality",
+      "href": "/LocalLevel/Index/40801"
+    },
+    {
+      "name": "Bulingtar Rural Municipality",
+      "href": "/LocalLevel/Index/40802"
+    },
+    {
+      "name": "Baudikali Rural Municipality",
+      "href": "/LocalLevel/Index/40803"
+    },
+    {
+      "name": "Hupsekot Rural Municipality",
+      "href": "/LocalLevel/Index/40804"
+    },
+    {
+      "name": "Binayi Triveni Rural Municipality",
+      "href": "/LocalLevel/Index/40808"
+    },
+    {
+      "name": "Devchuli Municipality",
+      "href": "/LocalLevel/Index/40805"
+    },
+    {
+      "name": "Kawasoti Municipality",
+      "href": "/LocalLevel/Index/40806"
+    },
+    {
+      "name": "Madhyabindu Municipality",
+      "href": "/LocalLevel/Index/40807"
+    },
+    {
+      "name": "Binayi Triveni Rural Municipality",
+      "href": "/LocalLevel/Index/40808"
+    },
+    {
+      "name": "Chitwan National Park",
+      "href": "#"
+    }
+  ],
+  "count": 10
+}

@@ -1,0 +1,43 @@
+{
+  "localLevel": "Naraharinath Rural Municipality",
+  "localLevelId": "60505",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5542"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5543"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5544"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5545"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5546"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5547"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5548"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5549"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5550"
+    }
+  ],
+  "count": 9
+}

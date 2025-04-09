@@ -1,0 +1,31 @@
+{
+  "district": "Rukum-West",
+  "districtId": "608",
+  "localLevels": [
+    {
+      "name": "Aathbiskot Municipality",
+      "href": "/LocalLevel/Index/60801"
+    },
+    {
+      "name": "Banphikot Rural Municipality",
+      "href": "/LocalLevel/Index/60803"
+    },
+    {
+      "name": "Chaurjahari Municipality",
+      "href": "/LocalLevel/Index/60806"
+    },
+    {
+      "name": "Musikot Municipality",
+      "href": "/LocalLevel/Index/60804"
+    },
+    {
+      "name": "Sanibheri Rural Municipality",
+      "href": "/LocalLevel/Index/60802"
+    },
+    {
+      "name": "Triveni Rural Municipality",
+      "href": "/LocalLevel/Index/60805"
+    }
+  ],
+  "count": 6
+}

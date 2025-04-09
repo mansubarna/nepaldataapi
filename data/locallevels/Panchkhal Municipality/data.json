@@ -1,0 +1,59 @@
+{
+  "localLevel": "Panchkhal Municipality",
+  "localLevelId": "30906",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3129"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3130"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3131"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3132"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3133"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3134"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3135"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3136"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3137"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/3138"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/3139"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/3140"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/3141"
+    }
+  ],
+  "count": 13
+}

@@ -1,0 +1,35 @@
+{
+  "localLevel": "Samsi Rural Municipality",
+  "localLevelId": "20409",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1736"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1737"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1738"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1739"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1740"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1741"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1742"
+    }
+  ],
+  "count": 7
+}

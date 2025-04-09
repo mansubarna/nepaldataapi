@@ -1,0 +1,43 @@
+{
+  "localLevel": "Machhapuchchhre Rural Municipality",
+  "localLevelId": "40502",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3754"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3755"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3756"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3757"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3758"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3759"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3760"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3761"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3762"
+    }
+  ],
+  "count": 9
+}

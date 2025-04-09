@@ -1,0 +1,43 @@
+{
+  "localLevel": "Shahid Lakhan Rural Municipality",
+  "localLevelId": "40110",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3627"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3628"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3629"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3630"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3631"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3632"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3633"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3634"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3635"
+    }
+  ],
+  "count": 9
+}

@@ -1,0 +1,63 @@
+{
+  "localLevel": "Dudhauli Municipality",
+  "localLevelId": "31101",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3271"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3272"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3273"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3274"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3275"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3276"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3277"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3278"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3279"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/3280"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/3281"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/3282"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/3283"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/3284"
+    }
+  ],
+  "count": 14
+}

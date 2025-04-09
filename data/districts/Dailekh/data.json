@@ -1,0 +1,51 @@
+{
+  "district": "Dailekh",
+  "districtId": "606",
+  "localLevels": [
+    {
+      "name": "Naumule Rural Municipality",
+      "href": "/LocalLevel/Index/60601"
+    },
+    {
+      "name": "Mahabu Rural Municipality",
+      "href": "/LocalLevel/Index/60602"
+    },
+    {
+      "name": "Bhairavi Rural Municipality",
+      "href": "/LocalLevel/Index/60603"
+    },
+    {
+      "name": "Thantikandh Rural Municipality",
+      "href": "/LocalLevel/Index/60604"
+    },
+    {
+      "name": "Aathbis Municipality",
+      "href": "/LocalLevel/Index/60605"
+    },
+    {
+      "name": "Chamunda Bindrasaini Municipality",
+      "href": "/LocalLevel/Index/60606"
+    },
+    {
+      "name": "Dullu Municipality",
+      "href": "/LocalLevel/Index/60607"
+    },
+    {
+      "name": "Narayan Municipality",
+      "href": "/LocalLevel/Index/60608"
+    },
+    {
+      "name": "Bhagawatimai Rural Municipality",
+      "href": "/LocalLevel/Index/60609"
+    },
+    {
+      "name": "Dungeshwor Rural Municipality",
+      "href": "/LocalLevel/Index/60610"
+    },
+    {
+      "name": "Gurans Rural Municipality",
+      "href": "/LocalLevel/Index/60611"
+    }
+  ],
+  "count": 11
+}

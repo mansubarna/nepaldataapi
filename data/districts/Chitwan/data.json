@@ -1,0 +1,39 @@
+{
+  "district": "Chitwan",
+  "districtId": "313",
+  "localLevels": [
+    {
+      "name": "Rapti Municipality",
+      "href": "/LocalLevel/Index/31301"
+    },
+    {
+      "name": "Kalika Municipality",
+      "href": "/LocalLevel/Index/31302"
+    },
+    {
+      "name": "Ichchhakamana Rural Municipality",
+      "href": "/LocalLevel/Index/31303"
+    },
+    {
+      "name": "Bharatpur Metropolitan",
+      "href": "/LocalLevel/Index/31304"
+    },
+    {
+      "name": "Ratnanagar Municipality",
+      "href": "/LocalLevel/Index/31305"
+    },
+    {
+      "name": "Khairahani Municipality",
+      "href": "/LocalLevel/Index/31306"
+    },
+    {
+      "name": "Madi Municipality",
+      "href": "/LocalLevel/Index/31307"
+    },
+    {
+      "name": "Chitwan National Park",
+      "href": "#"
+    }
+  ],
+  "count": 8
+}

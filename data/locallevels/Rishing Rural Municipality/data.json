@@ -1,0 +1,39 @@
+{
+  "localLevel": "Rishing Rural Municipality",
+  "localLevelId": "40707",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3949"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3950"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3951"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3952"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3953"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3954"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3955"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3956"
+    }
+  ],
+  "count": 8
+}

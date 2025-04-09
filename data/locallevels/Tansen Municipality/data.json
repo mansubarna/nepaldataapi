@@ -1,0 +1,63 @@
+{
+  "localLevel": "Tansen Municipality",
+  "localLevelId": "50605",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4660"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4661"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4662"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4663"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4664"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4665"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4666"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4667"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4668"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/4669"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/4670"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/4671"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/4672"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/4673"
+    }
+  ],
+  "count": 14
+}

@@ -1,0 +1,35 @@
+{
+  "localLevel": "Diprung Chuichumma Rural Municipality",
+  "localLevelId": "10507",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/316"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/317"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/318"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/319"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/320"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/321"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/322"
+    }
+  ],
+  "count": 7
+}

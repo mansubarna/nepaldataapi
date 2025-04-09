@@ -1,0 +1,55 @@
+{
+  "localLevel": "Bagchaur Municipality",
+  "localLevelId": "60905",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5858"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5859"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5860"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5861"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5862"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5863"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5864"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5865"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5866"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/5867"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/5868"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/5869"
+    }
+  ],
+  "count": 12
+}

@@ -1,0 +1,47 @@
+{
+  "district": "Rolpa",
+  "districtId": "502",
+  "localLevels": [
+    {
+      "name": "Sunchhahari Rural Municipality",
+      "href": "/LocalLevel/Index/50201"
+    },
+    {
+      "name": "Thawang Rural Municipality",
+      "href": "/LocalLevel/Index/50202"
+    },
+    {
+      "name": "Bhumikasthan Municipality",
+      "href": "/LocalLevel/Index/50203"
+    },
+    {
+      "name": "Sukidaha Rural Municipality",
+      "href": "/LocalLevel/Index/50204"
+    },
+    {
+      "name": "Madi Rural Municipality",
+      "href": "/LocalLevel/Index/50205"
+    },
+    {
+      "name": "Triveni Rural Municipality",
+      "href": "/LocalLevel/Index/50206"
+    },
+    {
+      "name": "Rolpa Municipality",
+      "href": "/LocalLevel/Index/50207"
+    },
+    {
+      "name": "Runtigadhi Rural Municipality",
+      "href": "/LocalLevel/Index/50208"
+    },
+    {
+      "name": "Sunil Smriti Rural Municipality",
+      "href": "/LocalLevel/Index/50209"
+    },
+    {
+      "name": "Lungri Rural Municipality",
+      "href": "/LocalLevel/Index/50210"
+    }
+  ],
+  "count": 10
+}

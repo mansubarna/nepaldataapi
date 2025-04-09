@@ -1,0 +1,43 @@
+{
+  "localLevel": "Tila Rural Municipality",
+  "localLevelId": "60407",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5490"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5491"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5492"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5493"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5494"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5495"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5496"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5497"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5498"
+    }
+  ],
+  "count": 9
+}

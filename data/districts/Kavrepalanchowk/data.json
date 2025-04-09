@@ -1,0 +1,59 @@
+{
+  "district": "Kavrepalanchowk",
+  "districtId": "309",
+  "localLevels": [
+    {
+      "name": "Chauri Deurali Rural Municipality",
+      "href": "/LocalLevel/Index/30901"
+    },
+    {
+      "name": "Bhumlu Rural Municipality",
+      "href": "/LocalLevel/Index/30902"
+    },
+    {
+      "name": "Mandan Deupur Municipality",
+      "href": "/LocalLevel/Index/30903"
+    },
+    {
+      "name": "Banepa Municipality",
+      "href": "/LocalLevel/Index/30904"
+    },
+    {
+      "name": "Dhulikhel Municipality",
+      "href": "/LocalLevel/Index/30905"
+    },
+    {
+      "name": "Panchkhal Municipality",
+      "href": "/LocalLevel/Index/30906"
+    },
+    {
+      "name": "Temal Rural Municipality",
+      "href": "/LocalLevel/Index/30907"
+    },
+    {
+      "name": "Namobuddha Municipality",
+      "href": "/LocalLevel/Index/30908"
+    },
+    {
+      "name": "Panauti Municipality",
+      "href": "/LocalLevel/Index/30909"
+    },
+    {
+      "name": "Bethanchok Rural Municipality",
+      "href": "/LocalLevel/Index/30910"
+    },
+    {
+      "name": "Roshi Rural Municipality",
+      "href": "/LocalLevel/Index/30911"
+    },
+    {
+      "name": "Mahabharat Rural Municipality",
+      "href": "/LocalLevel/Index/30912"
+    },
+    {
+      "name": "Khanikhola Rural Municipality",
+      "href": "/LocalLevel/Index/30913"
+    }
+  ],
+  "count": 13
+}

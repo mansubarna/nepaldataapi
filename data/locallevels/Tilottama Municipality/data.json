@@ -1,0 +1,75 @@
+{
+  "localLevel": "Tilottama Municipality",
+  "localLevelId": "50808",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4855"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4856"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4857"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4858"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4859"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4860"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4861"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4862"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4863"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/4864"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/4865"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/4866"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/4867"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/4868"
+    },
+    {
+      "no": "15",
+      "href": "/Ward/Index/4869"
+    },
+    {
+      "no": "16",
+      "href": "/Ward/Index/4870"
+    },
+    {
+      "no": "17",
+      "href": "/Ward/Index/4871"
+    }
+  ],
+  "count": 17
+}

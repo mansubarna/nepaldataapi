@@ -1,0 +1,43 @@
+{
+  "district": "Udaypur",
+  "districtId": "114",
+  "localLevels": [
+    {
+      "name": "Belaka Municipality",
+      "href": "/LocalLevel/Index/11401"
+    },
+    {
+      "name": "Chaudandigadhi Municipality",
+      "href": "/LocalLevel/Index/11402"
+    },
+    {
+      "name": "Katari Municipality",
+      "href": "/LocalLevel/Index/11407"
+    },
+    {
+      "name": "Koshi Tappu Wildlife Reserve",
+      "href": "#"
+    },
+    {
+      "name": "Rautamai Rural Municipality",
+      "href": "/LocalLevel/Index/11404"
+    },
+    {
+      "name": "limchungbung  Rural Municipality",
+      "href": "/LocalLevel/Index/11405"
+    },
+    {
+      "name": "Tapli Rural Municipality",
+      "href": "/LocalLevel/Index/11406"
+    },
+    {
+      "name": "Triyuga Municipality",
+      "href": "/LocalLevel/Index/11403"
+    },
+    {
+      "name": "Udayapurgadhi Rural Municipality",
+      "href": "/LocalLevel/Index/11408"
+    }
+  ],
+  "count": 9
+}

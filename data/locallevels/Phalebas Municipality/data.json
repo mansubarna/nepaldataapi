@@ -1,0 +1,51 @@
+{
+  "localLevel": "Phalebas Municipality",
+  "localLevelId": "41004",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4194"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4195"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4196"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4197"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4198"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4199"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4200"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4201"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4202"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/4203"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/4204"
+    }
+  ],
+  "count": 11
+}

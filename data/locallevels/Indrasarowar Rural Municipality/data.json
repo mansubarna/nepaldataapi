@@ -1,0 +1,27 @@
+{
+  "localLevel": "Indrasarowar Rural Municipality",
+  "localLevelId": "31201",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3350"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3351"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3352"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3353"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3354"
+    }
+  ],
+  "count": 5
+}

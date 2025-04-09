@@ -1,0 +1,51 @@
+{
+  "localLevel": "Sundarbazar Municipality",
+  "localLevelId": "40606",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3862"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3863"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3864"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3865"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3866"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3867"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3868"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3869"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3870"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/3871"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/3872"
+    }
+  ],
+  "count": 11
+}

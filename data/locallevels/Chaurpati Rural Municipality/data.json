@@ -1,0 +1,35 @@
+{
+  "localLevel": "Chaurpati Rural Municipality",
+  "localLevelId": "70705",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6473"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6474"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6475"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6476"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6477"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6478"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6479"
+    }
+  ],
+  "count": 7
+}

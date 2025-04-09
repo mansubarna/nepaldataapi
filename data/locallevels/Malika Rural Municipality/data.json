@@ -1,0 +1,35 @@
+{
+  "localLevel": "Malika Rural Municipality",
+  "localLevelId": "40404",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3720"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3721"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3722"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3723"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3724"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3725"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3726"
+    }
+  ],
+  "count": 7
+}

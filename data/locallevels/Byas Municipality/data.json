@@ -1,0 +1,63 @@
+{
+  "localLevel": "Byas Municipality",
+  "localLevelId": "40702",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3902"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3903"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3904"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3905"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3906"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3907"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3908"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3909"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3910"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/3911"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/3912"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/3913"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/3914"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/3915"
+    }
+  ],
+  "count": 14
+}

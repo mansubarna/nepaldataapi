@@ -1,0 +1,51 @@
+{
+  "localLevel": "Barahakshetra Municipality",
+  "localLevelId": "11302",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/979"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/980"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/981"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/982"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/983"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/984"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/985"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/986"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/987"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/988"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/989"
+    }
+  ],
+  "count": 11
+}

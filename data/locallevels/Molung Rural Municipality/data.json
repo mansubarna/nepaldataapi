@@ -1,0 +1,39 @@
+{
+  "localLevel": "Molung Rural Municipality",
+  "localLevelId": "10403",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/210"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/211"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/212"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/213"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/214"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/215"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/216"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/217"
+    }
+  ],
+  "count": 8
+}

@@ -1,0 +1,43 @@
+{
+  "localLevel": "Shankharapur Municipality",
+  "localLevelId": "30601",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2825"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2826"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2827"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2828"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2829"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2830"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2831"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2832"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2833"
+    }
+  ],
+  "count": 9
+}

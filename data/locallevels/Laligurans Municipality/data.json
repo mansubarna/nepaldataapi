@@ -1,0 +1,43 @@
+{
+  "localLevel": "Laligurans Municipality",
+  "localLevelId": "10805",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/513"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/514"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/515"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/516"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/517"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/518"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/519"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/520"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/521"
+    }
+  ],
+  "count": 9
+}

@@ -1,0 +1,43 @@
+{
+  "localLevel": "Aurahi Municipality",
+  "localLevelId": "20404",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1689"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1690"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1691"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1692"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1693"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1694"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1695"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1696"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1697"
+    }
+  ],
+  "count": 9
+}

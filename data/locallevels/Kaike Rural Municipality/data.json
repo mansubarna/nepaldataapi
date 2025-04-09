@@ -1,0 +1,35 @@
+{
+  "localLevel": "Kaike Rural Municipality",
+  "localLevelId": "60107",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5344"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5345"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5346"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5347"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5348"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5349"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5350"
+    }
+  ],
+  "count": 7
+}

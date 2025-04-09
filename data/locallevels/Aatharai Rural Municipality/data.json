@@ -1,0 +1,35 @@
+{
+  "localLevel": "Aatharai Rural Municipality",
+  "localLevelId": "10801",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/485"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/486"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/487"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/488"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/489"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/490"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/491"
+    }
+  ],
+  "count": 7
+}

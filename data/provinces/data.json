@@ -1,0 +1,33 @@
+{
+  "provinces": [
+    {
+      "name": "Koshi",
+      "href": "/Province/Index/1"
+    },
+    {
+      "name": "Madhesh",
+      "href": "/Province/Index/2"
+    },
+    {
+      "name": "Lumbini",
+      "href": "/Province/Index/5"
+    },
+    {
+      "name": "Bagmati",
+      "href": "/Province/Index/3"
+    },
+    {
+      "name": "Gandaki",
+      "href": "/Province/Index/4"
+    },
+    {
+      "name": "Karnali",
+      "href": "/Province/Index/6"
+    },
+    {
+      "name": "Sudurpashchim",
+      "href": "/Province/Index/7"
+    }
+  ],
+  "count": 7
+}

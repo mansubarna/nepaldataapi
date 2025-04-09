@@ -1,0 +1,51 @@
+{
+  "localLevel": "Tinpatan Rural Municipality",
+  "localLevelId": "31103",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3291"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3292"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3293"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3294"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3295"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3296"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3297"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3298"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3299"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/3300"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/3301"
+    }
+  ],
+  "count": 11
+}

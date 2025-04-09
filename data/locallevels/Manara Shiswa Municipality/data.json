@@ -1,0 +1,47 @@
+{
+  "localLevel": "Manara Shiswa Municipality",
+  "localLevelId": "20410",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1743"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1744"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1745"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1746"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1747"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1748"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1749"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1750"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1751"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/1752"
+    }
+  ],
+  "count": 10
+}

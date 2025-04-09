@@ -1,0 +1,35 @@
+{
+  "localLevel": "Siyari Rural Municipality",
+  "localLevelId": "50807",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4848"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4849"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4850"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4851"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4852"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4853"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4854"
+    }
+  ],
+  "count": 7
+}

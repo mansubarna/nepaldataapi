@@ -1,0 +1,43 @@
+{
+  "localLevel": "Manang Ngisyang Rural Municipality",
+  "localLevelId": "40202",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3649"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3650"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3651"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3652"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3653"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3654"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3655"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3656"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3657"
+    }
+  ],
+  "count": 9
+}

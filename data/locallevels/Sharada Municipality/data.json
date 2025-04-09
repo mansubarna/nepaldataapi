@@ -1,0 +1,67 @@
+{
+  "localLevel": "Sharada Municipality",
+  "localLevelId": "60907",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5877"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5878"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5879"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5880"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5881"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5882"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5883"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5884"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5885"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/5886"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/5887"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/5888"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/5889"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/5890"
+    },
+    {
+      "no": "15",
+      "href": "/Ward/Index/5891"
+    }
+  ],
+  "count": 15
+}

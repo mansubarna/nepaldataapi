@@ -1,0 +1,63 @@
+{
+  "localLevel": "Chhayanath Rara Municipality",
+  "localLevelId": "60202",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5366"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5367"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5368"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5369"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5370"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5371"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5372"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5373"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5374"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/5375"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/5376"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/5377"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/5378"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/5379"
+    }
+  ],
+  "count": 14
+}

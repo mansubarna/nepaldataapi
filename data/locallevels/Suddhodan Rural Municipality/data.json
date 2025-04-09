@@ -1,0 +1,35 @@
+{
+  "localLevel": "Suddhodan Rural Municipality",
+  "localLevelId": "50806",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4841"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4842"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4843"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4844"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4845"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4846"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4847"
+    }
+  ],
+  "count": 7
+}

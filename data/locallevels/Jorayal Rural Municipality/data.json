@@ -1,0 +1,31 @@
+{
+  "localLevel": "Jorayal Rural Municipality",
+  "localLevelId": "70609",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6429"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6430"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6431"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6432"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6433"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6434"
+    }
+  ],
+  "count": 6
+}

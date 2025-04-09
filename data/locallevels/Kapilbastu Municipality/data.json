@@ -1,0 +1,55 @@
+{
+  "localLevel": "Kapilbastu Municipality",
+  "localLevelId": "50907",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5002"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5003"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5004"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5005"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5006"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5007"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5008"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5009"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5010"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/5011"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/5012"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/5013"
+    }
+  ],
+  "count": 12
+}

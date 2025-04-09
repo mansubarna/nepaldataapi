@@ -1,0 +1,35 @@
+{
+  "localLevel": "Bhairavi Rural Municipality",
+  "localLevelId": "60603",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5602"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5603"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5604"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5605"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5606"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5607"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5608"
+    }
+  ],
+  "count": 7
+}

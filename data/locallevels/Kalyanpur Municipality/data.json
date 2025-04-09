@@ -1,0 +1,55 @@
+{
+  "localLevel": "Kalyanpur Municipality",
+  "localLevelId": "20206",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1396"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1397"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1398"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1399"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1400"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1401"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1402"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1403"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1404"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/1405"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/1406"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/1407"
+    }
+  ],
+  "count": 12
+}

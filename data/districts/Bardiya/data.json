@@ -1,0 +1,47 @@
+{
+  "district": "Bardiya",
+  "districtId": "512",
+  "localLevels": [
+    {
+      "name": "Bansgadhi Municipality",
+      "href": "/LocalLevel/Index/51201"
+    },
+    {
+      "name": "Bansgadhi Municipality",
+      "href": "/LocalLevel/Index/51201"
+    },
+    {
+      "name": "Barbardiya Municipality",
+      "href": "/LocalLevel/Index/51202"
+    },
+    {
+      "name": "Thakurbaba Municipality",
+      "href": "/LocalLevel/Index/51203"
+    },
+    {
+      "name": "Geruwa Rural Municipality",
+      "href": "/LocalLevel/Index/51204"
+    },
+    {
+      "name": "Rajapur Municipality",
+      "href": "/LocalLevel/Index/51205"
+    },
+    {
+      "name": "Madhuban Municipality",
+      "href": "/LocalLevel/Index/51206"
+    },
+    {
+      "name": "Gulariya Municipality",
+      "href": "/LocalLevel/Index/51207"
+    },
+    {
+      "name": "Badhaiyatal Rural Municipality",
+      "href": "/LocalLevel/Index/51208"
+    },
+    {
+      "name": "Bardiya National Park",
+      "href": "#"
+    }
+  ],
+  "count": 10
+}

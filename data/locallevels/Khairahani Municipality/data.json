@@ -1,0 +1,59 @@
+{
+  "localLevel": "Khairahani Municipality",
+  "localLevelId": "31306",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3528"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3529"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3530"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3531"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3532"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3533"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3534"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3535"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3536"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/3537"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/3538"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/3539"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/3540"
+    }
+  ],
+  "count": 13
+}

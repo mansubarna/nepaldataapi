@@ -1,0 +1,39 @@
+{
+  "localLevel": "Barpak Sulikot Rural Municipality",
+  "localLevelId": "40103",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3562"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3563"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3564"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3565"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3566"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3567"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3568"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3569"
+    }
+  ],
+  "count": 8
+}

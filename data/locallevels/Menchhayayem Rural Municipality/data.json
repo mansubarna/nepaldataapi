@@ -1,0 +1,31 @@
+{
+  "localLevel": "Menchhayayem Rural Municipality",
+  "localLevelId": "10803",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/497"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/498"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/499"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/500"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/501"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/502"
+    }
+  ],
+  "count": 6
+}

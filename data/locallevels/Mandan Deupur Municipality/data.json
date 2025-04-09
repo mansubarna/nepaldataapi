@@ -1,0 +1,55 @@
+{
+  "localLevel": "Mandan Deupur Municipality",
+  "localLevelId": "30903",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3091"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3092"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3093"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3094"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3095"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3096"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3097"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3098"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3099"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/3100"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/3101"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/3102"
+    }
+  ],
+  "count": 12
+}

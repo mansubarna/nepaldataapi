@@ -1,0 +1,59 @@
+{
+  "localLevel": "Nijgadh Municipality",
+  "localLevelId": "20701",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2150"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2151"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2152"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2153"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2154"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2155"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2156"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2157"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2158"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/2159"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/2160"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/2161"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/2162"
+    }
+  ],
+  "count": 13
+}

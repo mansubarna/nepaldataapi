@@ -1,0 +1,27 @@
+{
+  "localLevel": "Mangala Rural Municipality",
+  "localLevelId": "40405",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3727"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3728"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3729"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3730"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3731"
+    }
+  ],
+  "count": 5
+}

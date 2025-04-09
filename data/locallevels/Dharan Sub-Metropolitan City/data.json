@@ -1,0 +1,87 @@
+{
+  "localLevel": "Dharan Sub-Metropolitan City",
+  "localLevelId": "11301",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/959"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/960"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/961"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/962"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/963"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/964"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/965"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/966"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/967"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/968"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/969"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/970"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/971"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/972"
+    },
+    {
+      "no": "15",
+      "href": "/Ward/Index/973"
+    },
+    {
+      "no": "16",
+      "href": "/Ward/Index/974"
+    },
+    {
+      "no": "17",
+      "href": "/Ward/Index/975"
+    },
+    {
+      "no": "18",
+      "href": "/Ward/Index/976"
+    },
+    {
+      "no": "19",
+      "href": "/Ward/Index/977"
+    },
+    {
+      "no": "20",
+      "href": "/Ward/Index/978"
+    }
+  ],
+  "count": 20
+}

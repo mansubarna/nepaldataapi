@@ -1,0 +1,35 @@
+{
+  "localLevel": "K.I. Singh Rural Municipality",
+  "localLevelId": "70606",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6410"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6411"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6412"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6413"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6414"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6415"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6416"
+    }
+  ],
+  "count": 7
+}

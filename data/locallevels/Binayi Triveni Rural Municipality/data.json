@@ -1,0 +1,35 @@
+{
+  "localLevel": "Binayi Triveni Rural Municipality",
+  "localLevelId": "40808",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4059"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4060"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4061"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4062"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4063"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4064"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4065"
+    }
+  ],
+  "count": 7
+}

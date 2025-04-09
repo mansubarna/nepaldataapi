@@ -1,0 +1,39 @@
+{
+  "localLevel": "Balephi Rural Municipality",
+  "localLevelId": "30208",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2569"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2570"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2571"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2572"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2573"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2574"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2575"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2576"
+    }
+  ],
+  "count": 8
+}

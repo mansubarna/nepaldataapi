@@ -1,0 +1,47 @@
+{
+  "localLevel": "Jaimini Municipality",
+  "localLevelId": "41110",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4299"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4300"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4301"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4302"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4303"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4304"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4305"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4306"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4307"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/4308"
+    }
+  ],
+  "count": 10
+}

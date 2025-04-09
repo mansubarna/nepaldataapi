@@ -1,0 +1,35 @@
+{
+  "localLevel": "Gulmidarbar Rural Municipality",
+  "localLevelId": "50410",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4550"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4551"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4552"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4553"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4554"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4555"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4556"
+    }
+  ],
+  "count": 7
+}

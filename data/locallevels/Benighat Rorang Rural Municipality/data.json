@@ -1,0 +1,47 @@
+{
+  "localLevel": "Benighat Rorang Rural Municipality",
+  "localLevelId": "30409",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2691"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2692"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2693"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2694"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2695"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2696"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2697"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2698"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2699"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/2700"
+    }
+  ],
+  "count": 10
+}

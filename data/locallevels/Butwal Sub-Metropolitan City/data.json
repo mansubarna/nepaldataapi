@@ -1,0 +1,83 @@
+{
+  "localLevel": "Butwal Sub-Metropolitan City",
+  "localLevelId": "50802",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4797"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4798"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4799"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4800"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4801"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4802"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4803"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4804"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4805"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/4806"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/4807"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/4808"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/4809"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/4810"
+    },
+    {
+      "no": "15",
+      "href": "/Ward/Index/4811"
+    },
+    {
+      "no": "16",
+      "href": "/Ward/Index/4812"
+    },
+    {
+      "no": "17",
+      "href": "/Ward/Index/4813"
+    },
+    {
+      "no": "18",
+      "href": "/Ward/Index/4814"
+    },
+    {
+      "no": "19",
+      "href": "/Ward/Index/4815"
+    }
+  ],
+  "count": 19
+}

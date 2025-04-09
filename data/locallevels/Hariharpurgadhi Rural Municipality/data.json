@@ -1,0 +1,39 @@
+{
+  "localLevel": "Hariharpurgadhi Rural Municipality",
+  "localLevelId": "31109",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3342"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3343"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3344"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3345"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3346"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3347"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3348"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3349"
+    }
+  ],
+  "count": 8
+}

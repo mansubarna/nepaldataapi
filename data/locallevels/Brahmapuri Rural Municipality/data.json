@@ -1,0 +1,35 @@
+{
+  "localLevel": "Brahmapuri Rural Municipality",
+  "localLevelId": "20509",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1890"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1891"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1892"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1893"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1894"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1895"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1896"
+    }
+  ],
+  "count": 7
+}

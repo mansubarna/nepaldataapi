@@ -1,0 +1,31 @@
+{
+  "localLevel": "Baragadhi Rural Municipality",
+  "localLevelId": "20710",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2257"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2258"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2259"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2260"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2261"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2262"
+    }
+  ],
+  "count": 6
+}

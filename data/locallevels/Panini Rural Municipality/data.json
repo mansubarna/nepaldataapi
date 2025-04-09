@@ -1,0 +1,39 @@
+{
+  "localLevel": "Panini Rural Municipality",
+  "localLevelId": "50505",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4608"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4609"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4610"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4611"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4612"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4613"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4614"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4615"
+    }
+  ],
+  "count": 8
+}

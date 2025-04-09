@@ -1,0 +1,27 @@
+{
+  "localLevel": "Sakela Rural Municipality",
+  "localLevelId": "10506",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/311"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/312"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/313"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/314"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/315"
+    }
+  ],
+  "count": 5
+}

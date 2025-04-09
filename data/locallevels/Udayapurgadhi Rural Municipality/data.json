@@ -1,0 +1,39 @@
+{
+  "localLevel": "Udayapurgadhi Rural Municipality",
+  "localLevelId": "11408",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1150"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1151"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1152"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1153"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1154"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1155"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1156"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1157"
+    }
+  ],
+  "count": 8
+}

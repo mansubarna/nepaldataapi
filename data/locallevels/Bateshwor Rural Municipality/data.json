@@ -1,0 +1,27 @@
+{
+  "localLevel": "Bateshwor Rural Municipality",
+  "localLevelId": "20304",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1517"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1518"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1519"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1520"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1521"
+    }
+  ],
+  "count": 5
+}

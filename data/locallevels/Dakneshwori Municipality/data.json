@@ -1,0 +1,47 @@
+{
+  "localLevel": "Dakneshwori Municipality",
+  "localLevelId": "20110",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1243"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1244"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1245"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1246"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1247"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1248"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1249"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1250"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1251"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/1252"
+    }
+  ],
+  "count": 10
+}

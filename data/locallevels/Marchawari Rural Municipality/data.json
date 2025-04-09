@@ -1,0 +1,35 @@
+{
+  "localLevel": "Marchawari Rural Municipality",
+  "localLevelId": "50816",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4933"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4934"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4935"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4936"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4937"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4938"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4939"
+    }
+  ],
+  "count": 7
+}

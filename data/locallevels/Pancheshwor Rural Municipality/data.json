@@ -1,0 +1,31 @@
+{
+  "localLevel": "Pancheshwor Rural Municipality",
+  "localLevelId": "70406",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6278"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6279"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6280"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6281"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6282"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6283"
+    }
+  ],
+  "count": 6
+}

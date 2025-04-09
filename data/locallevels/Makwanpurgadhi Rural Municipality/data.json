@@ -1,0 +1,39 @@
+{
+  "localLevel": "Makwanpurgadhi Rural Municipality",
+  "localLevelId": "31208",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3423"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3424"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3425"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3426"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3427"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3428"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3429"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3430"
+    }
+  ],
+  "count": 8
+}

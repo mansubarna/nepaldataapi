@@ -1,0 +1,39 @@
+{
+  "localLevel": "Gandaki Rural Municipality",
+  "localLevelId": "40111",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3636"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3637"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3638"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3639"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3640"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3641"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3642"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3643"
+    }
+  ],
+  "count": 8
+}

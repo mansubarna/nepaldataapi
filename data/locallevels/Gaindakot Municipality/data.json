@@ -1,0 +1,79 @@
+{
+  "localLevel": "Gaindakot Municipality",
+  "localLevelId": "40801",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3974"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3975"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3976"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3977"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3978"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3979"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3980"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3981"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3982"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/3983"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/3984"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/3985"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/3986"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/3987"
+    },
+    {
+      "no": "15",
+      "href": "/Ward/Index/3988"
+    },
+    {
+      "no": "16",
+      "href": "/Ward/Index/3989"
+    },
+    {
+      "no": "17",
+      "href": "/Ward/Index/3990"
+    },
+    {
+      "no": "18",
+      "href": "/Ward/Index/3991"
+    }
+  ],
+  "count": 18
+}

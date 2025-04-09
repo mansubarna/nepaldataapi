@@ -1,0 +1,31 @@
+{
+  "localLevel": "Gaurigunj Rural Municipality",
+  "localLevelId": "11109",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/748"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/749"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/750"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/751"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/752"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/753"
+    }
+  ],
+  "count": 6
+}

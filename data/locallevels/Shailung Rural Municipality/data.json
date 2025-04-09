@@ -1,0 +1,39 @@
+{
+  "localLevel": "Shailung Rural Municipality",
+  "localLevelId": "30108",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2486"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2487"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2488"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2489"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2490"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2491"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2492"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2493"
+    }
+  ],
+  "count": 8
+}

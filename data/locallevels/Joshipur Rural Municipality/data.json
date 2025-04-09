@@ -1,0 +1,35 @@
+{
+  "localLevel": "Joshipur Rural Municipality",
+  "localLevelId": "70809",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6599"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6600"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6601"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6602"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6603"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6604"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6605"
+    }
+  ],
+  "count": 7
+}

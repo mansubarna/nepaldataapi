@@ -1,0 +1,35 @@
+{
+  "localLevel": "Phakphokthum Rural Municipality",
+  "localLevelId": "11005",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/620"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/621"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/622"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/623"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/624"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/625"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/626"
+    }
+  ],
+  "count": 7
+}

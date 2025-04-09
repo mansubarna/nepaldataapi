@@ -1,0 +1,43 @@
+{
+  "localLevel": "Sanni Triveni Rural Municipality",
+  "localLevelId": "60504",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5533"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5534"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5535"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5536"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5537"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5538"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5539"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5540"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5541"
+    }
+  ],
+  "count": 9
+}

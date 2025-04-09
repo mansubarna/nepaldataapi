@@ -1,0 +1,51 @@
+{
+  "localLevel": "Phatuwa Bijayapur Municipality",
+  "localLevelId": "20603",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2012"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2013"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2014"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2015"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2016"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2017"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2018"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2019"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2020"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/2021"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/2022"
+    }
+  ],
+  "count": 11
+}

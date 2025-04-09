@@ -1,0 +1,35 @@
+{
+  "localLevel": "Purbichauki Rural Municipality",
+  "localLevelId": "70601",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6370"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6371"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6372"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6373"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6374"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6375"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6376"
+    }
+  ],
+  "count": 7
+}

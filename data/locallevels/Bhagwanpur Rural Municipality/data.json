@@ -1,0 +1,27 @@
+{
+  "localLevel": "Bhagwanpur Rural Municipality",
+  "localLevelId": "20213",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1444"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1445"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1446"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1447"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1448"
+    }
+  ],
+  "count": 5
+}

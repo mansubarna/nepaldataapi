@@ -1,0 +1,43 @@
+{
+  "localLevel": "Nagarain Municipality",
+  "localLevelId": "20317",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1640"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1641"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1642"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1643"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1644"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1645"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1646"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1647"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1648"
+    }
+  ],
+  "count": 9
+}

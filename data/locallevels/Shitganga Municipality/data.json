@@ -1,0 +1,63 @@
+{
+  "localLevel": "Shitganga Municipality",
+  "localLevelId": "50506",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4616"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4617"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4618"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4619"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4620"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4621"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4622"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4623"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4624"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/4625"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/4626"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/4627"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/4628"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/4629"
+    }
+  ],
+  "count": 14
+}

@@ -1,0 +1,43 @@
+{
+  "localLevel": "Bhangaha Municipality",
+  "localLevelId": "20405",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1698"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1699"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1700"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1701"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1702"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1703"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1704"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1705"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1706"
+    }
+  ],
+  "count": 9
+}

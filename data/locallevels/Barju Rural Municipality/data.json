@@ -1,0 +1,31 @@
+{
+  "localLevel": "Barju Rural Municipality",
+  "localLevelId": "11312",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1077"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1078"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1079"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1080"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1081"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1082"
+    }
+  ],
+  "count": 6
+}

@@ -1,0 +1,47 @@
+{
+  "localLevel": "Damak Municipality",
+  "localLevelId": "11107",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/729"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/730"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/731"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/732"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/733"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/734"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/735"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/736"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/737"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/738"
+    }
+  ],
+  "count": 10
+}

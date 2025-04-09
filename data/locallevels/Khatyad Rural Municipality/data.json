@@ -1,0 +1,51 @@
+{
+  "localLevel": "Khatyad Rural Municipality",
+  "localLevelId": "60204",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5391"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5392"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5393"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5394"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5395"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5396"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5397"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5398"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5399"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/5400"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/5401"
+    }
+  ],
+  "count": 11
+}

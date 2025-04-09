@@ -1,0 +1,35 @@
+{
+  "localLevel": "Ainselukharka Rural Municipality",
+  "localLevelId": "10502",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/272"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/273"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/274"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/275"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/276"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/277"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/278"
+    }
+  ],
+  "count": 7
+}

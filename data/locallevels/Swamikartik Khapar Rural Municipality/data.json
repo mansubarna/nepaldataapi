@@ -1,0 +1,27 @@
+{
+  "localLevel": "Swamikartik Khapar Rural Municipality",
+  "localLevelId": "70104",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6033"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6034"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6035"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6036"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6037"
+    }
+  ],
+  "count": 5
+}

@@ -1,0 +1,43 @@
+{
+  "localLevel": "Malarani Rural Municipality",
+  "localLevelId": "50502",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4577"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4578"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4579"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4580"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4581"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4582"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4583"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4584"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4585"
+    }
+  ],
+  "count": 9
+}

@@ -1,0 +1,43 @@
+{
+  "localLevel": "Kailari Rural Municipality",
+  "localLevelId": "70812",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6624"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6625"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6626"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6627"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6628"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6629"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6630"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6631"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/6632"
+    }
+  ],
+  "count": 9
+}

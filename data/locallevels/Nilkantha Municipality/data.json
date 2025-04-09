@@ -1,0 +1,63 @@
+{
+  "localLevel": "Nilkantha Municipality",
+  "localLevelId": "30406",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2663"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2664"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2665"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2666"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2667"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2668"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2669"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2670"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2671"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/2672"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/2673"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/2674"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/2675"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/2676"
+    }
+  ],
+  "count": 14
+}

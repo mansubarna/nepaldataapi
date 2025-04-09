@@ -1,0 +1,67 @@
+{
+  "localLevel": "Mechinagar Municipality",
+  "localLevelId": "11101",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/669"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/670"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/671"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/672"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/673"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/674"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/675"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/676"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/677"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/678"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/679"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/680"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/681"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/682"
+    },
+    {
+      "no": "15",
+      "href": "/Ward/Index/683"
+    }
+  ],
+  "count": 15
+}

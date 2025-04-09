@@ -1,0 +1,23 @@
+{
+  "district": "Manang",
+  "districtId": "402",
+  "localLevels": [
+    {
+      "name": "Narpabhumi Rural Municipality",
+      "href": "/LocalLevel/Index/40201"
+    },
+    {
+      "name": "Manang Ngisyang Rural Municipality",
+      "href": "/LocalLevel/Index/40202"
+    },
+    {
+      "name": "Chame Rural Municipality",
+      "href": "/LocalLevel/Index/40203"
+    },
+    {
+      "name": "Nason Rural Municipality",
+      "href": "/LocalLevel/Index/40204"
+    }
+  ],
+  "count": 4
+}

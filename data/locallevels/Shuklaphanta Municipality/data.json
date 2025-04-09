@@ -1,0 +1,55 @@
+{
+  "localLevel": "Shuklaphanta Municipality",
+  "localLevelId": "70902",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6661"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6662"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6663"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6664"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6665"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6666"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6667"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6668"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/6669"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/6670"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/6671"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/6672"
+    }
+  ],
+  "count": 12
+}

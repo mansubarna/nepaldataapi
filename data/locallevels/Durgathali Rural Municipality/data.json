@@ -1,0 +1,35 @@
+{
+  "localLevel": "Durgathali Rural Municipality",
+  "localLevelId": "70208",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6132"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6133"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6134"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6135"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6136"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6137"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6138"
+    }
+  ],
+  "count": 7
+}

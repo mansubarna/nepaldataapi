@@ -1,0 +1,63 @@
+{
+  "localLevel": "Putalibazar Municipality",
+  "localLevelId": "40901",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4066"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4067"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4068"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4069"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4070"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4071"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4072"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4073"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4074"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/4075"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/4076"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/4077"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/4078"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/4079"
+    }
+  ],
+  "count": 14
+}

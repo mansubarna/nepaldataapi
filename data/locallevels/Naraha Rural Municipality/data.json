@@ -1,0 +1,27 @@
+{
+  "localLevel": "Naraha Rural Municipality",
+  "localLevelId": "20207",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1408"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1409"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1410"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1411"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1412"
+    }
+  ],
+  "count": 5
+}

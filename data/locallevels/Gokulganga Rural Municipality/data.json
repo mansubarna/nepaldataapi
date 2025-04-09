@@ -1,0 +1,31 @@
+{
+  "localLevel": "Gokulganga Rural Municipality",
+  "localLevelId": "31002",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3214"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3215"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3216"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3217"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3218"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3219"
+    }
+  ],
+  "count": 6
+}

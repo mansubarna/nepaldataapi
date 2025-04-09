@@ -1,0 +1,71 @@
+{
+  "district": "Parsa",
+  "districtId": "208",
+  "localLevels": [
+    {
+      "name": "Thori Rural Municipality",
+      "href": "/LocalLevel/Index/20801"
+    },
+    {
+      "name": "Jirabhawani Rural Municipality",
+      "href": "/LocalLevel/Index/20802"
+    },
+    {
+      "name": "Jagarnathpur Rural Municipality",
+      "href": "/LocalLevel/Index/20803"
+    },
+    {
+      "name": "Paterwa Sugauli Rural Municipality",
+      "href": "/LocalLevel/Index/20804"
+    },
+    {
+      "name": "Sakhuwa Prasauni Rural Municipality",
+      "href": "/LocalLevel/Index/20805"
+    },
+    {
+      "name": "Parsagadhi Municipality",
+      "href": "/LocalLevel/Index/20806"
+    },
+    {
+      "name": "Birgunj Metropolitan",
+      "href": "/LocalLevel/Index/20807"
+    },
+    {
+      "name": "Bahudarmai Municipality",
+      "href": "/LocalLevel/Index/20808"
+    },
+    {
+      "name": "Pokhariya Municipality",
+      "href": "/LocalLevel/Index/20809"
+    },
+    {
+      "name": "Kalikamai Rural Municipality",
+      "href": "/LocalLevel/Index/20810"
+    },
+    {
+      "name": "Dhobini Rural Municipality",
+      "href": "/LocalLevel/Index/20811"
+    },
+    {
+      "name": "Chhipaharmai Rural Municipality",
+      "href": "/LocalLevel/Index/20812"
+    },
+    {
+      "name": "Pakaha Mainpur Rural Municipality",
+      "href": "/LocalLevel/Index/20813"
+    },
+    {
+      "name": "Bindabasini Rural Municipality",
+      "href": "/LocalLevel/Index/20814"
+    },
+    {
+      "name": "Chitwan National Park",
+      "href": "#"
+    },
+    {
+      "name": "Parsa Wildlife Reserve",
+      "href": "#"
+    }
+  ],
+  "count": 16
+}

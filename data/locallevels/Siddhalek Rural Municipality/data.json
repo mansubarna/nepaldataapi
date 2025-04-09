@@ -1,0 +1,35 @@
+{
+  "localLevel": "Siddhalek Rural Municipality",
+  "localLevelId": "30408",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2684"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2685"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2686"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2687"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2688"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2689"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2690"
+    }
+  ],
+  "count": 7
+}

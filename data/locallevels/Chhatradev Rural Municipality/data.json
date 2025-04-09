@@ -1,0 +1,39 @@
+{
+  "localLevel": "Chhatradev Rural Municipality",
+  "localLevelId": "50501",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4569"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4570"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4571"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4572"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4573"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4574"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4575"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4576"
+    }
+  ],
+  "count": 8
+}

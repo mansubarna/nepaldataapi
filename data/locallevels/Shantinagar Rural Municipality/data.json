@@ -1,0 +1,35 @@
+{
+  "localLevel": "Shantinagar Rural Municipality",
+  "localLevelId": "51004",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5082"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5083"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5084"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5085"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5086"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5087"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5088"
+    }
+  ],
+  "count": 7
+}

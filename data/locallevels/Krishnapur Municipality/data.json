@@ -1,0 +1,43 @@
+{
+  "localLevel": "Krishnapur Municipality",
+  "localLevelId": "70901",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6652"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6653"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6654"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6655"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6656"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6657"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6658"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6659"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/6660"
+    }
+  ],
+  "count": 9
+}

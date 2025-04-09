@@ -1,0 +1,23 @@
+{
+  "district": "Mugu",
+  "districtId": "602",
+  "localLevels": [
+    {
+      "name": "Mugum Karmarong Rural Municipality",
+      "href": "/LocalLevel/Index/60201"
+    },
+    {
+      "name": "Chhayanath Rara Municipality",
+      "href": "/LocalLevel/Index/60202"
+    },
+    {
+      "name": "Soru Rural Municipality",
+      "href": "/LocalLevel/Index/60203"
+    },
+    {
+      "name": "Khatyad Rural Municipality",
+      "href": "/LocalLevel/Index/60204"
+    }
+  ],
+  "count": 4
+}

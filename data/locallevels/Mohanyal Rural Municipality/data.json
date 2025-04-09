@@ -1,0 +1,35 @@
+{
+  "localLevel": "Mohanyal Rural Municipality",
+  "localLevelId": "70801",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6526"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6527"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6528"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6529"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6530"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6531"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6532"
+    }
+  ],
+  "count": 7
+}

@@ -1,0 +1,47 @@
+{
+  "localLevel": "Rampur Municipality",
+  "localLevelId": "50601",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4630"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4631"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4632"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4633"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4634"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4635"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4636"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4637"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4638"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/4639"
+    }
+  ],
+  "count": 10
+}

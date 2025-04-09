@@ -1,0 +1,27 @@
+{
+  "localLevel": "Mandavi Rural Municipality",
+  "localLevelId": "50306",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4454"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4455"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4456"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4457"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4458"
+    }
+  ],
+  "count": 5
+}

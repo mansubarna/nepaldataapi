@@ -1,0 +1,35 @@
+{
+  "localLevel": "Khaptad Chhededaha Rural Municipality",
+  "localLevelId": "70107",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6053"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6054"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6055"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6056"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6057"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6058"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6059"
+    }
+  ],
+  "count": 7
+}

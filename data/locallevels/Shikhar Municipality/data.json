@@ -1,0 +1,51 @@
+{
+  "localLevel": "Shikhar Municipality",
+  "localLevelId": "70604",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6390"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6391"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6392"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6393"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6394"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6395"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6396"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6397"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/6398"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/6399"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/6400"
+    }
+  ],
+  "count": 11
+}

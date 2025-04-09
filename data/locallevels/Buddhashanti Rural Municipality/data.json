@@ -1,0 +1,35 @@
+{
+  "localLevel": "Buddhashanti Rural Municipality",
+  "localLevelId": "11102",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/684"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/685"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/686"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/687"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/688"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/689"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/690"
+    }
+  ],
+  "count": 7
+}

@@ -1,0 +1,31 @@
+{
+  "localLevel": "Agnisair Krishnasawaran Rural Municipality",
+  "localLevelId": "20103",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1181"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1182"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1183"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1184"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1185"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1186"
+    }
+  ],
+  "count": 6
+}

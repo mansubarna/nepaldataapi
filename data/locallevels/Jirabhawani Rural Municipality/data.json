@@ -1,0 +1,27 @@
+{
+  "localLevel": "Jirabhawani Rural Municipality",
+  "localLevelId": "20802",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2322"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2323"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2324"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2325"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2326"
+    }
+  ],
+  "count": 5
+}

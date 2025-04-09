@@ -1,0 +1,51 @@
+{
+  "localLevel": "Phungling Municipality",
+  "localLevelId": "10106",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/30"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/31"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/32"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/33"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/34"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/35"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/36"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/37"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/38"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/39"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/40"
+    }
+  ],
+  "count": 11
+}

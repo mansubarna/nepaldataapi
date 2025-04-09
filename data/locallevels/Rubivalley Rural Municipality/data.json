@@ -1,0 +1,31 @@
+{
+  "localLevel": "Rubivalley Rural Municipality",
+  "localLevelId": "30401",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2633"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2634"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2635"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2636"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2637"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2638"
+    }
+  ],
+  "count": 6
+}

@@ -1,0 +1,39 @@
+{
+  "district": "Jumla",
+  "districtId": "604",
+  "localLevels": [
+    {
+      "name": "Patarasi Rural Municipality",
+      "href": "/LocalLevel/Index/60401"
+    },
+    {
+      "name": "Kanakasundari Rural Municipality",
+      "href": "/LocalLevel/Index/60402"
+    },
+    {
+      "name": "Sinja Rural Municipality",
+      "href": "/LocalLevel/Index/60403"
+    },
+    {
+      "name": "Chandannath Municipality",
+      "href": "/LocalLevel/Index/60404"
+    },
+    {
+      "name": "Guthichaur Rural Municipality",
+      "href": "/LocalLevel/Index/60405"
+    },
+    {
+      "name": "Tatopani Rural Municipality",
+      "href": "/LocalLevel/Index/60406"
+    },
+    {
+      "name": "Tila Rural Municipality",
+      "href": "/LocalLevel/Index/60407"
+    },
+    {
+      "name": "Hima Rural Municipality",
+      "href": "/LocalLevel/Index/60408"
+    }
+  ],
+  "count": 8
+}

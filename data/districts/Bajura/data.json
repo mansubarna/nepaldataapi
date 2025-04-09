@@ -1,0 +1,47 @@
+{
+  "district": "Bajura",
+  "districtId": "701",
+  "localLevels": [
+    {
+      "name": "Himali Rural Municipality",
+      "href": "/LocalLevel/Index/70101"
+    },
+    {
+      "name": "Gaumul Rural Municipality",
+      "href": "/LocalLevel/Index/70102"
+    },
+    {
+      "name": "Budhinanda Municipality",
+      "href": "/LocalLevel/Index/70103"
+    },
+    {
+      "name": "Swamikartik Khapar Rural Municipality",
+      "href": "/LocalLevel/Index/70104"
+    },
+    {
+      "name": "Jagannath Rural Municipality",
+      "href": "/LocalLevel/Index/70105"
+    },
+    {
+      "name": "Badimalika Municipality",
+      "href": "/LocalLevel/Index/70106"
+    },
+    {
+      "name": "Khaptad Chhededaha Rural Municipality",
+      "href": "/LocalLevel/Index/70107"
+    },
+    {
+      "name": "Budhiganga Municipality",
+      "href": "/LocalLevel/Index/70108"
+    },
+    {
+      "name": "Triveni Municipality",
+      "href": "/LocalLevel/Index/70109"
+    },
+    {
+      "name": "Khaptad National Park",
+      "href": "#"
+    }
+  ],
+  "count": 10
+}

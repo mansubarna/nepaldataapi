@@ -1,0 +1,39 @@
+{
+  "localLevel": "Panchpokhari Thangpal Rural Municipality",
+  "localLevelId": "30203",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2515"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2516"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2517"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2518"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2519"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2520"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2521"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2522"
+    }
+  ],
+  "count": 8
+}

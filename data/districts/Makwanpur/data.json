@@ -1,0 +1,55 @@
+{
+  "district": "Makwanpur",
+  "districtId": "312",
+  "localLevels": [
+    {
+      "name": "Indrasarowar Rural Municipality",
+      "href": "/LocalLevel/Index/31201"
+    },
+    {
+      "name": "Thaha Municipality",
+      "href": "/LocalLevel/Index/31202"
+    },
+    {
+      "name": "Kailash Rural Municipality",
+      "href": "/LocalLevel/Index/31203"
+    },
+    {
+      "name": "Raksirang Rural Municipality",
+      "href": "/LocalLevel/Index/31204"
+    },
+    {
+      "name": "Manahari Rural Municipality",
+      "href": "/LocalLevel/Index/31205"
+    },
+    {
+      "name": "Hetaunda Sub-Metropolitan City",
+      "href": "/LocalLevel/Index/31206"
+    },
+    {
+      "name": "Bhimphedi Rural Municipality",
+      "href": "/LocalLevel/Index/31207"
+    },
+    {
+      "name": "Makwanpurgadhi Rural Municipality",
+      "href": "/LocalLevel/Index/31208"
+    },
+    {
+      "name": "Bakaiya Rural Municipality",
+      "href": "/LocalLevel/Index/31209"
+    },
+    {
+      "name": "Bagmati Rural Municipality",
+      "href": "/LocalLevel/Index/31210"
+    },
+    {
+      "name": "Chitwan National Park",
+      "href": "#"
+    },
+    {
+      "name": "Parsa Wildlife Reserve",
+      "href": "#"
+    }
+  ],
+  "count": 12
+}

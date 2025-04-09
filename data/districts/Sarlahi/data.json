@@ -1,0 +1,87 @@
+{
+  "district": "Sarlahi",
+  "districtId": "205",
+  "localLevels": [
+    {
+      "name": "Lalbandi Municipality",
+      "href": "/LocalLevel/Index/20501"
+    },
+    {
+      "name": "Hariwan Municipality",
+      "href": "/LocalLevel/Index/20502"
+    },
+    {
+      "name": "Bagmati Municipality",
+      "href": "/LocalLevel/Index/20503"
+    },
+    {
+      "name": "Barahathawa Municipality",
+      "href": "/LocalLevel/Index/20504"
+    },
+    {
+      "name": "Haripur Municipality",
+      "href": "/LocalLevel/Index/20505"
+    },
+    {
+      "name": "Ishworpur Municipality",
+      "href": "/LocalLevel/Index/20506"
+    },
+    {
+      "name": "Haripurwa Municipality",
+      "href": "/LocalLevel/Index/20507"
+    },
+    {
+      "name": "Parsa Rural Municipality",
+      "href": "/LocalLevel/Index/20508"
+    },
+    {
+      "name": "Brahmapuri Rural Municipality",
+      "href": "/LocalLevel/Index/20509"
+    },
+    {
+      "name": "Chandranagar Rural Municipality",
+      "href": "/LocalLevel/Index/20510"
+    },
+    {
+      "name": "Kabilasi Municipality",
+      "href": "/LocalLevel/Index/20511"
+    },
+    {
+      "name": "Chakraghatta Rural Municipality",
+      "href": "/LocalLevel/Index/20512"
+    },
+    {
+      "name": "Basbariya Rural Municipality",
+      "href": "/LocalLevel/Index/20513"
+    },
+    {
+      "name": "Dhanakaul Rural Municipality",
+      "href": "/LocalLevel/Index/20514"
+    },
+    {
+      "name": "Ramnagar Rural Municipality",
+      "href": "/LocalLevel/Index/20515"
+    },
+    {
+      "name": "Balara Municipality",
+      "href": "/LocalLevel/Index/20516"
+    },
+    {
+      "name": "Godaita Municipality",
+      "href": "/LocalLevel/Index/20517"
+    },
+    {
+      "name": "Bishnu Rural Municipality",
+      "href": "/LocalLevel/Index/20518"
+    },
+    {
+      "name": "Kaudena Rural Municipality",
+      "href": "/LocalLevel/Index/20519"
+    },
+    {
+      "name": "Malangawa Municipality",
+      "href": "/LocalLevel/Index/20520"
+    }
+  ],
+  "count": 20
+}

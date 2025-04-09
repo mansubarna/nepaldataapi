@@ -1,0 +1,43 @@
+{
+  "localLevel": "Shailyashikhar Municipality",
+  "localLevelId": "70307",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6211"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6212"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6213"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6214"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6215"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6216"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6217"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6218"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/6219"
+    }
+  ],
+  "count": 9
+}

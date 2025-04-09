@@ -1,0 +1,55 @@
+{
+  "localLevel": "Dhulikhel Municipality",
+  "localLevelId": "30905",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3117"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3118"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3119"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3120"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3121"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3122"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3123"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3124"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3125"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/3126"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/3127"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/3128"
+    }
+  ],
+  "count": 12
+}

@@ -1,0 +1,43 @@
+{
+  "localLevel": "Mugum Karmarong Rural Municipality",
+  "localLevelId": "60201",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5357"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5358"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5359"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5360"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5361"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5362"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5363"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5364"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5365"
+    }
+  ],
+  "count": 9
+}

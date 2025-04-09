@@ -1,0 +1,83 @@
+{
+  "localLevel": "Hetaunda Sub-Metropolitan City",
+  "localLevelId": "31206",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3395"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3396"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3397"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3398"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3399"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3400"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3401"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3402"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3403"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/3404"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/3405"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/3406"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/3407"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/3408"
+    },
+    {
+      "no": "15",
+      "href": "/Ward/Index/3409"
+    },
+    {
+      "no": "16",
+      "href": "/Ward/Index/3410"
+    },
+    {
+      "no": "17",
+      "href": "/Ward/Index/3411"
+    },
+    {
+      "no": "18",
+      "href": "/Ward/Index/3412"
+    },
+    {
+      "no": "19",
+      "href": "/Ward/Index/3413"
+    }
+  ],
+  "count": 19
+}

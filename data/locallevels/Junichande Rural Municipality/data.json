@@ -1,0 +1,51 @@
+{
+  "localLevel": "Junichande Rural Municipality",
+  "localLevelId": "60703",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5696"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5697"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5698"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5699"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5700"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5701"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5702"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5703"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5704"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/5705"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/5706"
+    }
+  ],
+  "count": 11
+}

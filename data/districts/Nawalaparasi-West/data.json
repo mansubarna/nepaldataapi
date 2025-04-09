@@ -1,0 +1,35 @@
+{
+  "district": "Nawalaparasi-West",
+  "districtId": "507",
+  "localLevels": [
+    {
+      "name": "Bardaghat Municipality",
+      "href": "/LocalLevel/Index/50701"
+    },
+    {
+      "name": "Sunwal Municipality",
+      "href": "/LocalLevel/Index/50702"
+    },
+    {
+      "name": "Ramgram Municipality",
+      "href": "/LocalLevel/Index/50703"
+    },
+    {
+      "name": "Palhinandan Rural Municipality",
+      "href": "/LocalLevel/Index/50704"
+    },
+    {
+      "name": "Sarawal Rural Municipality",
+      "href": "/LocalLevel/Index/50705"
+    },
+    {
+      "name": "Pratappur Rural Municipality",
+      "href": "/LocalLevel/Index/50706"
+    },
+    {
+      "name": "Susta Rural Municipality",
+      "href": "/LocalLevel/Index/50707"
+    }
+  ],
+  "count": 7
+}

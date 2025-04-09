@@ -1,0 +1,27 @@
+{
+  "localLevel": "Bhotekoshi Rural Municipality",
+  "localLevelId": "30201",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2503"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2504"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2505"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2506"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2507"
+    }
+  ],
+  "count": 5
+}

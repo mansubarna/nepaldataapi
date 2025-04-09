@@ -1,0 +1,27 @@
+{
+  "localLevel": "Devghat Rural Municipality",
+  "localLevelId": "40708",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3957"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3958"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3959"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3960"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3961"
+    }
+  ],
+  "count": 5
+}

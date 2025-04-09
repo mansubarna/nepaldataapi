@@ -1,0 +1,63 @@
+{
+  "localLevel": "Kushma Municipality",
+  "localLevelId": "41003",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4180"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4181"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4182"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4183"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4184"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4185"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4186"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4187"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4188"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/4189"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/4190"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/4191"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/4192"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/4193"
+    }
+  ],
+  "count": 14
+}

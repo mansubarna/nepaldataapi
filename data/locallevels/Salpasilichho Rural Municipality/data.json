@@ -1,0 +1,31 @@
+{
+  "localLevel": "Salpasilichho Rural Municipality",
+  "localLevelId": "10602",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/358"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/359"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/360"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/361"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/362"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/363"
+    }
+  ],
+  "count": 6
+}

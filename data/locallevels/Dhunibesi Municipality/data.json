@@ -1,0 +1,43 @@
+{
+  "localLevel": "Dhunibesi Municipality",
+  "localLevelId": "30413",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2728"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2729"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2730"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2731"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2732"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2733"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2734"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2735"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2736"
+    }
+  ],
+  "count": 9
+}

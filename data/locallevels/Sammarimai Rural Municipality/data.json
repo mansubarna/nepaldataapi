@@ -1,0 +1,35 @@
+{
+  "localLevel": "Sammarimai Rural Municipality",
+  "localLevelId": "50815",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4926"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4927"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4928"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4929"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4930"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4931"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4932"
+    }
+  ],
+  "count": 7
+}

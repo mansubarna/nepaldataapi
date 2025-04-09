@@ -1,0 +1,51 @@
+{
+  "localLevel": "Balawa Municipality",
+  "localLevelId": "20407",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1716"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1717"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1718"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1719"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1720"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1721"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1722"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1723"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1724"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/1725"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/1726"
+    }
+  ],
+  "count": 11
+}

@@ -1,0 +1,31 @@
+{
+  "localLevel": "Basbariya Rural Municipality",
+  "localLevelId": "20513",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1923"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1924"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1925"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1926"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1927"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1928"
+    }
+  ],
+  "count": 6
+}

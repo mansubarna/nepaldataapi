@@ -1,0 +1,35 @@
+{
+  "localLevel": "Shahidbhumi Rural Municipality",
+  "localLevelId": "10705",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/460"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/461"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/462"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/463"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/464"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/465"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/466"
+    }
+  ],
+  "count": 7
+}

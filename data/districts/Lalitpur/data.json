@@ -1,0 +1,31 @@
+{
+  "district": "Lalitpur",
+  "districtId": "308",
+  "localLevels": [
+    {
+      "name": "Mahalaxmi Municipality",
+      "href": "/LocalLevel/Index/30801"
+    },
+    {
+      "name": "Lalitpur Metropolitan",
+      "href": "/LocalLevel/Index/30802"
+    },
+    {
+      "name": "Godawari Municipality",
+      "href": "/LocalLevel/Index/30803"
+    },
+    {
+      "name": "Konjyosom Rural Municipality",
+      "href": "/LocalLevel/Index/30804"
+    },
+    {
+      "name": "Mahankal Rural Municipality",
+      "href": "/LocalLevel/Index/30805"
+    },
+    {
+      "name": "Bagmati Rural Municipality",
+      "href": "/LocalLevel/Index/30806"
+    }
+  ],
+  "count": 6
+}

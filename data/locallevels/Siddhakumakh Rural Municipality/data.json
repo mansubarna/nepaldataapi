@@ -1,0 +1,27 @@
+{
+  "localLevel": "Siddhakumakh Rural Municipality",
+  "localLevelId": "60904",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5853"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5854"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5855"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5856"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5857"
+    }
+  ],
+  "count": 5
+}

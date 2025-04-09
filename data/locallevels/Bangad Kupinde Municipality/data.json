@@ -1,0 +1,55 @@
+{
+  "localLevel": "Bangad Kupinde Municipality",
+  "localLevelId": "60903",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5841"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5842"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5843"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5844"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5845"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5846"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5847"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5848"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5849"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/5850"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/5851"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/5852"
+    }
+  ],
+  "count": 12
+}

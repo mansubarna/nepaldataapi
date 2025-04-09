@@ -1,0 +1,39 @@
+{
+  "localLevel": "Tatopani Rural Municipality",
+  "localLevelId": "60406",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5482"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5483"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5484"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5485"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5486"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5487"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5488"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5489"
+    }
+  ],
+  "count": 8
+}

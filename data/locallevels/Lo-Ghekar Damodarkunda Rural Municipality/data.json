@@ -1,0 +1,27 @@
+{
+  "localLevel": "Lo-Ghekar Damodarkunda Rural Municipality",
+  "localLevelId": "40301",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3672"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3673"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3674"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3675"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3676"
+    }
+  ],
+  "count": 5
+}

@@ -1,0 +1,35 @@
+{
+  "localLevel": "Rohini Rural Municipality",
+  "localLevelId": "50810",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4878"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4879"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4880"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4881"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4882"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4883"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4884"
+    }
+  ],
+  "count": 7
+}

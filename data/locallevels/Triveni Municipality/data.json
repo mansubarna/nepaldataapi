@@ -1,0 +1,43 @@
+{
+  "localLevel": "Triveni Municipality",
+  "localLevelId": "70109",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6070"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6071"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6072"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6073"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6074"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6075"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6076"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6077"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/6078"
+    }
+  ],
+  "count": 9
+}

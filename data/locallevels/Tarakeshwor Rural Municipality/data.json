@@ -1,0 +1,31 @@
+{
+  "localLevel": "Tarakeshwor Rural Municipality",
+  "localLevelId": "30507",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2779"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2780"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2781"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2782"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2783"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2784"
+    }
+  ],
+  "count": 6
+}

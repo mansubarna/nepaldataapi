@@ -1,0 +1,27 @@
+{
+  "localLevel": "Likhupike Rural Municipality",
+  "localLevelId": "10308",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/185"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/186"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/187"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/188"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/189"
+    }
+  ],
+  "count": 5
+}

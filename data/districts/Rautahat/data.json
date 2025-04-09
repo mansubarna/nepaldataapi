@@ -1,0 +1,79 @@
+{
+  "district": "Rautahat",
+  "districtId": "206",
+  "localLevels": [
+    {
+      "name": "Chandrapur Municipality",
+      "href": "/LocalLevel/Index/20601"
+    },
+    {
+      "name": "Gujara Municipality",
+      "href": "/LocalLevel/Index/20602"
+    },
+    {
+      "name": "Phatuwa Bijayapur Municipality",
+      "href": "/LocalLevel/Index/20603"
+    },
+    {
+      "name": "Katahariya Municipality",
+      "href": "/LocalLevel/Index/20604"
+    },
+    {
+      "name": "Brindaban Municipality",
+      "href": "/LocalLevel/Index/20605"
+    },
+    {
+      "name": "Gadhimai Municipality",
+      "href": "/LocalLevel/Index/20606"
+    },
+    {
+      "name": "Madhavnarayan Municipality",
+      "href": "/LocalLevel/Index/20607"
+    },
+    {
+      "name": "Garuda Municipality",
+      "href": "/LocalLevel/Index/20608"
+    },
+    {
+      "name": "Dewahi Gonahi Municipality",
+      "href": "/LocalLevel/Index/20609"
+    },
+    {
+      "name": "Maulapur Municipality",
+      "href": "/LocalLevel/Index/20610"
+    },
+    {
+      "name": "Baudhimai Municipality",
+      "href": "/LocalLevel/Index/20611"
+    },
+    {
+      "name": "Paroha Municipality",
+      "href": "/LocalLevel/Index/20612"
+    },
+    {
+      "name": "Rajpur Municipality",
+      "href": "/LocalLevel/Index/20613"
+    },
+    {
+      "name": "Yamunamai Rural Municipality",
+      "href": "/LocalLevel/Index/20614"
+    },
+    {
+      "name": "Durgabhagawati Rural Municipality",
+      "href": "/LocalLevel/Index/20615"
+    },
+    {
+      "name": "Rajdevi Municipality",
+      "href": "/LocalLevel/Index/20616"
+    },
+    {
+      "name": "Gaur Municipality",
+      "href": "/LocalLevel/Index/20617"
+    },
+    {
+      "name": "Ishnath Municipality",
+      "href": "/LocalLevel/Index/20618"
+    }
+  ],
+  "count": 18
+}

@@ -1,0 +1,31 @@
+{
+  "localLevel": "Bardgoriya Rural Municipality",
+  "localLevelId": "70806",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6574"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6575"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6576"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6577"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6578"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6579"
+    }
+  ],
+  "count": 6
+}

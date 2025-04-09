@@ -1,0 +1,39 @@
+{
+  "district": "Dolpa",
+  "districtId": "601",
+  "localLevels": [
+    {
+      "name": "Dolpobuddha Rural Municipality",
+      "href": "/LocalLevel/Index/60101"
+    },
+    {
+      "name": "Shey Phoksundo Rural Municipality",
+      "href": "/LocalLevel/Index/60102"
+    },
+    {
+      "name": "Jagadulla Rural Municipality",
+      "href": "/LocalLevel/Index/60103"
+    },
+    {
+      "name": "Mudkechula Rural Municipality",
+      "href": "/LocalLevel/Index/60104"
+    },
+    {
+      "name": "Tripurasundari Municipality",
+      "href": "/LocalLevel/Index/60105"
+    },
+    {
+      "name": "Thulibheri Municipality",
+      "href": "/LocalLevel/Index/60106"
+    },
+    {
+      "name": "Kaike Rural Municipality",
+      "href": "/LocalLevel/Index/60107"
+    },
+    {
+      "name": "Chharka Tangsong Rural Municipality",
+      "href": "/LocalLevel/Index/60108"
+    }
+  ],
+  "count": 8
+}

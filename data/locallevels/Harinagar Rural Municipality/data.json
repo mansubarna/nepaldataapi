@@ -1,0 +1,35 @@
+{
+  "localLevel": "Harinagar Rural Municipality",
+  "localLevelId": "11310",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1063"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1064"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1065"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1066"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1067"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1068"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1069"
+    }
+  ],
+  "count": 7
+}

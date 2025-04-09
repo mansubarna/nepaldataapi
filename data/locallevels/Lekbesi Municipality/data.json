@@ -1,0 +1,47 @@
+{
+  "localLevel": "Lekbesi Municipality",
+  "localLevelId": "61003",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5926"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5927"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5928"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5929"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5930"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5931"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5932"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5933"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5934"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/5935"
+    }
+  ],
+  "count": 10
+}

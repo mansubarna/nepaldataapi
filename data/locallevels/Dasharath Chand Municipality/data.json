@@ -1,0 +1,51 @@
+{
+  "localLevel": "Dasharath Chand Municipality",
+  "localLevelId": "70405",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6267"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6268"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6269"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6270"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6271"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6272"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6273"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6274"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/6275"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/6276"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/6277"
+    }
+  ],
+  "count": 11
+}

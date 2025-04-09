@@ -1,0 +1,35 @@
+{
+  "localLevel": "Likhu Tamakoshi Rural Municipality",
+  "localLevelId": "31003",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3220"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3221"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3222"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3223"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3224"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3225"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3226"
+    }
+  ],
+  "count": 7
+}

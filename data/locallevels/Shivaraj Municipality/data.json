@@ -1,0 +1,51 @@
+{
+  "localLevel": "Shivaraj Municipality",
+  "localLevelId": "50903",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4961"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4962"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4963"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4964"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4965"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4966"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4967"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4968"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4969"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/4970"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/4971"
+    }
+  ],
+  "count": 11
+}

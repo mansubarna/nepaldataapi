@@ -1,0 +1,43 @@
+{
+  "localLevel": "Chauri Deurali Rural Municipality",
+  "localLevelId": "30901",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3072"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3073"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3074"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3075"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3076"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3077"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3078"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3079"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3080"
+    }
+  ],
+  "count": 9
+}

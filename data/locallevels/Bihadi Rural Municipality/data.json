@@ -1,0 +1,31 @@
+{
+  "localLevel": "Bihadi Rural Municipality",
+  "localLevelId": "41006",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4211"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4212"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4213"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4214"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4215"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4216"
+    }
+  ],
+  "count": 6
+}

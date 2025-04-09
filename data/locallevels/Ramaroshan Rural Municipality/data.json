@@ -1,0 +1,35 @@
+{
+  "localLevel": "Ramaroshan Rural Municipality",
+  "localLevelId": "70702",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6444"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6445"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6446"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6447"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6448"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6449"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6450"
+    }
+  ],
+  "count": 7
+}

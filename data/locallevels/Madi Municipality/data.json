@@ -1,0 +1,43 @@
+{
+  "localLevel": "Madi Municipality",
+  "localLevelId": "31307",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3541"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3542"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3543"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3544"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3545"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3546"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3547"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3548"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3549"
+    }
+  ],
+  "count": 9
+}

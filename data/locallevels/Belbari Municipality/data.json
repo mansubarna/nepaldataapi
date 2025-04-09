@@ -1,0 +1,51 @@
+{
+  "localLevel": "Belbari Municipality",
+  "localLevelId": "11205",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/840"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/841"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/842"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/843"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/844"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/845"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/846"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/847"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/848"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/849"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/850"
+    }
+  ],
+  "count": 11
+}

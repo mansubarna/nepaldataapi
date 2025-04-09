@@ -1,0 +1,27 @@
+{
+  "localLevel": "Kharpunath Rural Municipality",
+  "localLevelId": "60302",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5408"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5409"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5410"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5411"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5412"
+    }
+  ],
+  "count": 5
+}

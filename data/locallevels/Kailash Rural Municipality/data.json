@@ -1,0 +1,47 @@
+{
+  "localLevel": "Kailash Rural Municipality",
+  "localLevelId": "31203",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3367"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3368"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3369"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3370"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3371"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3372"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3373"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3374"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3375"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/3376"
+    }
+  ],
+  "count": 10
+}

@@ -1,0 +1,35 @@
+{
+  "localLevel": "Rupa Rural Municipality",
+  "localLevelId": "40505",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3807"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3808"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3809"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3810"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3811"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3812"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3813"
+    }
+  ],
+  "count": 7
+}

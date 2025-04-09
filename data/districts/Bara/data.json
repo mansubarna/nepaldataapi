@@ -1,0 +1,75 @@
+{
+  "district": "Bara",
+  "districtId": "207",
+  "localLevels": [
+    {
+      "name": "Parsa Wildlife Reserve",
+      "href": "#"
+    },
+    {
+      "name": "Nijgadh Municipality",
+      "href": "/LocalLevel/Index/20701"
+    },
+    {
+      "name": "Kolhawi Municipality",
+      "href": "/LocalLevel/Index/20702"
+    },
+    {
+      "name": "Jitpur Simra Sub-Metropolitan City",
+      "href": "/LocalLevel/Index/20703"
+    },
+    {
+      "name": "Parwanipur Rural Municipality",
+      "href": "/LocalLevel/Index/20704"
+    },
+    {
+      "name": "Prasauni Rural Municipality",
+      "href": "/LocalLevel/Index/20705"
+    },
+    {
+      "name": "Bishrampur Rural Municipality",
+      "href": "/LocalLevel/Index/20706"
+    },
+    {
+      "name": "Pheta Rural Municipality",
+      "href": "/LocalLevel/Index/20707"
+    },
+    {
+      "name": "Kalaiya Sub-Metropolitan City",
+      "href": "/LocalLevel/Index/20708"
+    },
+    {
+      "name": "Karaiyamai Rural Municipality",
+      "href": "/LocalLevel/Index/20709"
+    },
+    {
+      "name": "Baragadhi Rural Municipality",
+      "href": "/LocalLevel/Index/20710"
+    },
+    {
+      "name": "Aadarsha Kotwal Rural Municipality",
+      "href": "/LocalLevel/Index/20711"
+    },
+    {
+      "name": "Simraungadh Municipality",
+      "href": "/LocalLevel/Index/20712"
+    },
+    {
+      "name": "Pachrauta Municipality",
+      "href": "/LocalLevel/Index/20713"
+    },
+    {
+      "name": "Mahagadhimai Municipality",
+      "href": "/LocalLevel/Index/20714"
+    },
+    {
+      "name": "Devtal Rural Municipality",
+      "href": "/LocalLevel/Index/20715"
+    },
+    {
+      "name": "Suvarna Rural Municipality",
+      "href": "/LocalLevel/Index/20716"
+    }
+  ],
+  "count": 17
+}

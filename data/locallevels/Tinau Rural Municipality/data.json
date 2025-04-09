@@ -1,0 +1,31 @@
+{
+  "localLevel": "Tinau Rural Municipality",
+  "localLevelId": "50608",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4690"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4691"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4692"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4693"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4694"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4695"
+    }
+  ],
+  "count": 6
+}

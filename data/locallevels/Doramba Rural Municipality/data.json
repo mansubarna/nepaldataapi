@@ -1,0 +1,35 @@
+{
+  "localLevel": "Doramba Rural Municipality",
+  "localLevelId": "31007",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3259"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3260"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3261"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3262"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3263"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3264"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3265"
+    }
+  ],
+  "count": 7
+}

@@ -1,0 +1,39 @@
+{
+  "localLevel": "Dogadakedar Rural Municipality",
+  "localLevelId": "70402",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6241"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6242"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6243"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6244"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6245"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6246"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6247"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6248"
+    }
+  ],
+  "count": 8
+}

@@ -1,0 +1,47 @@
+{
+  "localLevel": "Chandannath Municipality",
+  "localLevelId": "60404",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5467"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5468"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5469"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5470"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5471"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5472"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5473"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5474"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5475"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/5476"
+    }
+  ],
+  "count": 10
+}

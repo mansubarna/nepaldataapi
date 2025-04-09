@@ -1,0 +1,35 @@
+{
+  "localLevel": "Dhanakaul Rural Municipality",
+  "localLevelId": "20514",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1929"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1930"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1931"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1932"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1933"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1934"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1935"
+    }
+  ],
+  "count": 7
+}

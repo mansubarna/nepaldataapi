@@ -1,0 +1,35 @@
+{
+  "localLevel": "Laxminiya Rural Municipality",
+  "localLevelId": "20306",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1532"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1533"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1534"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1535"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1536"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1537"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1538"
+    }
+  ],
+  "count": 7
+}

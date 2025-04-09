@@ -1,0 +1,27 @@
+{
+  "localLevel": "Saipal Rural Municipality",
+  "localLevelId": "70201",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6079"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6080"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6081"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6082"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6083"
+    }
+  ],
+  "count": 5
+}

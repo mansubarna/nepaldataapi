@@ -1,0 +1,35 @@
+{
+  "localLevel": "Chandranagar Rural Municipality",
+  "localLevelId": "20510",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1897"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1898"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1899"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1900"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1901"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1902"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1903"
+    }
+  ],
+  "count": 7
+}

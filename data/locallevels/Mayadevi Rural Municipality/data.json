@@ -1,0 +1,39 @@
+{
+  "localLevel": "Mayadevi Rural Municipality",
+  "localLevelId": "50812",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4898"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4899"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4900"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4901"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4902"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4903"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4904"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4905"
+    }
+  ],
+  "count": 8
+}

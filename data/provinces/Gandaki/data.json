@@ -1,0 +1,51 @@
+{
+  "province": "Gandaki",
+  "provinceId": "4",
+  "districts": [
+    {
+      "name": "Baglung",
+      "href": "/District/Index/411"
+    },
+    {
+      "name": "Gorkha",
+      "href": "/District/Index/401"
+    },
+    {
+      "name": "Kaski",
+      "href": "/District/Index/405"
+    },
+    {
+      "name": "Lamjung",
+      "href": "/District/Index/406"
+    },
+    {
+      "name": "Manang",
+      "href": "/District/Index/402"
+    },
+    {
+      "name": "Mustang",
+      "href": "/District/Index/403"
+    },
+    {
+      "name": "Myagdi",
+      "href": "/District/Index/404"
+    },
+    {
+      "name": "Parbat",
+      "href": "/District/Index/410"
+    },
+    {
+      "name": "Syangja",
+      "href": "/District/Index/409"
+    },
+    {
+      "name": "Tanahun",
+      "href": "/District/Index/407"
+    },
+    {
+      "name": "Nawalparasi East",
+      "href": "/District/Index/408"
+    }
+  ],
+  "count": 11
+}

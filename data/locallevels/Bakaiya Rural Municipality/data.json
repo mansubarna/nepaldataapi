@@ -1,0 +1,55 @@
+{
+  "localLevel": "Bakaiya Rural Municipality",
+  "localLevelId": "31209",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3431"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3432"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3433"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3434"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3435"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3436"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3437"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3438"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3439"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/3440"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/3441"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/3442"
+    }
+  ],
+  "count": 12
+}

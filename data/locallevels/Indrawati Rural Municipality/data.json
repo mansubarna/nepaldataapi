@@ -1,0 +1,55 @@
+{
+  "localLevel": "Indrawati Rural Municipality",
+  "localLevelId": "30206",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2543"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2544"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2545"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2546"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2547"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2548"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2549"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2550"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2551"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/2552"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/2553"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/2554"
+    }
+  ],
+  "count": 12
+}

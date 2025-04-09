@@ -1,0 +1,43 @@
+{
+  "localLevel": "Bhirkot Municipality",
+  "localLevelId": "40905",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4097"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4098"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4099"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4100"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4101"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4102"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4103"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4104"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4105"
+    }
+  ],
+  "count": 9
+}

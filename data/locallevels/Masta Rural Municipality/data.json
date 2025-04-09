@@ -1,0 +1,35 @@
+{
+  "localLevel": "Masta Rural Municipality",
+  "localLevelId": "70205",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6107"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6108"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6109"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6110"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6111"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6112"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6113"
+    }
+  ],
+  "count": 7
+}

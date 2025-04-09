@@ -1,0 +1,43 @@
+{
+  "localLevel": "Bhimeshwor Municipality",
+  "localLevelId": "30109",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2494"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2495"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2496"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2497"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2498"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2499"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2500"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2501"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2502"
+    }
+  ],
+  "count": 9
+}

@@ -1,0 +1,51 @@
+{
+  "district": "Syangja",
+  "districtId": "409",
+  "localLevels": [
+    {
+      "name": "Putalibazar Municipality",
+      "href": "/LocalLevel/Index/40901"
+    },
+    {
+      "name": "Phedikhola Rural Municipality",
+      "href": "/LocalLevel/Index/40902"
+    },
+    {
+      "name": "Aandhikhola Rural Municipality",
+      "href": "/LocalLevel/Index/40903"
+    },
+    {
+      "name": "Aandhikhola Rural Municipality",
+      "href": "/LocalLevel/Index/40904"
+    },
+    {
+      "name": "Bhirkot Municipality",
+      "href": "/LocalLevel/Index/40905"
+    },
+    {
+      "name": "Biruwa Rural Municipality",
+      "href": "/LocalLevel/Index/40906"
+    },
+    {
+      "name": "Harinas Rural Municipality",
+      "href": "/LocalLevel/Index/40907"
+    },
+    {
+      "name": "Chapakot Municipality",
+      "href": "/LocalLevel/Index/40908"
+    },
+    {
+      "name": "Waling Municipality",
+      "href": "/LocalLevel/Index/40909"
+    },
+    {
+      "name": "Galyang Municipality",
+      "href": "/LocalLevel/Index/40910"
+    },
+    {
+      "name": "Kaligandaki Rural Municipality",
+      "href": "/LocalLevel/Index/40911"
+    }
+  ],
+  "count": 11
+}

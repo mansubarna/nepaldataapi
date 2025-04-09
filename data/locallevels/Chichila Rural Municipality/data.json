@@ -1,0 +1,27 @@
+{
+  "localLevel": "Chichila Rural Municipality",
+  "localLevelId": "10204",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/78"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/79"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/80"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/81"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/82"
+    }
+  ],
+  "count": 5
+}

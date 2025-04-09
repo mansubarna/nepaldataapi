@@ -1,0 +1,67 @@
+{
+  "district": "Mahottari",
+  "districtId": "204",
+  "localLevels": [
+    {
+      "name": "Bardibas Municipality",
+      "href": "/LocalLevel/Index/20401"
+    },
+    {
+      "name": "Gaushala Municipality",
+      "href": "/LocalLevel/Index/20402"
+    },
+    {
+      "name": "Sonma Rural Municipality",
+      "href": "/LocalLevel/Index/20403"
+    },
+    {
+      "name": "Aurahi Municipality",
+      "href": "/LocalLevel/Index/20404"
+    },
+    {
+      "name": "Bhangaha Municipality",
+      "href": "/LocalLevel/Index/20405"
+    },
+    {
+      "name": "Loharpatti Municipality",
+      "href": "/LocalLevel/Index/20406"
+    },
+    {
+      "name": "Balawa Municipality",
+      "href": "/LocalLevel/Index/20407"
+    },
+    {
+      "name": "Ramgopalpur Municipality",
+      "href": "/LocalLevel/Index/20408"
+    },
+    {
+      "name": "Samsi Rural Municipality",
+      "href": "/LocalLevel/Index/20409"
+    },
+    {
+      "name": "Manara Shiswa Municipality",
+      "href": "/LocalLevel/Index/20410"
+    },
+    {
+      "name": "Ekdara Rural Municipality",
+      "href": "/LocalLevel/Index/20411"
+    },
+    {
+      "name": "Mahottari Rural Municipality",
+      "href": "/LocalLevel/Index/20412"
+    },
+    {
+      "name": "Pipara Rural Municipality",
+      "href": "/LocalLevel/Index/20413"
+    },
+    {
+      "name": "Matihani Municipality",
+      "href": "/LocalLevel/Index/20414"
+    },
+    {
+      "name": "Jaleshwor Municipality",
+      "href": "/LocalLevel/Index/20415"
+    }
+  ],
+  "count": 15
+}

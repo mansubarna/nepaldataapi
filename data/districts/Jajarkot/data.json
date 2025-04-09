@@ -1,0 +1,35 @@
+{
+  "district": "Jajarkot",
+  "districtId": "607",
+  "localLevels": [
+    {
+      "name": "Barekot Rural Municipality",
+      "href": "/LocalLevel/Index/60701"
+    },
+    {
+      "name": "Kushe Rural Municipality",
+      "href": "/LocalLevel/Index/60702"
+    },
+    {
+      "name": "Junichande Rural Municipality",
+      "href": "/LocalLevel/Index/60703"
+    },
+    {
+      "name": "Chhedagad Municipality",
+      "href": "/LocalLevel/Index/60704"
+    },
+    {
+      "name": "Shivalaya Rural Municipality",
+      "href": "/LocalLevel/Index/60705"
+    },
+    {
+      "name": "Bheri Municipality",
+      "href": "/LocalLevel/Index/60706"
+    },
+    {
+      "name": "Nalgad Municipality",
+      "href": "/LocalLevel/Index/60707"
+    }
+  ],
+  "count": 7
+}

@@ -1,0 +1,59 @@
+{
+  "localLevel": "Bhanu Municipality",
+  "localLevelId": "40701",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3889"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3890"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3891"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3892"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3893"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3894"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3895"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3896"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3897"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/3898"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/3899"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/3900"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/3901"
+    }
+  ],
+  "count": 13
+}

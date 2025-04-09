@@ -1,0 +1,39 @@
+{
+  "localLevel": "Shuvakalika Rural Municipality",
+  "localLevelId": "60509",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5580"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5581"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5582"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5583"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5584"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5585"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5586"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5587"
+    }
+  ],
+  "count": 8
+}

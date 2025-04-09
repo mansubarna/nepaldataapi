@@ -1,0 +1,31 @@
+{
+  "localLevel": "Mahabu Rural Municipality",
+  "localLevelId": "60602",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5596"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5597"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5598"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5599"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5600"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5601"
+    }
+  ],
+  "count": 6
+}

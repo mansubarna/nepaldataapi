@@ -1,0 +1,35 @@
+{
+  "localLevel": "Khanikhola Rural Municipality",
+  "localLevelId": "30913",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3200"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3201"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3202"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3203"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3204"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3205"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3206"
+    }
+  ],
+  "count": 7
+}

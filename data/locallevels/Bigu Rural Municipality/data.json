@@ -1,0 +1,39 @@
+{
+  "localLevel": "Bigu Rural Municipality",
+  "localLevelId": "30102",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2438"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2439"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2440"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2441"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2442"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2443"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2444"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2445"
+    }
+  ],
+  "count": 8
+}

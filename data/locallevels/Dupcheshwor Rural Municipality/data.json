@@ -1,0 +1,35 @@
+{
+  "localLevel": "Dupcheshwor Rural Municipality",
+  "localLevelId": "30501",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2737"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2738"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2739"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2740"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2741"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2742"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2743"
+    }
+  ],
+  "count": 7
+}

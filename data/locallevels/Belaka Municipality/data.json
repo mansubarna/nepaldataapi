@@ -1,0 +1,43 @@
+{
+  "localLevel": "Belaka Municipality",
+  "localLevelId": "11401",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1083"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1084"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1085"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1086"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1087"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1088"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1089"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1090"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1091"
+    }
+  ],
+  "count": 9
+}

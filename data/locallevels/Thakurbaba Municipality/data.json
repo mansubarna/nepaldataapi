@@ -1,0 +1,43 @@
+{
+  "localLevel": "Thakurbaba Municipality",
+  "localLevelId": "51203",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5237"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5238"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5239"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5240"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5241"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5242"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5243"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5244"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5245"
+    }
+  ],
+  "count": 9
+}

@@ -1,0 +1,63 @@
+{
+  "localLevel": "Manthali Municipality",
+  "localLevelId": "31005",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3236"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3237"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3238"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3239"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3240"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3241"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3242"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3243"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3244"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/3245"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/3246"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/3247"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/3248"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/3249"
+    }
+  ],
+  "count": 14
+}

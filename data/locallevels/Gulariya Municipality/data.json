@@ -1,0 +1,55 @@
+{
+  "localLevel": "Gulariya Municipality",
+  "localLevelId": "51207",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5271"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5272"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5273"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5274"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5275"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5276"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5277"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5278"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5279"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/5280"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/5281"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/5282"
+    }
+  ],
+  "count": 12
+}

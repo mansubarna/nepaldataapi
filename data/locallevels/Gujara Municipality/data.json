@@ -1,0 +1,43 @@
+{
+  "localLevel": "Gujara Municipality",
+  "localLevelId": "20602",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2003"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2004"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2005"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2006"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2007"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2008"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2009"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2010"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2011"
+    }
+  ],
+  "count": 9
+}

@@ -1,0 +1,67 @@
+{
+  "localLevel": "Kohalpur Municipality",
+  "localLevelId": "51102",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5145"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5146"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5147"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5148"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5149"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5150"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5151"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5152"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5153"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/5154"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/5155"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/5156"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/5157"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/5158"
+    },
+    {
+      "no": "15",
+      "href": "/Ward/Index/5159"
+    }
+  ],
+  "count": 15
+}

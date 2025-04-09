@@ -1,0 +1,43 @@
+{
+  "district": "Sindhuli",
+  "districtId": "311",
+  "localLevels": [
+    {
+      "name": "Dudhauli Municipality",
+      "href": "/LocalLevel/Index/31101"
+    },
+    {
+      "name": "Phikkal Rural Municipality",
+      "href": "/LocalLevel/Index/31102"
+    },
+    {
+      "name": "Golanjor Rural Municipality",
+      "href": "/LocalLevel/Index/31104"
+    },
+    {
+      "name": "Tinpatan Rural Municipality",
+      "href": "/LocalLevel/Index/31103"
+    },
+    {
+      "name": "Kamalamai Municipality",
+      "href": "/LocalLevel/Index/31105"
+    },
+    {
+      "name": "Sunkoshi Rural Municipality",
+      "href": "/LocalLevel/Index/31106"
+    },
+    {
+      "name": "Ghyanglekh Rural Municipality",
+      "href": "/LocalLevel/Index/31107"
+    },
+    {
+      "name": "Marin Rural Municipality",
+      "href": "/LocalLevel/Index/31108"
+    },
+    {
+      "name": "Hariharpurgadhi Rural Municipality",
+      "href": "/LocalLevel/Index/31109"
+    }
+  ],
+  "count": 9
+}

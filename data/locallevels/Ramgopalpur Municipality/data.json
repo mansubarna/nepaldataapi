@@ -1,0 +1,43 @@
+{
+  "localLevel": "Ramgopalpur Municipality",
+  "localLevelId": "20408",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1727"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1728"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1729"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1730"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1731"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1732"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1733"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1734"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1735"
+    }
+  ],
+  "count": 9
+}

@@ -1,0 +1,31 @@
+{
+  "localLevel": "Mahankal Rural Municipality",
+  "localLevelId": "30805",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3059"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3060"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3061"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3062"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3063"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3064"
+    }
+  ],
+  "count": 6
+}

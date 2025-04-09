@@ -1,0 +1,43 @@
+{
+  "localLevel": "Rapti Rural Municipality",
+  "localLevelId": "51008",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5112"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5113"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5114"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5115"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5116"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5117"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5118"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5119"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5120"
+    }
+  ],
+  "count": 9
+}

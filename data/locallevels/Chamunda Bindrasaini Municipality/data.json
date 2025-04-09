@@ -1,0 +1,43 @@
+{
+  "localLevel": "Chamunda Bindrasaini Municipality",
+  "localLevelId": "60606",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5624"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5625"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5626"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5627"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5628"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5629"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5630"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5631"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5632"
+    }
+  ],
+  "count": 9
+}

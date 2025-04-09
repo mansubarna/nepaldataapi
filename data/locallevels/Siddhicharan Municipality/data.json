@@ -1,0 +1,55 @@
+{
+  "localLevel": "Siddhicharan Municipality",
+  "localLevelId": "10402",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/198"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/199"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/200"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/201"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/202"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/203"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/204"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/205"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/206"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/207"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/208"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/209"
+    }
+  ],
+  "count": 12
+}

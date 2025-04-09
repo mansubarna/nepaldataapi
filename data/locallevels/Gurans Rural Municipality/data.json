@@ -1,0 +1,39 @@
+{
+  "localLevel": "Gurans Rural Municipality",
+  "localLevelId": "60611",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5670"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5671"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5672"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5673"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5674"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5675"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5676"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5677"
+    }
+  ],
+  "count": 8
+}

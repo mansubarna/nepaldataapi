@@ -1,0 +1,27 @@
+{
+  "localLevel": "Bishrampur Rural Municipality",
+  "localLevelId": "20706",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2210"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2211"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2212"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2213"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2214"
+    }
+  ],
+  "count": 5
+}

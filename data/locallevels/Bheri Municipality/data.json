@@ -1,0 +1,59 @@
+{
+  "localLevel": "Bheri Municipality",
+  "localLevelId": "60706",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5729"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5730"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5731"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5732"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5733"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5734"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5735"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5736"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5737"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/5738"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/5739"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/5740"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/5741"
+    }
+  ],
+  "count": 13
+}

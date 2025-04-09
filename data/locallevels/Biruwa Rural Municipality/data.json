@@ -1,0 +1,39 @@
+{
+  "localLevel": "Biruwa Rural Municipality",
+  "localLevelId": "40906",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4106"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4107"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4108"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4109"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4110"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4111"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4112"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4113"
+    }
+  ],
+  "count": 8
+}

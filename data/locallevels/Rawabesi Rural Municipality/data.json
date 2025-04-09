@@ -1,0 +1,31 @@
+{
+  "localLevel": "Rawabesi Rural Municipality",
+  "localLevelId": "10503",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/279"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/280"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/281"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/282"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/283"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/284"
+    }
+  ],
+  "count": 6
+}

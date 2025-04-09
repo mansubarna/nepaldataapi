@@ -1,0 +1,39 @@
+{
+  "localLevel": "Siranchok Rural Municipality",
+  "localLevelId": "40107",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3595"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3596"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3597"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3598"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3599"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3600"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3601"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3602"
+    }
+  ],
+  "count": 8
+}

@@ -1,0 +1,55 @@
+{
+  "localLevel": "Jaleshwor Municipality",
+  "localLevelId": "20415",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1781"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1782"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1783"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1784"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1785"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1786"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1787"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1788"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1789"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/1790"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/1791"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/1792"
+    }
+  ],
+  "count": 12
+}

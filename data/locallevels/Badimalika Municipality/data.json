@@ -1,0 +1,43 @@
+{
+  "localLevel": "Badimalika Municipality",
+  "localLevelId": "70106",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6044"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6045"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6046"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6047"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6048"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6049"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6050"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6051"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/6052"
+    }
+  ],
+  "count": 9
+}

@@ -1,0 +1,35 @@
+{
+  "localLevel": "Paiyun Rural Municipality",
+  "localLevelId": "41007",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4217"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4218"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4219"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4220"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4221"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4222"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4223"
+    }
+  ],
+  "count": 7
+}

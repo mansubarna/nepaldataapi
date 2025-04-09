@@ -1,0 +1,47 @@
+{
+  "localLevel": "Mithila Bihari Municipality",
+  "localLevelId": "20307",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1539"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1540"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1541"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1542"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1543"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1544"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1545"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1546"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1547"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/1548"
+    }
+  ],
+  "count": 10
+}

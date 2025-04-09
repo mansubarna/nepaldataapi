@@ -1,0 +1,35 @@
+{
+  "localLevel": "Lisankhupakhar Rural Municipality",
+  "localLevelId": "30211",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2592"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2593"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2594"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2595"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2596"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2597"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2598"
+    }
+  ],
+  "count": 7
+}

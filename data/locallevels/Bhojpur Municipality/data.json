@@ -1,0 +1,55 @@
+{
+  "localLevel": "Bhojpur Municipality",
+  "localLevelId": "10604",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/373"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/374"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/375"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/376"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/377"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/378"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/379"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/380"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/381"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/382"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/383"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/384"
+    }
+  ],
+  "count": 12
+}

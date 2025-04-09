@@ -1,0 +1,43 @@
+{
+  "localLevel": "Bhimad Municipality",
+  "localLevelId": "40705",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3935"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3936"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3937"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3938"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3939"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3940"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3941"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3942"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3943"
+    }
+  ],
+  "count": 9
+}

@@ -1,0 +1,27 @@
+{
+  "district": "Kaski",
+  "districtId": "405",
+  "localLevels": [
+    {
+      "name": "Madi Rural Municipality",
+      "href": "/LocalLevel/Index/40501"
+    },
+    {
+      "name": "Machhapuchchhre Rural Municipality",
+      "href": "/LocalLevel/Index/40502"
+    },
+    {
+      "name": "Annapurna Rural Municipality",
+      "href": "/LocalLevel/Index/40503"
+    },
+    {
+      "name": "Pokhara Metropolitan",
+      "href": "/LocalLevel/Index/40504"
+    },
+    {
+      "name": "Rupa Rural Municipality",
+      "href": "/LocalLevel/Index/40505"
+    }
+  ],
+  "count": 5
+}

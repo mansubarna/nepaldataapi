@@ -1,0 +1,47 @@
+{
+  "district": "Kapilvastu",
+  "districtId": "509",
+  "localLevels": [
+    {
+      "name": "Banganga Municipality",
+      "href": "/LocalLevel/Index/50901"
+    },
+    {
+      "name": "Buddhabhumi Municipality",
+      "href": "/LocalLevel/Index/50902"
+    },
+    {
+      "name": "Shivaraj Municipality",
+      "href": "/LocalLevel/Index/50903"
+    },
+    {
+      "name": "Bijayanagar Rural Municipality",
+      "href": "/LocalLevel/Index/50904"
+    },
+    {
+      "name": "Krishnanagar Municipality",
+      "href": "/LocalLevel/Index/50905"
+    },
+    {
+      "name": "Maharajgunj Municipality",
+      "href": "/LocalLevel/Index/50906"
+    },
+    {
+      "name": "Kapilbastu Municipality",
+      "href": "/LocalLevel/Index/50907"
+    },
+    {
+      "name": "Yashodhara Rural Municipality",
+      "href": "/LocalLevel/Index/50908"
+    },
+    {
+      "name": "Mayadevi Rural Municipality",
+      "href": "/LocalLevel/Index/50909"
+    },
+    {
+      "name": "Suddhodan Rural Municipality",
+      "href": "/LocalLevel/Index/50910"
+    }
+  ],
+  "count": 10
+}

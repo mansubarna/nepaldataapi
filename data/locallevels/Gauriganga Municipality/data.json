@@ -1,0 +1,51 @@
+{
+  "localLevel": "Gauriganga Municipality",
+  "localLevelId": "70804",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6551"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6552"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6553"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6554"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6555"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6556"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6557"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6558"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/6559"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/6560"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/6561"
+    }
+  ],
+  "count": 11
+}

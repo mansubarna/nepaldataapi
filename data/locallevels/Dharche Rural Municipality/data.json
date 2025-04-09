@@ -1,0 +1,35 @@
+{
+  "localLevel": "Dharche Rural Municipality",
+  "localLevelId": "40104",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3570"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3571"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3572"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3573"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3574"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3575"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3576"
+    }
+  ],
+  "count": 7
+}

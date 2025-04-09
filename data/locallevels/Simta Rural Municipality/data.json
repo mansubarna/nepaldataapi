@@ -1,0 +1,43 @@
+{
+  "localLevel": "Simta Rural Municipality",
+  "localLevelId": "61001",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5911"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5912"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5913"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5914"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5915"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5916"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5917"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5918"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5919"
+    }
+  ],
+  "count": 9
+}

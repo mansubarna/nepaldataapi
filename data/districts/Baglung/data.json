@@ -1,0 +1,51 @@
+{
+  "district": "Baglung",
+  "districtId": "411",
+  "localLevels": [
+    {
+      "name": "Baglung Municipality",
+      "href": "/LocalLevel/Index/41101"
+    },
+    {
+      "name": "Kathekhola Rural Municipality",
+      "href": "/LocalLevel/Index/41102"
+    },
+    {
+      "name": "Tarakhola Rural Municipality",
+      "href": "/LocalLevel/Index/41103"
+    },
+    {
+      "name": "Tamankhola Rural Municipality",
+      "href": "/LocalLevel/Index/41104"
+    },
+    {
+      "name": "Dhorpatan Municipality",
+      "href": "/LocalLevel/Index/41105"
+    },
+    {
+      "name": "Nisikhola Rural Municipality",
+      "href": "/LocalLevel/Index/41106"
+    },
+    {
+      "name": "Badigad Rural Municipality",
+      "href": "/LocalLevel/Index/41107"
+    },
+    {
+      "name": "Galkot Municipality",
+      "href": "/LocalLevel/Index/41108"
+    },
+    {
+      "name": "Bareng Rural Municipality",
+      "href": "/LocalLevel/Index/41109"
+    },
+    {
+      "name": "Jaimini Municipality",
+      "href": "/LocalLevel/Index/41110"
+    },
+    {
+      "name": "Dhorpatan Wildlife Reserve",
+      "href": "#"
+    }
+  ],
+  "count": 11
+}

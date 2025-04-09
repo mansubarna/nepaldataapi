@@ -1,0 +1,63 @@
+{
+  "localLevel": "Sanphebagar Municipality",
+  "localLevelId": "70704",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6459"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6460"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6461"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6462"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6463"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6464"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6465"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6466"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/6467"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/6468"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/6469"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/6470"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/6471"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/6472"
+    }
+  ],
+  "count": 14
+}

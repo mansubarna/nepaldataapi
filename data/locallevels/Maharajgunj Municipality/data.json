@@ -1,0 +1,51 @@
+{
+  "localLevel": "Maharajgunj Municipality",
+  "localLevelId": "50906",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4991"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4992"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4993"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4994"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4995"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4996"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4997"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4998"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4999"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/5000"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/5001"
+    }
+  ],
+  "count": 11
+}

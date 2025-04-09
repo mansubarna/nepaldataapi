@@ -1,0 +1,31 @@
+{
+  "localLevel": "Aandhikhola Rural Municipality",
+  "localLevelId": "40904",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4091"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4092"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4093"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4094"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4095"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4096"
+    }
+  ],
+  "count": 6
+}

@@ -1,0 +1,55 @@
+{
+  "localLevel": "Devdaha Municipality",
+  "localLevelId": "50801",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4785"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4786"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4787"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4788"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4789"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4790"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4791"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4792"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4793"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/4794"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/4795"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/4796"
+    }
+  ],
+  "count": 12
+}

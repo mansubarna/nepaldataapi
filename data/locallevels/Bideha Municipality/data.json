@@ -1,0 +1,43 @@
+{
+  "localLevel": "Bideha Municipality",
+  "localLevelId": "20313",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1595"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1596"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1597"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1598"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1599"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1600"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1601"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1602"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1603"
+    }
+  ],
+  "count": 9
+}

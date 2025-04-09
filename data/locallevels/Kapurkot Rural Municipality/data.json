@@ -1,0 +1,31 @@
+{
+  "localLevel": "Kapurkot Rural Municipality",
+  "localLevelId": "60910",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5905"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5906"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5907"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5908"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5909"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5910"
+    }
+  ],
+  "count": 6
+}

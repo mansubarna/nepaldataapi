@@ -1,0 +1,51 @@
+{
+  "localLevel": "Mithila Municipality",
+  "localLevelId": "20303",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1506"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1507"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1508"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1509"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1510"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1511"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1512"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1513"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1514"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/1515"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/1516"
+    }
+  ],
+  "count": 11
+}

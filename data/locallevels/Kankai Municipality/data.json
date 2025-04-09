@@ -1,0 +1,43 @@
+{
+  "localLevel": "Kankai Municipality",
+  "localLevelId": "11104",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/702"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/703"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/704"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/705"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/706"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/707"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/708"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/709"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/710"
+    }
+  ],
+  "count": 9
+}

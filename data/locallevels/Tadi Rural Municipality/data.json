@@ -1,0 +1,31 @@
+{
+  "localLevel": "Tadi Rural Municipality",
+  "localLevelId": "30502",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2744"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2745"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2746"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2747"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2748"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2749"
+    }
+  ],
+  "count": 6
+}

@@ -1,0 +1,47 @@
+{
+  "localLevel": "Budhinanda Municipality",
+  "localLevelId": "70103",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6023"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6024"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6025"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6026"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6027"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6028"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6029"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6030"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/6031"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/6032"
+    }
+  ],
+  "count": 10
+}

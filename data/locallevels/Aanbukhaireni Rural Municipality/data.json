@@ -1,0 +1,31 @@
+{
+  "localLevel": "Aanbukhaireni Rural Municipality",
+  "localLevelId": "40710",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3968"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3969"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3970"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3971"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3972"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3973"
+    }
+  ],
+  "count": 6
+}

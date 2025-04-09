@@ -1,0 +1,27 @@
+{
+  "localLevel": "Phedap Rural Municipality",
+  "localLevelId": "10802",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/492"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/493"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/494"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/495"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/496"
+    }
+  ],
+  "count": 5
+}

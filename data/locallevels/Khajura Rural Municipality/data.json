@@ -1,0 +1,39 @@
+{
+  "localLevel": "Khajura Rural Municipality",
+  "localLevelId": "51104",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5168"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5169"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5170"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5171"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5172"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5173"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5174"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5175"
+    }
+  ],
+  "count": 8
+}

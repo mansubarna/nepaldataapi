@@ -1,0 +1,35 @@
+{
+  "district": "Humla",
+  "districtId": "603",
+  "localLevels": [
+    {
+      "name": "Chankheli Rural Municipality",
+      "href": "/LocalLevel/Index/60301"
+    },
+    {
+      "name": "Kharpunath Rural Municipality",
+      "href": "/LocalLevel/Index/60302"
+    },
+    {
+      "name": "Simkot Rural Municipality",
+      "href": "/LocalLevel/Index/60303"
+    },
+    {
+      "name": "Namkha Rural Municipality",
+      "href": "/LocalLevel/Index/60304"
+    },
+    {
+      "name": "Sarkegad Rural Municipality",
+      "href": "/LocalLevel/Index/60305"
+    },
+    {
+      "name": "Adanchuli Rural Municipality",
+      "href": "/LocalLevel/Index/60306"
+    },
+    {
+      "name": "Tanjakot Rural Municipality",
+      "href": "/LocalLevel/Index/60307"
+    }
+  ],
+  "count": 7
+}

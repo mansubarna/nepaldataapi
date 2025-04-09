@@ -1,0 +1,43 @@
+{
+  "localLevel": "Kageshwori Manohara Municipality",
+  "localLevelId": "30602",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2834"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2835"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2836"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2837"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2838"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2839"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2840"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2841"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2842"
+    }
+  ],
+  "count": 9
+}

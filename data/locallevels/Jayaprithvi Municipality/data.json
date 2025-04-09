@@ -1,0 +1,51 @@
+{
+  "localLevel": "Jayaprithvi Municipality",
+  "localLevelId": "70206",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6114"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6115"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6116"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6117"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6118"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6119"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6120"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6121"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/6122"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/6123"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/6124"
+    }
+  ],
+  "count": 11
+}

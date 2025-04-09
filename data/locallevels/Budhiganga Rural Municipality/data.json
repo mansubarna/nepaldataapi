@@ -1,0 +1,35 @@
+{
+  "localLevel": "Budhiganga Rural Municipality",
+  "localLevelId": "11213",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/912"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/913"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/914"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/915"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/916"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/917"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/918"
+    }
+  ],
+  "count": 7
+}

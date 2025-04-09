@@ -1,0 +1,35 @@
+{
+  "localLevel": "Jugal Rural Municipality",
+  "localLevelId": "30202",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2508"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2509"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2510"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2511"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2512"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2513"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2514"
+    }
+  ],
+  "count": 7
+}

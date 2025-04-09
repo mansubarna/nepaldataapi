@@ -1,0 +1,31 @@
+{
+  "localLevel": "Sabhapokhari Rural Municipality",
+  "localLevelId": "10205",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/83"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/84"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/85"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/86"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/87"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/88"
+    }
+  ],
+  "count": 6
+}

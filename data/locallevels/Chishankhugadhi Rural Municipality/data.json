@@ -1,0 +1,39 @@
+{
+  "localLevel": "Chishankhugadhi Rural Municipality",
+  "localLevelId": "10401",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/190"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/191"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/192"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/193"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/194"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/195"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/196"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/197"
+    }
+  ],
+  "count": 8
+}

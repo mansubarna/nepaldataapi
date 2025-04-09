@@ -1,0 +1,35 @@
+{
+  "district": "Myagdi",
+  "districtId": "404",
+  "localLevels": [
+    {
+      "name": "Annapurna Rural Municipality",
+      "href": "/LocalLevel/Index/40401"
+    },
+    {
+      "name": "Raghuganga Rural Municipality",
+      "href": "/LocalLevel/Index/40402"
+    },
+    {
+      "name": "Dhawalagiri Rural Municipality",
+      "href": "/LocalLevel/Index/40403"
+    },
+    {
+      "name": "Malika Rural Municipality",
+      "href": "/LocalLevel/Index/40404"
+    },
+    {
+      "name": "Mangala Rural Municipality",
+      "href": "/LocalLevel/Index/40405"
+    },
+    {
+      "name": "Beni Municipality",
+      "href": "/LocalLevel/Index/40406"
+    },
+    {
+      "name": "Dhorpatan Hunting Reserve",
+      "href": "#"
+    }
+  ],
+  "count": 7
+}

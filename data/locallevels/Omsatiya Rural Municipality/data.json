@@ -1,0 +1,31 @@
+{
+  "localLevel": "Omsatiya Rural Municipality",
+  "localLevelId": "50809",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4872"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4873"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4874"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4875"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4876"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4877"
+    }
+  ],
+  "count": 6
+}

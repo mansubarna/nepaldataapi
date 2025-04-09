@@ -1,0 +1,31 @@
+{
+  "localLevel": "Mukhiyapatti Musaharmiya Rural Municipality",
+  "localLevelId": "20318",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1649"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1650"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1651"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1652"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1653"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1654"
+    }
+  ],
+  "count": 6
+}

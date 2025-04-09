@@ -1,0 +1,39 @@
+{
+  "localLevel": "Naumule Rural Municipality",
+  "localLevelId": "60601",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5588"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5589"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5590"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5591"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5592"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5593"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5594"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5595"
+    }
+  ],
+  "count": 8
+}

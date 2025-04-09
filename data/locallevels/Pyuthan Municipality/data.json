@@ -1,0 +1,47 @@
+{
+  "localLevel": "Pyuthan Municipality",
+  "localLevelId": "50304",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4435"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4436"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4437"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4438"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4439"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4440"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4441"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4442"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4443"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/4444"
+    }
+  ],
+  "count": 10
+}

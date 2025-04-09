@@ -1,0 +1,83 @@
+{
+  "localLevel": "Bhimdatta Municipality",
+  "localLevelId": "70904",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6683"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6684"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6685"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6686"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6687"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6688"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6689"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6690"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/6691"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/6692"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/6693"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/6694"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/6695"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/6696"
+    },
+    {
+      "no": "15",
+      "href": "/Ward/Index/6697"
+    },
+    {
+      "no": "16",
+      "href": "/Ward/Index/6698"
+    },
+    {
+      "no": "17",
+      "href": "/Ward/Index/6699"
+    },
+    {
+      "no": "18",
+      "href": "/Ward/Index/6700"
+    },
+    {
+      "no": "19",
+      "href": "/Ward/Index/6701"
+    }
+  ],
+  "count": 19
+}

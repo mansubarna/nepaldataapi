@@ -1,0 +1,39 @@
+{
+  "localLevel": "Mathagadhi Rural Municipality",
+  "localLevelId": "50609",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4696"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4697"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4698"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4699"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4700"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4701"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4702"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4703"
+    }
+  ],
+  "count": 8
+}

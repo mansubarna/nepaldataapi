@@ -1,0 +1,75 @@
+{
+  "localLevel": "Lalbandi Municipality",
+  "localLevelId": "20501",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1793"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1794"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1795"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1796"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1797"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1798"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1799"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1800"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1801"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/1802"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/1803"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/1804"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/1805"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/1806"
+    },
+    {
+      "no": "15",
+      "href": "/Ward/Index/1807"
+    },
+    {
+      "no": "16",
+      "href": "/Ward/Index/1808"
+    },
+    {
+      "no": "17",
+      "href": "/Ward/Index/1809"
+    }
+  ],
+  "count": 17
+}

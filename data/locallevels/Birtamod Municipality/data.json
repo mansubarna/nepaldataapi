@@ -1,0 +1,47 @@
+{
+  "localLevel": "Birtamod Municipality",
+  "localLevelId": "11112",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/768"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/769"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/770"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/771"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/772"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/773"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/774"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/775"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/776"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/777"
+    }
+  ],
+  "count": 10
+}

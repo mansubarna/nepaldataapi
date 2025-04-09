@@ -1,0 +1,43 @@
+{
+  "localLevel": "Urlabari Municipality",
+  "localLevelId": "11208",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/868"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/869"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/870"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/871"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/872"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/873"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/874"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/875"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/876"
+    }
+  ],
+  "count": 9
+}

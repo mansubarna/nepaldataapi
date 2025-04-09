@@ -1,0 +1,31 @@
+{
+  "localLevel": "Yangwarak Rural Municipality",
+  "localLevelId": "10901",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/528"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/529"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/530"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/531"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/532"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/533"
+    }
+  ],
+  "count": 6
+}

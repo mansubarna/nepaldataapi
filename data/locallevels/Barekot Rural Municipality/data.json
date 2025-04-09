@@ -1,0 +1,43 @@
+{
+  "localLevel": "Barekot Rural Municipality",
+  "localLevelId": "60701",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5678"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5679"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5680"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5681"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5682"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5683"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5684"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5685"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5686"
+    }
+  ],
+  "count": 9
+}

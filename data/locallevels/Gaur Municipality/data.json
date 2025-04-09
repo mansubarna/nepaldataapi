@@ -1,0 +1,43 @@
+{
+  "localLevel": "Gaur Municipality",
+  "localLevelId": "20617",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2132"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2133"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2134"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2135"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2136"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2137"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2138"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2139"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2140"
+    }
+  ],
+  "count": 9
+}

@@ -1,0 +1,39 @@
+{
+  "localLevel": "Sonma Rural Municipality",
+  "localLevelId": "20403",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1681"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1682"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1683"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1684"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1685"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1686"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1687"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1688"
+    }
+  ],
+  "count": 8
+}

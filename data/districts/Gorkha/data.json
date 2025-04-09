@@ -1,0 +1,51 @@
+{
+  "district": "Gorkha",
+  "districtId": "401",
+  "localLevels": [
+    {
+      "name": "Chumnubri Rural Municipality",
+      "href": "/LocalLevel/Index/40101"
+    },
+    {
+      "name": "Ajirkot Rural Municipality",
+      "href": "/LocalLevel/Index/40102"
+    },
+    {
+      "name": "Barpak Sulikot Rural Municipality",
+      "href": "/LocalLevel/Index/40103"
+    },
+    {
+      "name": "Dharche Rural Municipality",
+      "href": "/LocalLevel/Index/40104"
+    },
+    {
+      "name": "Aarughat Rural Municipality",
+      "href": "/LocalLevel/Index/40105"
+    },
+    {
+      "name": "Bhimsen Thapa Rural Municipality",
+      "href": "/LocalLevel/Index/40106"
+    },
+    {
+      "name": "Siranchok Rural Municipality",
+      "href": "/LocalLevel/Index/40107"
+    },
+    {
+      "name": "Palungtar Municipality",
+      "href": "/LocalLevel/Index/40108"
+    },
+    {
+      "name": "Gorkha Municipality",
+      "href": "/LocalLevel/Index/40109"
+    },
+    {
+      "name": "Shahid Lakhan Rural Municipality",
+      "href": "/LocalLevel/Index/40110"
+    },
+    {
+      "name": "Gandaki Rural Municipality",
+      "href": "/LocalLevel/Index/40111"
+    }
+  ],
+  "count": 11
+}

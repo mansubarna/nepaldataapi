@@ -1,0 +1,35 @@
+{
+  "localLevel": "Lungri Rural Municipality",
+  "localLevelId": "50210",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4405"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4406"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4407"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4408"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4409"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4410"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4411"
+    }
+  ],
+  "count": 7
+}

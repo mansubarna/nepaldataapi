@@ -1,0 +1,35 @@
+{
+  "localLevel": "Tamakoshi Rural Municipality",
+  "localLevelId": "30106",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2472"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2473"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2474"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2475"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2476"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2477"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2478"
+    }
+  ],
+  "count": 7
+}

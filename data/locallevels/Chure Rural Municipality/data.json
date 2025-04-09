@@ -1,0 +1,31 @@
+{
+  "localLevel": "Chure Rural Municipality",
+  "localLevelId": "70802",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6533"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6534"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6535"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6536"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6537"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6538"
+    }
+  ],
+  "count": 6
+}

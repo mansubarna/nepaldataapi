@@ -1,0 +1,43 @@
+{
+  "district": "Dolakha",
+  "districtId": "301",
+  "localLevels": [
+    {
+      "name": "Gaurishankar Rural Municipality",
+      "href": "/LocalLevel/Index/30101"
+    },
+    {
+      "name": "Bigu Rural Municipality",
+      "href": "/LocalLevel/Index/30102"
+    },
+    {
+      "name": "Kalinchok Rural Municipality",
+      "href": "/LocalLevel/Index/30103"
+    },
+    {
+      "name": "Baiteshwor Rural Municipality",
+      "href": "/LocalLevel/Index/30104"
+    },
+    {
+      "name": "Jiri Municipality",
+      "href": "/LocalLevel/Index/30105"
+    },
+    {
+      "name": "Tamakoshi Rural Municipality",
+      "href": "/LocalLevel/Index/30106"
+    },
+    {
+      "name": "Melung Rural Municipality",
+      "href": "/LocalLevel/Index/30107"
+    },
+    {
+      "name": "Shailung Rural Municipality",
+      "href": "/LocalLevel/Index/30108"
+    },
+    {
+      "name": "Bhimeshwor Municipality",
+      "href": "/LocalLevel/Index/30109"
+    }
+  ],
+  "count": 9
+}

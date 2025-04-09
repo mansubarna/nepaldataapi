@@ -1,0 +1,35 @@
+{
+  "district": "Dadeldhura",
+  "districtId": "705",
+  "localLevels": [
+    {
+      "name": "Ajayameru Rural Municipality",
+      "href": "/LocalLevel/Index/70503"
+    },
+    {
+      "name": "Aalital Rural Municipality",
+      "href": "/LocalLevel/Index/70506"
+    },
+    {
+      "name": "Bhageshwor Rural Municipality",
+      "href": "/LocalLevel/Index/70504"
+    },
+    {
+      "name": "Parashuram Municipality",
+      "href": "/LocalLevel/Index/70505"
+    },
+    {
+      "name": "Ganyapdhura Rural Municipality",
+      "href": "/LocalLevel/Index/70507"
+    },
+    {
+      "name": "Navadurga Rural Municipality",
+      "href": "/LocalLevel/Index/70501"
+    },
+    {
+      "name": "Amargadhi Municipality",
+      "href": "/LocalLevel/Index/70502"
+    }
+  ],
+  "count": 7
+}

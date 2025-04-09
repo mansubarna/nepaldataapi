@@ -1,0 +1,43 @@
+{
+  "localLevel": "Shahidnagar Municipality",
+  "localLevelId": "20310",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1571"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1572"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1573"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1574"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1575"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1576"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1577"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1578"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1579"
+    }
+  ],
+  "count": 9
+}

@@ -1,0 +1,35 @@
+{
+  "localLevel": "Patarasi Rural Municipality",
+  "localLevelId": "60401",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5446"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5447"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5448"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5449"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5450"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5451"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5452"
+    }
+  ],
+  "count": 7
+}

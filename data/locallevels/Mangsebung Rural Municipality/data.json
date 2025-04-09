@@ -1,0 +1,31 @@
+{
+  "localLevel": "Mangsebung Rural Municipality",
+  "localLevelId": "11006",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/627"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/628"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/629"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/630"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/631"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/632"
+    }
+  ],
+  "count": 6
+}

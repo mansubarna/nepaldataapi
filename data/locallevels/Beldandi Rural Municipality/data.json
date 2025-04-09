@@ -1,0 +1,27 @@
+{
+  "localLevel": "Beldandi Rural Municipality",
+  "localLevelId": "70909",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6739"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6740"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6741"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6742"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6743"
+    }
+  ],
+  "count": 5
+}

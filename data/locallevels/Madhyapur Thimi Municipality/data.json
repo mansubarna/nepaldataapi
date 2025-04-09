@@ -1,0 +1,43 @@
+{
+  "localLevel": "Madhyapur Thimi Municipality",
+  "localLevelId": "30703",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2982"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2983"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2984"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2985"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2986"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2987"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2988"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2989"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2990"
+    }
+  ],
+  "count": 9
+}

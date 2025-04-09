@@ -1,0 +1,31 @@
+{
+  "localLevel": "Isma Rural Municipality",
+  "localLevelId": "50405",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4508"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4509"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4510"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4511"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4512"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4513"
+    }
+  ],
+  "count": 6
+}

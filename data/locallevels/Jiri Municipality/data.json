@@ -1,0 +1,43 @@
+{
+  "localLevel": "Jiri Municipality",
+  "localLevelId": "30105",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2463"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2464"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2465"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2466"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2467"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2468"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2469"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2470"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2471"
+    }
+  ],
+  "count": 9
+}

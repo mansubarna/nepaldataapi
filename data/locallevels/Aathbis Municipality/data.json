@@ -1,0 +1,43 @@
+{
+  "localLevel": "Aathbis Municipality",
+  "localLevelId": "60605",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5615"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5616"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5617"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5618"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5619"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5620"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5621"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5622"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5623"
+    }
+  ],
+  "count": 9
+}

@@ -1,0 +1,43 @@
+{
+  "localLevel": "Ramechhap Municipality",
+  "localLevelId": "31004",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3227"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3228"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3229"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3230"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3231"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3232"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3233"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3234"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3235"
+    }
+  ],
+  "count": 9
+}

@@ -1,0 +1,47 @@
+{
+  "localLevel": "Chaukune Rural Municipality",
+  "localLevelId": "61009",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6000"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6001"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6002"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6003"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6004"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6005"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6006"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6007"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/6008"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/6009"
+    }
+  ],
+  "count": 10
+}

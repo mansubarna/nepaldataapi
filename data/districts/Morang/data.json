@@ -1,0 +1,75 @@
+{
+  "district": "Morang",
+  "districtId": "112",
+  "localLevels": [
+    {
+      "name": "Belbari Municipality",
+      "href": "/LocalLevel/Index/11205"
+    },
+    {
+      "name": "Biratnagar Metropolitan",
+      "href": "/LocalLevel/Index/11214"
+    },
+    {
+      "name": "Budhiganga Rural Municipality",
+      "href": "/LocalLevel/Index/11213"
+    },
+    {
+      "name": "Dhanpalthan Rural Municipality",
+      "href": "/LocalLevel/Index/11216"
+    },
+    {
+      "name": "Gramthan Rural Municipality",
+      "href": "/LocalLevel/Index/11212"
+    },
+    {
+      "name": "Jahada Rural Municipality",
+      "href": "/LocalLevel/Index/11217"
+    },
+    {
+      "name": "Kanepokhari Rural Municipality",
+      "href": "/LocalLevel/Index/11206"
+    },
+    {
+      "name": "Katahari Rural Municipality",
+      "href": "/LocalLevel/Index/11215"
+    },
+    {
+      "name": "Kerabari Rural Municipality",
+      "href": "/LocalLevel/Index/11203"
+    },
+    {
+      "name": "Letang Municipality",
+      "href": "/LocalLevel/Index/11202"
+    },
+    {
+      "name": "Miklajung Rural Municipality",
+      "href": "/LocalLevel/Index/11201"
+    },
+    {
+      "name": "Pathari Shanishchare Municipality",
+      "href": "/LocalLevel/Index/11207"
+    },
+    {
+      "name": "Rangeli Municipality",
+      "href": "/LocalLevel/Index/11211"
+    },
+    {
+      "name": "Ratuwamai Municipality",
+      "href": "/LocalLevel/Index/11209"
+    },
+    {
+      "name": "Sundarharaincha Municipality",
+      "href": "/LocalLevel/Index/11204"
+    },
+    {
+      "name": "Sunbarsi Municipality",
+      "href": "/LocalLevel/Index/11210"
+    },
+    {
+      "name": "Urlabari Municipality",
+      "href": "/LocalLevel/Index/11208"
+    }
+  ],
+  "count": 17
+}

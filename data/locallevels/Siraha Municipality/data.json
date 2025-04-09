@@ -1,0 +1,95 @@
+{
+  "localLevel": "Siraha Municipality",
+  "localLevelId": "20217",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1464"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1465"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1466"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1467"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1468"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1469"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1470"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1471"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1472"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/1473"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/1474"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/1475"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/1476"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/1477"
+    },
+    {
+      "no": "15",
+      "href": "/Ward/Index/1478"
+    },
+    {
+      "no": "16",
+      "href": "/Ward/Index/1479"
+    },
+    {
+      "no": "17",
+      "href": "/Ward/Index/1480"
+    },
+    {
+      "no": "18",
+      "href": "/Ward/Index/1481"
+    },
+    {
+      "no": "19",
+      "href": "/Ward/Index/1482"
+    },
+    {
+      "no": "20",
+      "href": "/Ward/Index/1483"
+    },
+    {
+      "no": "21",
+      "href": "/Ward/Index/1484"
+    },
+    {
+      "no": "22",
+      "href": "/Ward/Index/1485"
+    }
+  ],
+  "count": 22
+}

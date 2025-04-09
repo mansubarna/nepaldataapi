@@ -1,0 +1,63 @@
+{
+  "localLevel": "Dhangadhimai Municipality",
+  "localLevelId": "20202",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1346"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1347"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1348"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1349"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1350"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1351"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1352"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1353"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1354"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/1355"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/1356"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/1357"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/1358"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/1359"
+    }
+  ],
+  "count": 14
+}

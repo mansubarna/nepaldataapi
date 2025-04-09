@@ -1,0 +1,35 @@
+{
+  "localLevel": "Mahawai Rural Municipality",
+  "localLevelId": "60508",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5573"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5574"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5575"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5576"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5577"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5578"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5579"
+    }
+  ],
+  "count": 7
+}

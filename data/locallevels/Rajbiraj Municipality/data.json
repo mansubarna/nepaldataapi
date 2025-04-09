@@ -1,0 +1,71 @@
+{
+  "localLevel": "Rajbiraj Municipality",
+  "localLevelId": "20113",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1266"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1267"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1268"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1269"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1270"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1271"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1272"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1273"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1274"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/1275"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/1276"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/1277"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/1278"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/1279"
+    },
+    {
+      "no": "15",
+      "href": "/Ward/Index/1280"
+    },
+    {
+      "no": "16",
+      "href": "/Ward/Index/1281"
+    }
+  ],
+  "count": 16
+}

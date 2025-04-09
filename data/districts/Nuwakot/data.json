@@ -1,0 +1,63 @@
+{
+  "district": "Nuwakot",
+  "districtId": "305",
+  "localLevels": [
+    {
+      "name": "Dupcheshwor Rural Municipality",
+      "href": "/LocalLevel/Index/30501"
+    },
+    {
+      "name": "Tadi Rural Municipality",
+      "href": "/LocalLevel/Index/30502"
+    },
+    {
+      "name": "Suryagadhi Rural Municipality",
+      "href": "/LocalLevel/Index/30503"
+    },
+    {
+      "name": "Bidur Municipality",
+      "href": "/LocalLevel/Index/30504"
+    },
+    {
+      "name": "Kispang Rural Municipality",
+      "href": "/LocalLevel/Index/30505"
+    },
+    {
+      "name": "Myagang Rural Municipality",
+      "href": "/LocalLevel/Index/30506"
+    },
+    {
+      "name": "Tarakeshwor Rural Municipality",
+      "href": "/LocalLevel/Index/30507"
+    },
+    {
+      "name": "Belkotgadhi Municipality",
+      "href": "/LocalLevel/Index/30508"
+    },
+    {
+      "name": "Likhu Rural Municipality",
+      "href": "/LocalLevel/Index/30509"
+    },
+    {
+      "name": "Panchakanya Rural Municipality",
+      "href": "/LocalLevel/Index/30510"
+    },
+    {
+      "name": "Shivapuri Rural Municipality",
+      "href": "/LocalLevel/Index/30511"
+    },
+    {
+      "name": "Kakani Rural Municipality",
+      "href": "/LocalLevel/Index/30512"
+    },
+    {
+      "name": "Langtang National Park",
+      "href": "#"
+    },
+    {
+      "name": "Shivapuri Watershed & Wildlife Reserve",
+      "href": "#"
+    }
+  ],
+  "count": 14
+}

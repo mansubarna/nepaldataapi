@@ -1,0 +1,31 @@
+{
+  "localLevel": "Makalu Rural Municipality",
+  "localLevelId": "10202",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/67"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/68"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/69"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/70"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/71"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/72"
+    }
+  ],
+  "count": 6
+}

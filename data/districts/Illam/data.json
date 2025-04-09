@@ -1,0 +1,47 @@
+{
+  "district": "Illam",
+  "districtId": "110",
+  "localLevels": [
+    {
+      "name": "Chulachuli Rural Municipality",
+      "href": "/LocalLevel/Index/11007"
+    },
+    {
+      "name": "Ilam Municipality",
+      "href": "/LocalLevel/Index/11003"
+    },
+    {
+      "name": "Mai Municipality",
+      "href": "/LocalLevel/Index/11008"
+    },
+    {
+      "name": "Maijogmai Rural Municipality",
+      "href": "/LocalLevel/Index/11001"
+    },
+    {
+      "name": "Rong Rural Municipality",
+      "href": "/LocalLevel/Index/11010"
+    },
+    {
+      "name": "Sandakpur Rural Municipality",
+      "href": "/LocalLevel/Index/11002"
+    },
+    {
+      "name": "Suryodaya Municipality",
+      "href": "/LocalLevel/Index/11009"
+    },
+    {
+      "name": "Mangsebung Rural Municipality",
+      "href": "/LocalLevel/Index/11006"
+    },
+    {
+      "name": "Deumai Municipality",
+      "href": "/LocalLevel/Index/11004"
+    },
+    {
+      "name": "Phakphokthum Rural Municipality",
+      "href": "/LocalLevel/Index/11005"
+    }
+  ],
+  "count": 10
+}

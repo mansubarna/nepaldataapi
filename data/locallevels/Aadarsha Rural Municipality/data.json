@@ -1,0 +1,35 @@
+{
+  "localLevel": "Aadarsha Rural Municipality",
+  "localLevelId": "70603",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6383"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6384"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6385"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6386"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6387"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6388"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6389"
+    }
+  ],
+  "count": 7
+}

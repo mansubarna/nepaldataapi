@@ -1,0 +1,35 @@
+{
+  "localLevel": "Dhurkot Rural Municipality",
+  "localLevelId": "50408",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4529"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4530"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4531"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4532"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4533"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4534"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4535"
+    }
+  ],
+  "count": 7
+}

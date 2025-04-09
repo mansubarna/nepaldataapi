@@ -1,0 +1,83 @@
+{
+  "district": "Saptari",
+  "districtId": "201",
+  "localLevels": [
+    {
+      "name": "Agnisair Krishnasawaran Rural Municipality",
+      "href": "/LocalLevel/Index/20103"
+    },
+    {
+      "name": "Balanbihul Rural Municipality",
+      "href": "/LocalLevel/Index/20108"
+    },
+    {
+      "name": "Rajgadh Rural Municipality",
+      "href": "/LocalLevel/Index/20111"
+    },
+    {
+      "name": "Bishnupur Rural Municipality",
+      "href": "/LocalLevel/Index/20112"
+    },
+    {
+      "name": "Bodebarsain Municipality",
+      "href": "/LocalLevel/Index/20109"
+    },
+    {
+      "name": "Chhinnamasta Rural Municipality",
+      "href": "/LocalLevel/Index/20118"
+    },
+    {
+      "name": "Dakneshwori Municipality",
+      "href": "/LocalLevel/Index/20110"
+    },
+    {
+      "name": "Hanumannagar Kankalini Municipality",
+      "href": "/LocalLevel/Index/20116"
+    },
+    {
+      "name": "Kanchanrup Municipality",
+      "href": "/LocalLevel/Index/20102"
+    },
+    {
+      "name": "Khadak Municipality",
+      "href": "/LocalLevel/Index/20106"
+    },
+    {
+      "name": "Koshi Tappu Wildlife Reserve",
+      "href": "#"
+    },
+    {
+      "name": "Mahadeva Rural Municipality",
+      "href": "/LocalLevel/Index/20114"
+    },
+    {
+      "name": "Rajbiraj Municipality",
+      "href": "/LocalLevel/Index/20113"
+    },
+    {
+      "name": "Rupani Rural Municipality",
+      "href": "/LocalLevel/Index/20104"
+    },
+    {
+      "name": "Saptakoshi Municipality",
+      "href": "/LocalLevel/Index/20101"
+    },
+    {
+      "name": "Shambhunath Municipality",
+      "href": "/LocalLevel/Index/20105"
+    },
+    {
+      "name": "Surunga Municipality",
+      "href": "/LocalLevel/Index/20107"
+    },
+    {
+      "name": "Tilathi Koiladi Rural Municipality",
+      "href": "/LocalLevel/Index/20117"
+    },
+    {
+      "name": "Tirahut Rural Municipality",
+      "href": "/LocalLevel/Index/20115"
+    }
+  ],
+  "count": 19
+}

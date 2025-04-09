@@ -1,0 +1,27 @@
+{
+  "localLevel": "Bishnupur Rural Municipality",
+  "localLevelId": "20208",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1413"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1414"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1415"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1416"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1417"
+    }
+  ],
+  "count": 5
+}

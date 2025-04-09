@@ -1,0 +1,55 @@
+{
+  "localLevel": "Krishnanagar Municipality",
+  "localLevelId": "50905",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4979"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4980"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4981"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4982"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4983"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4984"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4985"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4986"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4987"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/4988"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/4989"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/4990"
+    }
+  ],
+  "count": 12
+}

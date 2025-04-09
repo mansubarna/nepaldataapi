@@ -1,0 +1,31 @@
+{
+  "localLevel": "Myagang Rural Municipality",
+  "localLevelId": "30506",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2773"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2774"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2775"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2776"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2777"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2778"
+    }
+  ],
+  "count": 6
+}

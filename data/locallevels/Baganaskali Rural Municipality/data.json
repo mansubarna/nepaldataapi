@@ -1,0 +1,43 @@
+{
+  "localLevel": "Baganaskali Rural Municipality",
+  "localLevelId": "50604",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4651"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4652"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4653"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4654"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4655"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4656"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4657"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4658"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4659"
+    }
+  ],
+  "count": 9
+}

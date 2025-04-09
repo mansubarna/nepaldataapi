@@ -1,0 +1,31 @@
+{
+  "localLevel": "Mahottari Rural Municipality",
+  "localLevelId": "20412",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1759"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1760"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1761"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1762"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1763"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1764"
+    }
+  ],
+  "count": 6
+}

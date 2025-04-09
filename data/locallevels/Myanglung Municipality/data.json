@@ -1,0 +1,47 @@
+{
+  "localLevel": "Myanglung Municipality",
+  "localLevelId": "10804",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/503"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/504"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/505"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/506"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/507"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/508"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/509"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/510"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/511"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/512"
+    }
+  ],
+  "count": 10
+}

@@ -1,0 +1,35 @@
+{
+  "localLevel": "Sukidaha Rural Municipality",
+  "localLevelId": "50204",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4358"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4359"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4360"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4361"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4362"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4363"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4364"
+    }
+  ],
+  "count": 7
+}

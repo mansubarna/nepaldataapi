@@ -1,0 +1,35 @@
+{
+  "localLevel": "Nisdi Rural Municipality",
+  "localLevelId": "50610",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4704"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4705"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4706"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4707"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4708"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4709"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4710"
+    }
+  ],
+  "count": 7
+}

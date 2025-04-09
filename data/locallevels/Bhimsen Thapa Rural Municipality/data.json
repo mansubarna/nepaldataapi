@@ -1,0 +1,39 @@
+{
+  "localLevel": "Bhimsen Thapa Rural Municipality",
+  "localLevelId": "40106",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3587"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3588"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3589"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3590"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3591"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3592"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3593"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3594"
+    }
+  ],
+  "count": 8
+}

@@ -1,0 +1,47 @@
+{
+  "localLevel": "Sangurigadhi Rural Municipality",
+  "localLevelId": "10706",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/467"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/468"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/469"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/470"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/471"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/472"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/473"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/474"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/475"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/476"
+    }
+  ],
+  "count": 10
+}

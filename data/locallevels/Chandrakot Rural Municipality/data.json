@@ -1,0 +1,39 @@
+{
+  "localLevel": "Chandrakot Rural Municipality",
+  "localLevelId": "50403",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4491"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4492"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4493"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4494"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4495"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4496"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4497"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4498"
+    }
+  ],
+  "count": 8
+}

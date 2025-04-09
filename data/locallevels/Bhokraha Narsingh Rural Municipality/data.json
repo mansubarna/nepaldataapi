@@ -1,0 +1,39 @@
+{
+  "localLevel": "Bhokraha Narsingh Rural Municipality",
+  "localLevelId": "11304",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/998"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/999"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1000"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1001"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1002"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1003"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1004"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1005"
+    }
+  ],
+  "count": 8
+}

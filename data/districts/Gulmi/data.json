@@ -1,0 +1,55 @@
+{
+  "district": "Gulmi",
+  "districtId": "504",
+  "localLevels": [
+    {
+      "name": "Kaligandaki Rural Municipality",
+      "href": "/LocalLevel/Index/50401"
+    },
+    {
+      "name": "Satyawati Rural Municipality",
+      "href": "/LocalLevel/Index/50402"
+    },
+    {
+      "name": "Chandrakot Rural Municipality",
+      "href": "/LocalLevel/Index/50403"
+    },
+    {
+      "name": "Musikot Municipality",
+      "href": "/LocalLevel/Index/50404"
+    },
+    {
+      "name": "Isma Rural Municipality",
+      "href": "/LocalLevel/Index/50405"
+    },
+    {
+      "name": "Malika Rural Municipality",
+      "href": "/LocalLevel/Index/50406"
+    },
+    {
+      "name": "Madane Rural Municipality",
+      "href": "/LocalLevel/Index/50407"
+    },
+    {
+      "name": "Dhurkot Rural Municipality",
+      "href": "/LocalLevel/Index/50408"
+    },
+    {
+      "name": "Resunga Municipality",
+      "href": "/LocalLevel/Index/50409"
+    },
+    {
+      "name": "Gulmidarbar Rural Municipality",
+      "href": "/LocalLevel/Index/50410"
+    },
+    {
+      "name": "Chhatrakot Rural Municipality",
+      "href": "/LocalLevel/Index/50411"
+    },
+    {
+      "name": "Ruru Rural Municipality",
+      "href": "/LocalLevel/Index/50412"
+    }
+  ],
+  "count": 12
+}

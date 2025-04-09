@@ -1,0 +1,27 @@
+{
+  "localLevel": "Mikwakhola Rural Municipality",
+  "localLevelId": "10102",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/8"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/9"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/10"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/11"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/12"
+    }
+  ],
+  "count": 5
+}

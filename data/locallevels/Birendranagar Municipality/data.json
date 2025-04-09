@@ -1,0 +1,71 @@
+{
+  "localLevel": "Birendranagar Municipality",
+  "localLevelId": "61006",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5963"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5964"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5965"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5966"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5967"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5968"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5969"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5970"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5971"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/5972"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/5973"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/5974"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/5975"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/5976"
+    },
+    {
+      "no": "15",
+      "href": "/Ward/Index/5977"
+    },
+    {
+      "no": "16",
+      "href": "/Ward/Index/5978"
+    }
+  ],
+  "count": 16
+}

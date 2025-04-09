@@ -1,0 +1,51 @@
+{
+  "localLevel": "Khandbari Municipality",
+  "localLevelId": "10206",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/89"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/90"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/91"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/92"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/93"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/94"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/95"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/96"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/97"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/98"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/99"
+    }
+  ],
+  "count": 11
+}

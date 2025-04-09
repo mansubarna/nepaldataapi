@@ -1,0 +1,43 @@
+{
+  "localLevel": "Dewahi Gonahi Municipality",
+  "localLevelId": "20609",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2068"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2069"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2070"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2071"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2072"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2073"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2074"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2075"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2076"
+    }
+  ],
+  "count": 9
+}

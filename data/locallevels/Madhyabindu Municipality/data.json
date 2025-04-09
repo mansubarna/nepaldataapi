@@ -1,0 +1,67 @@
+{
+  "localLevel": "Madhyabindu Municipality",
+  "localLevelId": "40807",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4044"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4045"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4046"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4047"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4048"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4049"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4050"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4051"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4052"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/4053"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/4054"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/4055"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/4056"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/4057"
+    },
+    {
+      "no": "15",
+      "href": "/Ward/Index/4058"
+    }
+  ],
+  "count": 15
+}

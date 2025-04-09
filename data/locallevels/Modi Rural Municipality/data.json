@@ -1,0 +1,39 @@
+{
+  "localLevel": "Modi Rural Municipality",
+  "localLevelId": "41001",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4163"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4164"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4165"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4166"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4167"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4168"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4169"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4170"
+    }
+  ],
+  "count": 8
+}

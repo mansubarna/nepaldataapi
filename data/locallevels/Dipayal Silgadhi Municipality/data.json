@@ -1,0 +1,43 @@
+{
+  "localLevel": "Dipayal Silgadhi Municipality",
+  "localLevelId": "70605",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6401"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6402"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6403"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6404"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6405"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6406"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6407"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6408"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/6409"
+    }
+  ],
+  "count": 9
+}

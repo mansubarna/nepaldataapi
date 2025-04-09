@@ -1,0 +1,35 @@
+{
+  "localLevel": "Gangajamuna Rural Municipality",
+  "localLevelId": "30403",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2644"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2645"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2646"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2647"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2648"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2649"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2650"
+    }
+  ],
+  "count": 7
+}

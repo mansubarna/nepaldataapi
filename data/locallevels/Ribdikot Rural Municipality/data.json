@@ -1,0 +1,39 @@
+{
+  "localLevel": "Ribdikot Rural Municipality",
+  "localLevelId": "50606",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4674"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4675"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4676"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4677"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4678"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4679"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4680"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4681"
+    }
+  ],
+  "count": 8
+}

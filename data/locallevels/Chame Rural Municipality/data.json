@@ -1,0 +1,27 @@
+{
+  "localLevel": "Chame Rural Municipality",
+  "localLevelId": "40203",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3658"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3659"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3660"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3661"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3662"
+    }
+  ],
+  "count": 5
+}

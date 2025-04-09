@@ -1,0 +1,43 @@
+{
+  "localLevel": "Madhavnarayan Municipality",
+  "localLevelId": "20607",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2050"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2051"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2052"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2053"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2054"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2055"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2056"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2057"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2058"
+    }
+  ],
+  "count": 9
+}

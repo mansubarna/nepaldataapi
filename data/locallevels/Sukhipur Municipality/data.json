@@ -1,0 +1,47 @@
+{
+  "localLevel": "Sukhipur Municipality",
+  "localLevelId": "20210",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1423"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1424"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1425"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1426"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1427"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1428"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1429"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1430"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1431"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/1432"
+    }
+  ],
+  "count": 10
+}

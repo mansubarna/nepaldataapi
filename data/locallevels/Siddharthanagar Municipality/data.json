@@ -1,0 +1,59 @@
+{
+  "localLevel": "Siddharthanagar Municipality",
+  "localLevelId": "50811",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4885"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4886"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4887"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4888"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4889"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4890"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4891"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4892"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4893"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/4894"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/4895"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/4896"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/4897"
+    }
+  ],
+  "count": 13
+}

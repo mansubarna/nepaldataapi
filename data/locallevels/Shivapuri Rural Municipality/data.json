@@ -1,0 +1,39 @@
+{
+  "localLevel": "Shivapuri Rural Municipality",
+  "localLevelId": "30511",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2809"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2810"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2811"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2812"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2813"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2814"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2815"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2816"
+    }
+  ],
+  "count": 8
+}

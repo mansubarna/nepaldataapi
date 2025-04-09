@@ -1,0 +1,47 @@
+{
+  "localLevel": "Buddhabhumi Municipality",
+  "localLevelId": "50902",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4951"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4952"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4953"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4954"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4955"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4956"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4957"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4958"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4959"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/4960"
+    }
+  ],
+  "count": 10
+}

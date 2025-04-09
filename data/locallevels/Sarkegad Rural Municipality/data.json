@@ -1,0 +1,39 @@
+{
+  "localLevel": "Sarkegad Rural Municipality",
+  "localLevelId": "60305",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5427"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5428"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5429"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5430"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5431"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5432"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5433"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5434"
+    }
+  ],
+  "count": 8
+}

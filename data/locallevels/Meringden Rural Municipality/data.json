@@ -1,0 +1,31 @@
+{
+  "localLevel": "Meringden Rural Municipality",
+  "localLevelId": "10103",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/13"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/14"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/15"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/16"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/17"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/18"
+    }
+  ],
+  "count": 6
+}

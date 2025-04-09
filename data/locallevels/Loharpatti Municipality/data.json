@@ -1,0 +1,43 @@
+{
+  "localLevel": "Loharpatti Municipality",
+  "localLevelId": "20406",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1707"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1708"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1709"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1710"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1711"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1712"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1713"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1714"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1715"
+    }
+  ],
+  "count": 9
+}

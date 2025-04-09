@@ -1,0 +1,31 @@
+{
+  "localLevel": "Jantedhunga Rural Municipality",
+  "localLevelId": "10509",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/332"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/333"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/334"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/335"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/336"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/337"
+    }
+  ],
+  "count": 6
+}

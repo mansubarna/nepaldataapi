@@ -1,0 +1,99 @@
+{
+  "localLevel": "Nepalgunj Sub-Metropolitan City",
+  "localLevelId": "51106",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5182"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5183"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5184"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5185"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5186"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5187"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5188"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5189"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5190"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/5191"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/5192"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/5193"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/5194"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/5195"
+    },
+    {
+      "no": "15",
+      "href": "/Ward/Index/5196"
+    },
+    {
+      "no": "16",
+      "href": "/Ward/Index/5197"
+    },
+    {
+      "no": "17",
+      "href": "/Ward/Index/5198"
+    },
+    {
+      "no": "18",
+      "href": "/Ward/Index/5199"
+    },
+    {
+      "no": "19",
+      "href": "/Ward/Index/5200"
+    },
+    {
+      "no": "20",
+      "href": "/Ward/Index/5201"
+    },
+    {
+      "no": "21",
+      "href": "/Ward/Index/5202"
+    },
+    {
+      "no": "22",
+      "href": "/Ward/Index/5203"
+    },
+    {
+      "no": "23",
+      "href": "/Ward/Index/5204"
+    }
+  ],
+  "count": 23
+}

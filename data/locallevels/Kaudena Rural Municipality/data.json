@@ -1,0 +1,35 @@
+{
+  "localLevel": "Kaudena Rural Municipality",
+  "localLevelId": "20519",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1974"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1975"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1976"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1977"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1978"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1979"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1980"
+    }
+  ],
+  "count": 7
+}

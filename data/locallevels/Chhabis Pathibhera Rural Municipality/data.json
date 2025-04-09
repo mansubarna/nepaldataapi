@@ -1,0 +1,35 @@
+{
+  "localLevel": "Chhabis Pathibhera Rural Municipality",
+  "localLevelId": "70207",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6125"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6126"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6127"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6128"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6129"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6130"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6131"
+    }
+  ],
+  "count": 7
+}

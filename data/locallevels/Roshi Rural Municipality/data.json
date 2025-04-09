@@ -1,0 +1,55 @@
+{
+  "localLevel": "Roshi Rural Municipality",
+  "localLevelId": "30911",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3180"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3181"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3182"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3183"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3184"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3185"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3186"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3187"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3188"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/3189"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/3190"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/3191"
+    }
+  ],
+  "count": 12
+}

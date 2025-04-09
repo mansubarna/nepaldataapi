@@ -1,0 +1,59 @@
+{
+  "localLevel": "Belkotgadhi Municipality",
+  "localLevelId": "30508",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2785"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2786"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2787"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2788"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2789"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2790"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2791"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2792"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2793"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/2794"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/2795"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/2796"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/2797"
+    }
+  ],
+  "count": 13
+}

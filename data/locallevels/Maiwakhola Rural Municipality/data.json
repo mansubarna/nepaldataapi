@@ -1,0 +1,31 @@
+{
+  "localLevel": "Maiwakhola Rural Municipality",
+  "localLevelId": "10104",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/19"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/20"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/21"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/22"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/23"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/24"
+    }
+  ],
+  "count": 6
+}

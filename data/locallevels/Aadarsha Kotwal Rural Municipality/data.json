@@ -1,0 +1,39 @@
+{
+  "localLevel": "Aadarsha Kotwal Rural Municipality",
+  "localLevelId": "20711",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2263"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2264"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2265"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2266"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2267"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2268"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2269"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2270"
+    }
+  ],
+  "count": 8
+}

@@ -1,0 +1,31 @@
+{
+  "localLevel": "Gadhi Rural Municipality",
+  "localLevelId": "11308",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1047"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1048"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1049"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1050"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1051"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1052"
+    }
+  ],
+  "count": 6
+}

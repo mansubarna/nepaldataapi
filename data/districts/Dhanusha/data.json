@@ -1,0 +1,79 @@
+{
+  "district": "Dhanusha",
+  "districtId": "203",
+  "localLevels": [
+    {
+      "name": "Aurahi Rural Municipality",
+      "href": "/LocalLevel/Index/20314"
+    },
+    {
+      "name": "Bateshwor Rural Municipality",
+      "href": "/LocalLevel/Index/20304"
+    },
+    {
+      "name": "Bideha Municipality",
+      "href": "/LocalLevel/Index/20313"
+    },
+    {
+      "name": "Kshireshwornath Municipality",
+      "href": "/LocalLevel/Index/20305"
+    },
+    {
+      "name": "Dhanauji Rural Municipality",
+      "href": "/LocalLevel/Index/20316"
+    },
+    {
+      "name": "Dhanusadham Municipality",
+      "href": "/LocalLevel/Index/20302"
+    },
+    {
+      "name": "Ganeshman Charnath Municipality",
+      "href": "/LocalLevel/Index/20301"
+    },
+    {
+      "name": "Hansapur Municipality",
+      "href": "/LocalLevel/Index/20308"
+    },
+    {
+      "name": "Janaknandini Rural Municipality",
+      "href": "/LocalLevel/Index/20312"
+    },
+    {
+      "name": "Janakpurdham Sub-Metropolitan City",
+      "href": "/LocalLevel/Index/20315"
+    },
+    {
+      "name": "Kamala Municipality",
+      "href": "/LocalLevel/Index/20311"
+    },
+    {
+      "name": "Laxminiya Rural Municipality",
+      "href": "/LocalLevel/Index/20306"
+    },
+    {
+      "name": "Mithila Municipality",
+      "href": "/LocalLevel/Index/20303"
+    },
+    {
+      "name": "Mithila Bihari Municipality",
+      "href": "/LocalLevel/Index/20307"
+    },
+    {
+      "name": "Mukhiyapatti Musaharmiya Rural Municipality",
+      "href": "/LocalLevel/Index/20318"
+    },
+    {
+      "name": "Nagarain Municipality",
+      "href": "/LocalLevel/Index/20317"
+    },
+    {
+      "name": "Sabaila Municipality",
+      "href": "/LocalLevel/Index/20309"
+    },
+    {
+      "name": "Shahidnagar Municipality",
+      "href": "/LocalLevel/Index/20310"
+    }
+  ],
+  "count": 18
+}

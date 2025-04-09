@@ -1,0 +1,47 @@
+{
+  "localLevel": "Badigad Rural Municipality",
+  "localLevelId": "41107",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4273"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4274"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4275"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4276"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4277"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4278"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4279"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4280"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4281"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/4282"
+    }
+  ],
+  "count": 10
+}

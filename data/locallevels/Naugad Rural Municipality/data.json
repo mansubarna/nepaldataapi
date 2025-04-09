@@ -1,0 +1,31 @@
+{
+  "localLevel": "Naugad Rural Municipality",
+  "localLevelId": "70304",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6193"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6194"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6195"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6196"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6197"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6198"
+    }
+  ],
+  "count": 6
+}

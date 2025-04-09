@@ -1,0 +1,51 @@
+{
+  "localLevel": "Punarbas Municipality",
+  "localLevelId": "70907",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6718"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6719"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6720"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6721"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6722"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6723"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6724"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6725"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/6726"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/6727"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/6728"
+    }
+  ],
+  "count": 11
+}

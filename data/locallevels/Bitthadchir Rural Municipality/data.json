@@ -1,0 +1,43 @@
+{
+  "localLevel": "Bitthadchir Rural Municipality",
+  "localLevelId": "70210",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6148"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6149"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6150"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6151"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6152"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6153"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6154"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6155"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/6156"
+    }
+  ],
+  "count": 9
+}

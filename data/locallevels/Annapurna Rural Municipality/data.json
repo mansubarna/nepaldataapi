@@ -1,0 +1,39 @@
+{
+  "localLevel": "Annapurna Rural Municipality",
+  "localLevelId": "40401",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3697"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3698"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3699"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3700"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3701"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3702"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3703"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3704"
+    }
+  ],
+  "count": 8
+}

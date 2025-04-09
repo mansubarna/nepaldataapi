@@ -1,0 +1,35 @@
+{
+  "localLevel": "Golanjor Rural Municipality",
+  "localLevelId": "31104",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3302"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3303"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3304"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3305"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3306"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3307"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3308"
+    }
+  ],
+  "count": 7
+}

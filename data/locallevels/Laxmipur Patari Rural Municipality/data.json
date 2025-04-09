@@ -1,0 +1,31 @@
+{
+  "localLevel": "Laxmipur Patari Rural Municipality",
+  "localLevelId": "20211",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1433"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1434"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1435"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1436"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1437"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1438"
+    }
+  ],
+  "count": 6
+}

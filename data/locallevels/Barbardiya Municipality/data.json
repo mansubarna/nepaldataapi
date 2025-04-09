@@ -1,0 +1,51 @@
+{
+  "localLevel": "Barbardiya Municipality",
+  "localLevelId": "51202",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5226"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5227"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5228"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5229"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5230"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5231"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5232"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5233"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5234"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/5235"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/5236"
+    }
+  ],
+  "count": 11
+}

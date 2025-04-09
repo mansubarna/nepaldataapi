@@ -1,0 +1,27 @@
+{
+  "district": "Mustang",
+  "districtId": "403",
+  "localLevels": [
+    {
+      "name": "Lo-Ghekar Damodarkunda Rural Municipality",
+      "href": "/LocalLevel/Index/40301"
+    },
+    {
+      "name": "Gharpajhong Rural Municipality",
+      "href": "/LocalLevel/Index/40302"
+    },
+    {
+      "name": "Baragung Muktikshetra Rural Municipality",
+      "href": "/LocalLevel/Index/40303"
+    },
+    {
+      "name": "Lomanthang Rural Municipality",
+      "href": "/LocalLevel/Index/40304"
+    },
+    {
+      "name": "Thasang Rural Municipality",
+      "href": "/LocalLevel/Index/40305"
+    }
+  ],
+  "count": 5
+}

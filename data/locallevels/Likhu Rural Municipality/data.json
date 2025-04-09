@@ -1,0 +1,31 @@
+{
+  "localLevel": "Likhu Rural Municipality",
+  "localLevelId": "30509",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2798"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2799"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2800"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2801"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2802"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2803"
+    }
+  ],
+  "count": 6
+}

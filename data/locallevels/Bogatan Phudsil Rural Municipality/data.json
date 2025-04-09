@@ -1,0 +1,35 @@
+{
+  "localLevel": "Bogatan Phudsil Rural Municipality",
+  "localLevelId": "70607",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6417"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6418"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6419"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6420"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6421"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6422"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6423"
+    }
+  ],
+  "count": 7
+}

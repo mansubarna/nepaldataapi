@@ -1,0 +1,51 @@
+{
+  "localLevel": "Galkot Municipality",
+  "localLevelId": "41108",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4283"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4284"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4285"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4286"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4287"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4288"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4289"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4290"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4291"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/4292"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/4293"
+    }
+  ],
+  "count": 11
+}

@@ -1,0 +1,27 @@
+{
+  "localLevel": "Chhipaharmai Rural Municipality",
+  "localLevelId": "20812",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2414"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2415"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2416"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2417"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2418"
+    }
+  ],
+  "count": 5
+}

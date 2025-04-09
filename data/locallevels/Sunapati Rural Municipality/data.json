@@ -1,0 +1,27 @@
+{
+  "localLevel": "Sunapati Rural Municipality",
+  "localLevelId": "31008",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3266"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3267"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3268"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3269"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3270"
+    }
+  ],
+  "count": 5
+}

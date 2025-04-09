@@ -1,0 +1,31 @@
+{
+  "localLevel": "Sakhuwa Prasauni Rural Municipality",
+  "localLevelId": "20805",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2338"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2339"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2340"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2341"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2342"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2343"
+    }
+  ],
+  "count": 6
+}

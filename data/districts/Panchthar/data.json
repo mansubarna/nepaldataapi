@@ -1,0 +1,39 @@
+{
+  "district": "Panchthar",
+  "districtId": "109",
+  "localLevels": [
+    {
+      "name": "Phalelung Rural Municipality",
+      "href": "/LocalLevel/Index/10903"
+    },
+    {
+      "name": "Phalgunanda Rural Municipality",
+      "href": "/LocalLevel/Index/10905"
+    },
+    {
+      "name": "Hilihang Rural Municipality",
+      "href": "/LocalLevel/Index/10902"
+    },
+    {
+      "name": "Kummayak Rural Municipality",
+      "href": "/LocalLevel/Index/10906"
+    },
+    {
+      "name": "Miklajung Rural Municipality",
+      "href": "/LocalLevel/Index/10908"
+    },
+    {
+      "name": "Phidim Municipality",
+      "href": "/LocalLevel/Index/10904"
+    },
+    {
+      "name": "Tumbewa Rural Municipality",
+      "href": "/LocalLevel/Index/10907"
+    },
+    {
+      "name": "Yangwarak Rural Municipality",
+      "href": "/LocalLevel/Index/10901"
+    }
+  ],
+  "count": 8
+}

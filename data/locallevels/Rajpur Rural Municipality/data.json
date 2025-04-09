@@ -1,0 +1,35 @@
+{
+  "localLevel": "Rajpur Rural Municipality",
+  "localLevelId": "51010",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5129"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5130"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5131"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5132"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5133"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5134"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5135"
+    }
+  ],
+  "count": 7
+}

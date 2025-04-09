@@ -1,0 +1,35 @@
+{
+  "localLevel": "Kanepokhari Rural Municipality",
+  "localLevelId": "11206",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/851"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/852"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/853"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/854"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/855"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/856"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/857"
+    }
+  ],
+  "count": 7
+}

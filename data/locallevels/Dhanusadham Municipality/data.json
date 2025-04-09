@@ -1,0 +1,43 @@
+{
+  "localLevel": "Dhanusadham Municipality",
+  "localLevelId": "20302",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1497"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1498"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1499"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1500"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1501"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1502"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1503"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1504"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1505"
+    }
+  ],
+  "count": 9
+}

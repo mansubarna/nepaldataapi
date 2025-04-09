@@ -1,0 +1,31 @@
+{
+  "localLevel": "Gaumul Rural Municipality",
+  "localLevelId": "70102",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6017"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6018"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6019"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6020"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6021"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6022"
+    }
+  ],
+  "count": 6
+}

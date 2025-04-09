@@ -1,0 +1,83 @@
+{
+  "localLevel": "Biratnagar Metropolitan",
+  "localLevelId": "11214",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/919"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/920"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/921"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/922"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/923"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/924"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/925"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/926"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/927"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/928"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/929"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/930"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/931"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/932"
+    },
+    {
+      "no": "15",
+      "href": "/Ward/Index/933"
+    },
+    {
+      "no": "16",
+      "href": "/Ward/Index/934"
+    },
+    {
+      "no": "17",
+      "href": "/Ward/Index/935"
+    },
+    {
+      "no": "18",
+      "href": "/Ward/Index/936"
+    },
+    {
+      "no": "19",
+      "href": "/Ward/Index/937"
+    }
+  ],
+  "count": 19
+}

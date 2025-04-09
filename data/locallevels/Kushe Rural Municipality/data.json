@@ -1,0 +1,43 @@
+{
+  "localLevel": "Kushe Rural Municipality",
+  "localLevelId": "60702",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5687"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5688"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5689"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5690"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5691"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5692"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5693"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5694"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5695"
+    }
+  ],
+  "count": 9
+}

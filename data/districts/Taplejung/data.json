@@ -1,0 +1,43 @@
+{
+  "district": "Taplejung",
+  "districtId": "101",
+  "localLevels": [
+    {
+      "name": "Aathrai Triveni Rural Municipality",
+      "href": "/LocalLevel/Index/10105"
+    },
+    {
+      "name": "Maiwakhola Rural Municipality",
+      "href": "/LocalLevel/Index/10104"
+    },
+    {
+      "name": "Meringden Rural Municipality",
+      "href": "/LocalLevel/Index/10103"
+    },
+    {
+      "name": "Mikwakhola Rural Municipality",
+      "href": "/LocalLevel/Index/10102"
+    },
+    {
+      "name": "Phaktanglung Rural Municipality",
+      "href": "/LocalLevel/Index/10101"
+    },
+    {
+      "name": "Phungling Municipality",
+      "href": "/LocalLevel/Index/10106"
+    },
+    {
+      "name": "Sidingwa Rural Municipality",
+      "href": "/LocalLevel/Index/10109"
+    },
+    {
+      "name": "Sirijangha Rural Municipality",
+      "href": "/LocalLevel/Index/10108"
+    },
+    {
+      "name": "Pathibhara Yangwarak Rural Municipality",
+      "href": "/LocalLevel/Index/10107"
+    }
+  ],
+  "count": 9
+}

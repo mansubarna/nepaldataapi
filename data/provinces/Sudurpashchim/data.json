@@ -1,0 +1,43 @@
+{
+  "province": "Sudurpashchim",
+  "provinceId": "7",
+  "districts": [
+    {
+      "name": "Achham",
+      "href": "/District/Index/707"
+    },
+    {
+      "name": "Baitadi",
+      "href": "/District/Index/704"
+    },
+    {
+      "name": "Bajhang",
+      "href": "/District/Index/702"
+    },
+    {
+      "name": "Bajura",
+      "href": "/District/Index/701"
+    },
+    {
+      "name": "Dadeldhura",
+      "href": "/District/Index/705"
+    },
+    {
+      "name": "Darchula",
+      "href": "/District/Index/703"
+    },
+    {
+      "name": "Doti",
+      "href": "/District/Index/706"
+    },
+    {
+      "name": "Kailali",
+      "href": "/District/Index/708"
+    },
+    {
+      "name": "Kanchanpur",
+      "href": "/District/Index/709"
+    }
+  ],
+  "count": 9
+}

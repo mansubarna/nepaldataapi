@@ -1,0 +1,39 @@
+{
+  "localLevel": "Gadhawa Rural Municipality",
+  "localLevelId": "51009",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5121"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5122"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5123"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5124"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5125"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5126"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5127"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5128"
+    }
+  ],
+  "count": 8
+}

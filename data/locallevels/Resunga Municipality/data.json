@@ -1,0 +1,63 @@
+{
+  "localLevel": "Resunga Municipality",
+  "localLevelId": "50409",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4536"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4537"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4538"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4539"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4540"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4541"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4542"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4543"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4544"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/4545"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/4546"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/4547"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/4548"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/4549"
+    }
+  ],
+  "count": 14
+}

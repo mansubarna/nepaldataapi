@@ -1,0 +1,63 @@
+{
+  "localLevel": "Gorkha Municipality",
+  "localLevelId": "40109",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3613"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3614"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3615"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3616"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3617"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3618"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3619"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3620"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3621"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/3622"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/3623"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/3624"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/3625"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/3626"
+    }
+  ],
+  "count": 14
+}

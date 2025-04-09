@@ -1,0 +1,31 @@
+{
+  "district": "Tehrathum",
+  "districtId": "108",
+  "localLevels": [
+    {
+      "name": "Aatharai Rural Municipality",
+      "href": "/LocalLevel/Index/10801"
+    },
+    {
+      "name": "Chhathar Rural Municipality",
+      "href": "/LocalLevel/Index/10806"
+    },
+    {
+      "name": "Laligurans Municipality",
+      "href": "/LocalLevel/Index/10805"
+    },
+    {
+      "name": "Menchhayayem Rural Municipality",
+      "href": "/LocalLevel/Index/10803"
+    },
+    {
+      "name": "Myanglung Municipality",
+      "href": "/LocalLevel/Index/10804"
+    },
+    {
+      "name": "Phedap Rural Municipality",
+      "href": "/LocalLevel/Index/10802"
+    }
+  ],
+  "count": 6
+}

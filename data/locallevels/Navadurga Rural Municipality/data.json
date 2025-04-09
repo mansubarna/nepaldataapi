@@ -1,0 +1,27 @@
+{
+  "localLevel": "Navadurga Rural Municipality",
+  "localLevelId": "70501",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6318"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6319"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6320"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6321"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6322"
+    }
+  ],
+  "count": 5
+}

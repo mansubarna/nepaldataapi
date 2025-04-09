@@ -1,0 +1,47 @@
+{
+  "district": "Sankhuwasabha",
+  "districtId": "102",
+  "localLevels": [
+    {
+      "name": "Bhotkhola Rural Municipality",
+      "href": "/LocalLevel/Index/10201"
+    },
+    {
+      "name": "Chainpur Municipality",
+      "href": "/LocalLevel/Index/10208"
+    },
+    {
+      "name": "Chichila Rural Municipality",
+      "href": "/LocalLevel/Index/10204"
+    },
+    {
+      "name": "Dharmadevi Municipality",
+      "href": "/LocalLevel/Index/10210"
+    },
+    {
+      "name": "Khandbari Municipality",
+      "href": "/LocalLevel/Index/10206"
+    },
+    {
+      "name": "Madi Municipality",
+      "href": "/LocalLevel/Index/10209"
+    },
+    {
+      "name": "Makalu Rural Municipality",
+      "href": "/LocalLevel/Index/10202"
+    },
+    {
+      "name": "Panchkhapan Municipality",
+      "href": "/LocalLevel/Index/10207"
+    },
+    {
+      "name": "Sabhapokhari Rural Municipality",
+      "href": "/LocalLevel/Index/10205"
+    },
+    {
+      "name": "Silichong Rural Municipality",
+      "href": "/LocalLevel/Index/10203"
+    }
+  ],
+  "count": 10
+}

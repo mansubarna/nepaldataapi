@@ -1,0 +1,43 @@
+{
+  "localLevel": "Matihani Municipality",
+  "localLevelId": "20414",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1772"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1773"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1774"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1775"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1776"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1777"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1778"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/1779"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/1780"
+    }
+  ],
+  "count": 9
+}

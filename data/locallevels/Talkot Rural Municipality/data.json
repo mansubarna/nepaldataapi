@@ -1,0 +1,35 @@
+{
+  "localLevel": "Talkot Rural Municipality",
+  "localLevelId": "70204",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6100"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6101"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6102"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6103"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6104"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6105"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6106"
+    }
+  ],
+  "count": 7
+}

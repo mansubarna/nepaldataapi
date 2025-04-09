@@ -1,0 +1,27 @@
+{
+  "localLevel": "Silichong Rural Municipality",
+  "localLevelId": "10203",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/73"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/74"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/75"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/76"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/77"
+    }
+  ],
+  "count": 5
+}

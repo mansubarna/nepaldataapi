@@ -1,0 +1,47 @@
+{
+  "localLevel": "Chandrapur Municipality",
+  "localLevelId": "20601",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1993"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1994"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1995"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1996"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1997"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1998"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1999"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2000"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2001"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/2002"
+    }
+  ],
+  "count": 10
+}

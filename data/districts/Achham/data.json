@@ -1,0 +1,51 @@
+{
+  "district": "Achham",
+  "districtId": "707",
+  "localLevels": [
+    {
+      "name": "Bannigadhi Jayagadh Rural Municipality",
+      "href": "/LocalLevel/Index/70707"
+    },
+    {
+      "name": "Chaurpati Rural Municipality",
+      "href": "/LocalLevel/Index/70705"
+    },
+    {
+      "name": "Dhakari Rural Municipality",
+      "href": "/LocalLevel/Index/70709"
+    },
+    {
+      "name": "Kamalbazar Municipality",
+      "href": "/LocalLevel/Index/70708"
+    },
+    {
+      "name": "Khaptad National Park",
+      "href": "#"
+    },
+    {
+      "name": "Mangalsen Municipality",
+      "href": "/LocalLevel/Index/70706"
+    },
+    {
+      "name": "Mellekh Rural Municipality",
+      "href": "/LocalLevel/Index/70703"
+    },
+    {
+      "name": "Panchdeval Binayak Municipality",
+      "href": "/LocalLevel/Index/70701"
+    },
+    {
+      "name": "Ramaroshan Rural Municipality",
+      "href": "/LocalLevel/Index/70702"
+    },
+    {
+      "name": "Sanphebagar Municipality",
+      "href": "/LocalLevel/Index/70704"
+    },
+    {
+      "name": "Turmakhand Rural Municipality",
+      "href": "/LocalLevel/Index/70710"
+    }
+  ],
+  "count": 11
+}

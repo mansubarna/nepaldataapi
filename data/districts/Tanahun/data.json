@@ -1,0 +1,47 @@
+{
+  "district": "Tanahun",
+  "districtId": "407",
+  "localLevels": [
+    {
+      "name": "Bhanu Municipality",
+      "href": "/LocalLevel/Index/40701"
+    },
+    {
+      "name": "Byas Municipality",
+      "href": "/LocalLevel/Index/40702"
+    },
+    {
+      "name": "Myagde Rural Municipality",
+      "href": "/LocalLevel/Index/40703"
+    },
+    {
+      "name": "Shuklagandaki Municipality",
+      "href": "/LocalLevel/Index/40704"
+    },
+    {
+      "name": "Bhimad Municipality",
+      "href": "/LocalLevel/Index/40705"
+    },
+    {
+      "name": "Ghiring Rural Municipality",
+      "href": "/LocalLevel/Index/40706"
+    },
+    {
+      "name": "Devghat Rural Municipality",
+      "href": "/LocalLevel/Index/40708"
+    },
+    {
+      "name": "Rishing Rural Municipality",
+      "href": "/LocalLevel/Index/40707"
+    },
+    {
+      "name": "Bandipur Rural Municipality",
+      "href": "/LocalLevel/Index/40709"
+    },
+    {
+      "name": "Aanbukhaireni Rural Municipality",
+      "href": "/LocalLevel/Index/40710"
+    }
+  ],
+  "count": 10
+}

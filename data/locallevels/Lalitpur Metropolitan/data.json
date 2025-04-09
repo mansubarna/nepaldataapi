@@ -1,0 +1,123 @@
+{
+  "localLevel": "Lalitpur Metropolitan",
+  "localLevelId": "30802",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3011"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3012"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3013"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3014"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3015"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3016"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3017"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3018"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3019"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/3020"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/3021"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/3022"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/3023"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/3024"
+    },
+    {
+      "no": "15",
+      "href": "/Ward/Index/3025"
+    },
+    {
+      "no": "16",
+      "href": "/Ward/Index/3026"
+    },
+    {
+      "no": "17",
+      "href": "/Ward/Index/3027"
+    },
+    {
+      "no": "18",
+      "href": "/Ward/Index/3028"
+    },
+    {
+      "no": "19",
+      "href": "/Ward/Index/3029"
+    },
+    {
+      "no": "20",
+      "href": "/Ward/Index/3030"
+    },
+    {
+      "no": "21",
+      "href": "/Ward/Index/3031"
+    },
+    {
+      "no": "22",
+      "href": "/Ward/Index/3032"
+    },
+    {
+      "no": "23",
+      "href": "/Ward/Index/3033"
+    },
+    {
+      "no": "24",
+      "href": "/Ward/Index/3034"
+    },
+    {
+      "no": "25",
+      "href": "/Ward/Index/3035"
+    },
+    {
+      "no": "26",
+      "href": "/Ward/Index/3036"
+    },
+    {
+      "no": "27",
+      "href": "/Ward/Index/3037"
+    },
+    {
+      "no": "28",
+      "href": "/Ward/Index/3038"
+    },
+    {
+      "no": "29",
+      "href": "/Ward/Index/3039"
+    }
+  ],
+  "count": 29
+}

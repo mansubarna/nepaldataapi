@@ -1,0 +1,51 @@
+{
+  "localLevel": "Simraungadh Municipality",
+  "localLevelId": "20712",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2271"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2272"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2273"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2274"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2275"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2276"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2277"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2278"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2279"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/2280"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/2281"
+    }
+  ],
+  "count": 11
+}

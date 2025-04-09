@@ -1,0 +1,31 @@
+{
+  "localLevel": "Rong Rural Municipality",
+  "localLevelId": "11010",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/663"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/664"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/665"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/666"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/667"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/668"
+    }
+  ],
+  "count": 6
+}

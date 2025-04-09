@@ -1,0 +1,51 @@
+{
+  "district": "Kathmandu",
+  "districtId": "306",
+  "localLevels": [
+    {
+      "name": "Shankharapur Municipality",
+      "href": "/LocalLevel/Index/30601"
+    },
+    {
+      "name": "Kageshwori Manohara Municipality",
+      "href": "/LocalLevel/Index/30602"
+    },
+    {
+      "name": "Gokarneshwor Municipality",
+      "href": "/LocalLevel/Index/30603"
+    },
+    {
+      "name": "Budhanilkantha Municipality",
+      "href": "/LocalLevel/Index/30604"
+    },
+    {
+      "name": "Tokha Municipality",
+      "href": "/LocalLevel/Index/30605"
+    },
+    {
+      "name": "Tarakeshwor Municipality",
+      "href": "/LocalLevel/Index/30606"
+    },
+    {
+      "name": "Nagarjun Municipality",
+      "href": "/LocalLevel/Index/30607"
+    },
+    {
+      "name": "Kathmandu Metropolitan",
+      "href": "/LocalLevel/Index/30608"
+    },
+    {
+      "name": "Kirtipur Municipality",
+      "href": "/LocalLevel/Index/30609"
+    },
+    {
+      "name": "Chandragiri Municipality",
+      "href": "/LocalLevel/Index/30610"
+    },
+    {
+      "name": "Dakshinkali Municipality",
+      "href": "/LocalLevel/Index/30611"
+    }
+  ],
+  "count": 11
+}

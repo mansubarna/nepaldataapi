@@ -1,0 +1,39 @@
+{
+  "localLevel": "Rainadevi Chhahara Rural Municipality",
+  "localLevelId": "50607",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4682"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4683"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4684"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4685"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4686"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4687"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4688"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4689"
+    }
+  ],
+  "count": 8
+}

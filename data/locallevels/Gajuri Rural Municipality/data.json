@@ -1,0 +1,39 @@
+{
+  "localLevel": "Gajuri Rural Municipality",
+  "localLevelId": "30410",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2701"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2702"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2703"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2704"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2705"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2706"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2707"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2708"
+    }
+  ],
+  "count": 8
+}

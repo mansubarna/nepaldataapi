@@ -1,0 +1,31 @@
+{
+  "localLevel": "Gosainkunda Rural Municipality",
+  "localLevelId": "30301",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2606"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2607"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2608"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2609"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2610"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2611"
+    }
+  ],
+  "count": 6
+}

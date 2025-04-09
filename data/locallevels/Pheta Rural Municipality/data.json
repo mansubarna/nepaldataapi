@@ -1,0 +1,35 @@
+{
+  "localLevel": "Pheta Rural Municipality",
+  "localLevelId": "20707",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2215"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2216"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2217"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2218"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2219"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2220"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2221"
+    }
+  ],
+  "count": 7
+}

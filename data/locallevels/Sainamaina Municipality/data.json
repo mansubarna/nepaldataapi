@@ -1,0 +1,51 @@
+{
+  "localLevel": "Sainamaina Municipality",
+  "localLevelId": "50803",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4816"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4817"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4818"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4819"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4820"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4821"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4822"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4823"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4824"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/4825"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/4826"
+    }
+  ],
+  "count": 11
+}

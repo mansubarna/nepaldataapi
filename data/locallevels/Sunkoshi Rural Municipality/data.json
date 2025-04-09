@@ -1,0 +1,35 @@
+{
+  "localLevel": "Sunkoshi Rural Municipality",
+  "localLevelId": "30212",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2599"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2600"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2601"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2602"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2603"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2604"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2605"
+    }
+  ],
+  "count": 7
+}

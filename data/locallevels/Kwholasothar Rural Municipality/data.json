@@ -1,0 +1,43 @@
+{
+  "localLevel": "Kwholasothar Rural Municipality",
+  "localLevelId": "40603",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3832"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3833"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3834"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3835"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3836"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3837"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3838"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3839"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3840"
+    }
+  ],
+  "count": 9
+}

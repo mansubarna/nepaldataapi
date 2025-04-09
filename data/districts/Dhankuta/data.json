@@ -1,0 +1,35 @@
+{
+  "district": "Dhankuta",
+  "districtId": "107",
+  "localLevels": [
+    {
+      "name": "Chaubise Rural Municipality",
+      "href": "/LocalLevel/Index/10707"
+    },
+    {
+      "name": "Chhathar Jorpati Rural Municipality",
+      "href": "/LocalLevel/Index/10703"
+    },
+    {
+      "name": "Dhankuta Municipality",
+      "href": "/LocalLevel/Index/10704"
+    },
+    {
+      "name": "Shahidbhumi Rural Municipality",
+      "href": "/LocalLevel/Index/10705"
+    },
+    {
+      "name": "Mahalaxmi Municipality",
+      "href": "/LocalLevel/Index/10701"
+    },
+    {
+      "name": "Pakhribas Municipality",
+      "href": "/LocalLevel/Index/10702"
+    },
+    {
+      "name": "Sangurigadhi Rural Municipality",
+      "href": "/LocalLevel/Index/10706"
+    }
+  ],
+  "count": 7
+}

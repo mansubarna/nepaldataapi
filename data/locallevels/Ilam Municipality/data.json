@@ -1,0 +1,55 @@
+{
+  "localLevel": "Ilam Municipality",
+  "localLevelId": "11003",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/599"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/600"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/601"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/602"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/603"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/604"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/605"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/606"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/607"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/608"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/609"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/610"
+    }
+  ],
+  "count": 12
+}

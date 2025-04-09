@@ -1,0 +1,51 @@
+{
+  "localLevel": "Galyang Municipality",
+  "localLevelId": "40910",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4145"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4146"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4147"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4148"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4149"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4150"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4151"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4152"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4153"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/4154"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/4155"
+    }
+  ],
+  "count": 11
+}

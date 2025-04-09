@@ -1,0 +1,35 @@
+{
+  "localLevel": "Devtal Rural Municipality",
+  "localLevelId": "20715",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2302"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2303"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2304"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2305"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2306"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2307"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2308"
+    }
+  ],
+  "count": 7
+}

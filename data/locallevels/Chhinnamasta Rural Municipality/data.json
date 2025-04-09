@@ -1,0 +1,35 @@
+{
+  "localLevel": "Chhinnamasta Rural Municipality",
+  "localLevelId": "20118",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/1315"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/1316"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/1317"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/1318"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/1319"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/1320"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/1321"
+    }
+  ],
+  "count": 7
+}

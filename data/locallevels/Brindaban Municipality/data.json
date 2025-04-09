@@ -1,0 +1,43 @@
+{
+  "localLevel": "Brindaban Municipality",
+  "localLevelId": "20605",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/2032"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/2033"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/2034"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/2035"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/2036"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/2037"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/2038"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/2039"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/2040"
+    }
+  ],
+  "count": 9
+}

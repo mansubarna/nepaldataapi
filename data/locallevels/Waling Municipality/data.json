@@ -1,0 +1,63 @@
+{
+  "localLevel": "Waling Municipality",
+  "localLevelId": "40909",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4131"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4132"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4133"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4134"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4135"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4136"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4137"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4138"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4139"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/4140"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/4141"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/4142"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/4143"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/4144"
+    }
+  ],
+  "count": 14
+}

@@ -1,0 +1,43 @@
+{
+  "localLevel": "Raskot Municipality",
+  "localLevelId": "60503",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/5524"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/5525"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/5526"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/5527"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/5528"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/5529"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/5530"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/5531"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/5532"
+    }
+  ],
+  "count": 9
+}

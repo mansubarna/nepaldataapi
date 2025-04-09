@@ -1,0 +1,39 @@
+{
+  "localLevel": "Sisne Rural Municipality",
+  "localLevelId": "50102",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4323"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4324"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4325"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4326"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4327"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4328"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4329"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4330"
+    }
+  ],
+  "count": 8
+}

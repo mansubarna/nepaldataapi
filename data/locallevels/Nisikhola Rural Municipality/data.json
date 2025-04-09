@@ -1,0 +1,35 @@
+{
+  "localLevel": "Nisikhola Rural Municipality",
+  "localLevelId": "41106",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4266"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4267"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4268"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4269"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4270"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4271"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4272"
+    }
+  ],
+  "count": 7
+}

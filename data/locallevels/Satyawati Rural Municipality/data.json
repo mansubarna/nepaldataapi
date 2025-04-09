@@ -1,0 +1,39 @@
+{
+  "localLevel": "Satyawati Rural Municipality",
+  "localLevelId": "50402",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4483"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4484"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4485"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4486"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4487"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4488"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4489"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4490"
+    }
+  ],
+  "count": 8
+}

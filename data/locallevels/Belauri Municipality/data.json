@@ -1,0 +1,47 @@
+{
+  "localLevel": "Belauri Municipality",
+  "localLevelId": "70908",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6729"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6730"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6731"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6732"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6733"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6734"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6735"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6736"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/6737"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/6738"
+    }
+  ],
+  "count": 10
+}

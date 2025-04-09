@@ -1,0 +1,39 @@
+{
+  "district": "Ramechhap",
+  "districtId": "310",
+  "localLevels": [
+    {
+      "name": "Umakunda Rural Municipality",
+      "href": "/LocalLevel/Index/31001"
+    },
+    {
+      "name": "Gokulganga Rural Municipality",
+      "href": "/LocalLevel/Index/31002"
+    },
+    {
+      "name": "Likhu Tamakoshi Rural Municipality",
+      "href": "/LocalLevel/Index/31003"
+    },
+    {
+      "name": "Ramechhap Municipality",
+      "href": "/LocalLevel/Index/31004"
+    },
+    {
+      "name": "Manthali Municipality",
+      "href": "/LocalLevel/Index/31005"
+    },
+    {
+      "name": "Khandadevi Rural Municipality",
+      "href": "/LocalLevel/Index/31006"
+    },
+    {
+      "name": "Doramba Rural Municipality",
+      "href": "/LocalLevel/Index/31007"
+    },
+    {
+      "name": "Sunapati Rural Municipality",
+      "href": "/LocalLevel/Index/31008"
+    }
+  ],
+  "count": 8
+}

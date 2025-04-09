@@ -1,0 +1,27 @@
+{
+  "localLevel": "Mallarani Rural Municipality",
+  "localLevelId": "50307",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4459"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4460"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4461"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4462"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4463"
+    }
+  ],
+  "count": 5
+}

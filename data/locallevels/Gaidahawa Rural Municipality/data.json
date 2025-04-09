@@ -1,0 +1,43 @@
+{
+  "localLevel": "Gaidahawa Rural Municipality",
+  "localLevelId": "50805",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4832"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4833"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4834"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4835"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4836"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4837"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4838"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4839"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4840"
+    }
+  ],
+  "count": 9
+}

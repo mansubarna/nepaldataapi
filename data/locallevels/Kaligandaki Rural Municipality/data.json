@@ -1,0 +1,35 @@
+{
+  "localLevel": "Kaligandaki Rural Municipality",
+  "localLevelId": "40911",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4156"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4157"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4158"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4159"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4160"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4161"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4162"
+    }
+  ],
+  "count": 7
+}

@@ -1,0 +1,43 @@
+{
+  "localLevel": "Bagmati Rural Municipality",
+  "localLevelId": "31210",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/3443"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/3444"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/3445"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/3446"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/3447"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/3448"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/3449"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/3450"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/3451"
+    }
+  ],
+  "count": 9
+}

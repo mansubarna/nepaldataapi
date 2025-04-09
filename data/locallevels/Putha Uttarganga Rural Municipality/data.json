@@ -1,0 +1,63 @@
+{
+  "localLevel": "Putha Uttarganga Rural Municipality",
+  "localLevelId": "50101",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/4309"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/4310"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/4311"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/4312"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/4313"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/4314"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/4315"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/4316"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/4317"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/4318"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/4319"
+    },
+    {
+      "no": "12",
+      "href": "/Ward/Index/4320"
+    },
+    {
+      "no": "13",
+      "href": "/Ward/Index/4321"
+    },
+    {
+      "no": "14",
+      "href": "/Ward/Index/4322"
+    }
+  ],
+  "count": 14
+}

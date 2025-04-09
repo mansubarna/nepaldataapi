@@ -1,0 +1,51 @@
+{
+  "localLevel": "Bungal Municipality",
+  "localLevelId": "70202",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6084"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6085"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6086"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6087"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6088"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6089"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6090"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6091"
+    },
+    {
+      "no": "9",
+      "href": "/Ward/Index/6092"
+    },
+    {
+      "no": "10",
+      "href": "/Ward/Index/6093"
+    },
+    {
+      "no": "11",
+      "href": "/Ward/Index/6094"
+    }
+  ],
+  "count": 11
+}

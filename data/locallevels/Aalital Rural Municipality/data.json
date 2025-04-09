@@ -1,0 +1,39 @@
+{
+  "localLevel": "Aalital Rural Municipality",
+  "localLevelId": "70506",
+  "wards": [
+    {
+      "no": "1",
+      "href": "/Ward/Index/6357"
+    },
+    {
+      "no": "2",
+      "href": "/Ward/Index/6358"
+    },
+    {
+      "no": "3",
+      "href": "/Ward/Index/6359"
+    },
+    {
+      "no": "4",
+      "href": "/Ward/Index/6360"
+    },
+    {
+      "no": "5",
+      "href": "/Ward/Index/6361"
+    },
+    {
+      "no": "6",
+      "href": "/Ward/Index/6362"
+    },
+    {
+      "no": "7",
+      "href": "/Ward/Index/6363"
+    },
+    {
+      "no": "8",
+      "href": "/Ward/Index/6364"
+    }
+  ],
+  "count": 8
+}
