@@ -151,7 +151,7 @@ export default function Home() {
           {/* GitHub Button Column */}
           <div className="text-center md:text-right">
             <a
-              href="https://github.com/your-username/your-repo" // Replace with your actual GitHub link
+              href="https://github.com/mansubarna/nepaldataapi" 
               target="_blank"
               rel="noreferrer"
               className="flex items-center justify-center bg-[#333]
