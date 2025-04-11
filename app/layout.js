@@ -42,7 +42,7 @@ export default function RootLayout({ children }) {
             <div className="bg-[#F0F8FF] border-l-4 border-[#003893] p-4 rounded shadow-sm mb-6">
               <h2 className="text-lg font-semibold text-[#003893] mb-2">📘 Overview</h2>
               <p className="text-sm text-gray-700">
-                This project lets you fetch real-time data for Nepal's administrative levels, such as provinces, districts, local levels, and wards.
+                This project lets you fetch real-time data for Nepal's administrative levels, such as provinces, districts, local levels, and wards. This is an educational API project created to practice building RESTful APIs using Next.js.
               </p>
             </div>
             {children}
